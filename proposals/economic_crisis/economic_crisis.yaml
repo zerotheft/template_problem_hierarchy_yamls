@@ -1,0 +1,375 @@
+# {~C~} ZeroTheft.net {~C~}
+# economic_crisis
+
+# {~C~} The following is a template to use when authoring a new proposal for the problem for this path {~C~}
+# {~C~} Provided are: {~C~}
+# {~C~} - an overview of the problem {~C~}
+# {~C~} - some ideas you can use to build your case {~C~}
+# {~C~} - extensive researched data you can use to back up your reasoning {~C~}
+# {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
+
+# The following summary is not an exact amount, but an opinion on an approximation
+# Citizens are often powerless.  
+# The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
+# When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
+summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+summary_year: ~C~2019~C~
+summary_country: USA
+hierarchy: economic_crisis
+title: Economic Crisis is a fallout of a Rigged Economy
+
+author:
+    name: ~C~anonymous~C~
+    email: ~C~anonymous@example.com~C~
+
+# {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
+describe_problem_area: |
+    The Great Recession of 2008 didn't happen suddently. Actually it started years earlier with cheap lending issue. A Recession cost jobs and loss in billions. We try to present here some details with relation to the Economic crisis.
+  
+# {~C~} The following are questions you may want to answer in building your case. {~C~}
+# {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
+# {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
+reasoning: |
+    ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
+    ~C~because of this.~C~
+    
+# {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
+# {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
+# {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
+reasoning_on_size_of_problem:
+    - reasoning: |
+       ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
+    - how_summary_is_calculated: |
+       ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
+       
+# {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
+size_of_problem:
+    average_unemployement_rate_and_long_term_unemployment_rate:
+      source: https://www.bls.gov/spotlight/2012/recession/data_cps_unemp_1948.htm
+      average_rates:
+        1948: "unemployment_rate:3.8%, long_term_unemployment_rate: 0.2%"
+        1958: "unemployment_rate:6.8%, long_term_unemployment_rate: 1%"
+        1968: "unemployment_rate:3.6%, long_term_unemployment_rate: 0.2%"
+        1978: "unemployment_rate:6.1%, long_term_unemployment_rate: 0.6%"
+        1988: "unemployment_rate:5.5%, long_term_unemployment_rate: 0.7%"
+        1998: "unemployment_rate:4.5%, long_term_unemployment_rate: 0.6%"
+        2005: "unemployment_rate:5.1%, long_term_unemployment_rate: 1%"
+        2006: "unemployment_rate:4.6%, long_term_unemployment_rate: 0.8%"
+        2007: "unemployment_rate:4.6%, long_term_unemployment_rate: 0.8%"
+        2008: "unemployment_rate:5.8%, long_term_unemployment_rate: 1.2%"
+        2009: "unemployment_rate:9.3%, long_term_unemployment_rate: 2.9%"
+        2010: "unemployment_rate:9.6%, long_term_unemployment_rate: 4.2%"
+        2011: "unemployment_rate:9%, long_term_unemployment_rate: 3.9%"
+
+    annual_growth_of_the_real_gross_domestic_product(GDP)_of_the_United_States_from_1990_to_2020:
+      source: https://www.statista.com/statistics/188165/annual-gdp-growth-of-the-united-states-since-1990/
+      annual_growth_rate:
+        1990: 1.9%
+        1991: -0.1%  
+        1992: 3.5%
+        1993: 2.8%
+        1994: 4%
+        1995: 2.7%
+        1996: 3.8%
+        1997: 4.4%
+        1998: 4.5%
+        1999: 4.8%
+        2000: 4.1%
+        2001: 1%
+        2002: 1.7%
+        2003: 2.9%
+        2004: 3.8%
+        2005: 3.5%
+        2006: 2.9%
+        2007: 1.9%
+        2008: -0.1%
+        2009: -2.5%
+        2010: 2.6%
+        2011: 1.6%
+        2012: 2.2%
+        2013: 1.8%
+        2014: 2.5%
+        2015: 3.1%
+        2016: 1.7%
+        2017: 2.3%
+        2018: 3%
+        2019: 2.2%
+        2020: -3.5%
+
+    private_capital_raised_between_Jan_1_2007_and_Oct_13_2008_for_the_nine_banks_receiving_initial_government_investments:
+      source: https://www.brookings.edu/wp-content/uploads/2018/08/2018-09-10-10am-FINAL-Crisis-deck-00-85.pdf
+      private_capital_raised(in_billions):
+        citigroup: $43.2 billion
+        bank_of_america: $33.5 billion
+        JPMorgan_chase: $25.9 billion
+        wells_fargo: $8.5 billion
+        goldman_sachs: $13.0 billion
+        morgan_stanley: $15.4 billion
+        merrill_lynch: $23.4 billion
+        bny_mellon: $0
+        state_street: $4.1 billion
+
+#Fannie Mae reports $1.4 billion loss on Nov. 9, 2007, amid deteriorating loan delinquencies.
+#Freddie Mac reports $2 billion net loss and low capital reserves,Nov. 20, 2007
+#source: https://www.brookings.edu/wp-content/uploads/2018/08/2018-09-10-10am-FINAL-Crisis-deck-00-85.pdf
+
+    stock_prices_of_FNMA(federal_national_mortgage_association):
+      source: https://finance.yahoo.com/quote/FNMA/history?p=FNMA
+      adjusted_closing_price_per_quarter:
+         2021: "january: 1.9600"   
+         2020: "Q1: 1.5900, Q2: 2.1700, Q3: 2.0200, Q4: 2.3900"
+         2010: "Q1: 1.0500, Q2: 0.3400, Q3: 0.2700, Q4: 0.3000"
+         2009: "Q1: 0.7000, Q2: 0.5800, Q3: 1.5200, Q4: 1.1800"
+         2008: "Q1: 25.8530, Q2: 19.3831, Q3: 1.5300, Q4: 0.7600"
+         2007: "Q1: 51.7336, Q2: 62.4469, Q3: 58.6060, Q4: 38.8546"
+         2006: "Q1: 47.6573, Q1: 44.8240, Q3: 52.3852, Q4: 55.8885"
+      
+    stock_prices_of_freddie_mac:
+      source: https://finance.yahoo.com/quote/FMCC/history?period1=1133395200&period2=1299801600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+      adjusted_closing_price_per_quarter:
+         2021: "january: 1.9100"
+         2020: "Q1: 1.4000, Q2: 2.1900, Q3: 1.9100, Q4: 2.3300"   
+         2010: "Q1: 1.2700, Q2: 0.4100, Q3: 0.3000, Q4: 0.3000"
+         2009: "Q1: 0.7600 , Q2: 0.6200, Q3: 1.8000, Q4: 1.4700"
+         2008: "Q1: 24.7150, Q2: 16.2104, Q3: 1.7100, Q4: 0.7300"
+         2007: "Q1: 56.2146, Q2: 57.8238, Q3: 56.6406, Q4: 32.9826"
+         2006: "Q1: 55.9448, Q1: 52.6623, Q3: 61.7683, Q4: 63.6973"
+
+    stock_market(NASDAQ):
+      source: https://finance.yahoo.com/quote/%5EIXIC/history?period1=1136678400&period2=1262908800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+      adjusted_closing_price_per_quarter:
+         2021: "january: 13,067.48"
+         2020: "Q1: 7,700.10, Q2: 10,058.77, Q3: 11,167.51, Q4: 12,888.28"
+         2010: "Q1: 2,397.96, Q2: 2,109.24, Q3: 2,368.62, Q4: 2,652.87"
+         2009: "Q1: 1,528.59, Q2: 1,835.04, Q3: 2,122.42, Q4: 2,269.15"
+         2008: "Q1: 2,279.10, Q2: 2,292.98, Q3: 2,091.88, Q4: 1,577.03"
+         2007: "Q1: 2,421.64, Q2: 2,603.23, Q3: 2,701.50, Q4: 2,652.28"
+         2006: "Q1: 2,339.79, Q1: 2,172.09, Q3: 2,258.43, Q4: 2,415.29"
+
+
+    profit_made_by_U.S_taxpayers_on_the_financial_rescue:
+      source: https://www.brookings.edu/wp-content/uploads/2018/08/2018-09-10-10am-FINAL-Crisis-deck-00-85.pdf
+      income_or_cost_of_financial_stability_program:
+        capital_investments:
+          GSEs: $94.3 billion
+          AIG: $22.7 billion
+          CPP: $21.5 billion
+          citigroup: $6.6 billion
+          bank_of_america: $3.1 billion
+          GMAC/Ally: $2.4 billion
+          CDCI: $0.3 billion
+          chrysler_financial: $0 
+          chrysler: $-1.3 billion
+          GM: $-10.5 billion
+
+        liquidity/credit_markets:
+          GSE_debt_purchases: $12.9 billion
+          CPFF: $6.1 billion
+          TAF: $4.1 billion
+          PPIP: $3.9 billion
+          TALF: $2.1 billion
+          TSLF: $0.8 billion
+          ML: $0.8 billion
+          PDCF: $0.6 billion
+          ABCP/MMLF: $0.5 billion
+          section_7a: $0
+
+        FDIC_resolution:
+          cumulative_income_2008_to_2010: $45.4 billion
+          DIF_losses_2008_to_2010: -$77.5 billion
+
+        guarantee_programs:
+            TLGP/DGP: $10.2 billion
+            MMF_guarantee: $1.2 billion
+            TAG: $-0.9 billion
+
+    direct_fiscal_cost/revenue_of_financial_crisis_situations_as_a_share_of_GDP:
+      source: https://www.brookings.edu/wp-content/uploads/2018/08/2018-09-10-10am-FINAL-Crisis-deck-00-85.pdf
+      data:
+        IMF_estimate_of_U.S_response_to_the_2008_to_2009_financial_crisis: -12.7% of GDP
+        average_cost_of_recent_crises_in_emerging_and_developed_countries: -10.0% of GDP
+        cost_of_the_U.S._savings_and_loan_crisis: -2.4% of GDP
+        total_direct_fnancial_return_to_the_taxpayer_from the_fnancial-rescue(2007-16): +0.78% of GDP
+
+# {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
+quotes:
+    - quote: 1
+      topic: "The American Economy Is Rigged"
+      source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
+      url: https://www.scientificamerican.com/article/the-american-economy-is-rigged/
+      description: |
+        President Donald Trump was right in saying that the system is rigged—by those in the inherited plutocracy of which he himself is a member. And he is making it much, much worse.
+
+        This fictional narrative may at one time have assuaged the guilt of those at the top and persuaded everyone else to accept this sorry state of affairs. Perhaps the defining moment exposing the lie was the 2008 financial crisis, when the bankers who brought the global economy to the brink of ruin with predatory lending, market manipulation and various other antisocial practices walked away with millions of dollars in bonuses just as millions of Americans lost their jobs and homes and tens of millions more worldwide suffered on their account.
+
+        Artificially low interest rates, especially if coupled with inadequate financial market regulation, can give rise to bubbles, which is what happened with the 2008 housing crisis.
+
+    - quote: 2
+      topic: "Financial Crisis Quotes"
+      source: "BrainyQuote, Chrystia Freeland"
+      url: https://www.brainyquote.com/quotes/chrystia_freeland_822721?src=t_financial_crisis
+      description: |
+        Sometimes, the aftermath is more devastating than the storm. That is the story of the 2008 financial crisis. It was disastrous at the time, but what has been worse is how long it has lingered - Chrystia Freeland.
+
+    - quote: 3
+      topic: "Financial Crisis Quotes"
+      source: "BrainyQuote, Jerome Powell"
+      url: https://www.brainyquote.com/quotes/jerome_powell_857792?src=t_financial_crisis
+      description: |
+        The financial crisis and the Great Recession posed the most significant macroeconomic challenges for the United States in a half-century, leaving behind high unemployment and below-target inflation and calling for highly accommodative monetary policies.
+
+    - quote: 4
+      topic: "Financial Crisis Quotes"
+      source: "BrainyQuote, John Paulson"
+      url: https://www.brainyquote.com/quotes/john_paulson_863891?src=t_financial_crisis
+      description: |
+        The financial crisis was linked to the fact that banks had excessive leverage and too many risky assets. The solution is not to try to dictate to banks what they can do or not do, but to require them to strengthen their capital to absorb potential losses and hold less risky assets.
+
+    - quote: 4
+      topic: "Financial Crisis Quotes"
+      source: "BrainyQuote, Gary Weiss"
+      url: https://www.brainyquote.com/quotes/gary_weiss_739970?src=t_financial_crisis
+      description: |
+        The heart of the 2008 financial crisis was a coterie of reckless financial executives, working for too-big-to-fail financial companies, who were handsomely compensated for taking risks that almost ruined the economy when they failed.
+
+    - quote: 5
+      topic: "Stress Test Quotes"
+      source: "goodreads, Timothy Geithner"
+      url: https://www.goodreads.com/work/quotes/40316935-stress-test-reflections-on-financial-crises
+      description: |
+        The rating agencies were not exceedingly competent.
+
+    - quote: 6
+      topic: "100 Quotes from the Global Financial Crisis: Lessons for the future"
+      source: "SSRN, Peterson K Ozili, January 1, 2020"
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3500921e
+      description: |
+        The financial crisis should not become an excuse to raise taxes, which would only undermine the economic growth required to regain  our strength.” –  George W Bush,  Former U.S. President. 
+
+        We need to think deeply about whether we can sustain banks that are not only too big to fail, but potentially too big to bail. - British Economist.
+
+    - quote: 7
+      topic: "What Caused the Financial Crisis? Quotes by Bankers and Other Experts"
+      source: "Responsiblelending.org"
+      url: https://www.responsiblelending.org/mortgage-lending/tools-resources/Quotes-What-Caused-Crisis.pdf
+      description: |
+        Jamie Dimon, Chairman and CEO, JPMorgan Chase & Co.
+        “The mortgage market meltdown occurred for a number of reasons, but new and poorly
+        underwritten mortgage products were a significant contributor… “
+        - Testimony to Financial Crisis Inquiry Commission (FCIC)
+        Washington, D.C. – January 13, 2010 
+
+    - quote: 8
+      topic: "Quotes of the Crisis"
+      source: "thefinanser, September 15 2008"
+      url: https://thefinanser.com/2009/09/quotes-of-the-crisis.html/
+      description: |
+        “I’ve been on Wall Street for many years and I’ve never seen a weekend like this one. We are unwinding what has been years of silliness in the financial markets, and the silliness is being vaporised as we speak, unfortunately with the stock price of a number of companies involved in it.”
+
+        Michael Holland, Chairman and Founder of Holland & Co, in an interview with Bloomberg.
+
+    - quote: 9
+      topic: "THE FINANCIAL CRISIS 2008 FAMOUS QUOTES & SAYINGS"
+      source: "QuotesStats"
+      url: https://quotestats.com/topic/quotes-about-the-financial-crisis-2008/
+      description: |
+        Capitalism has become systemically risky when a single financial algorithm like the one that David X. Li created brought the entire global economic system close to collapse in 2008. - Author: Said Elias Dawlabani
+
+    
+# {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
+resources:
+    - sites:
+      - https://www.bls.gov/spotlight/2012/recession/data_cps_unemp_1948.htm
+      - https://www.statista.com/statistics/188165/annual-gdp-growth-of-the-united-states-since-1990/
+      - https://www.brookings.edu/wp-content/uploads/2018/08/2018-09-10-10am-FINAL-Crisis-deck-00-85.pdf
+      - https://finance.yahoo.com/quote/FNMA/history?p=FNMA
+      - https://finance.yahoo.com/quote/FMCC/history?period1=1133395200&period2=1299801600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+      - https://finance.yahoo.com/quote/%5EIXIC/history?period1=1136678400&period2=1262908800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+   
+    - articles:
+      - topic: "The American Economy Is Rigged"
+        source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
+        url: https://www.scientificamerican.com/article/the-american-economy-is-rigged/
+
+      - topic: "Financial Crisis Quotes"
+        source: "BrainyQuote, Chrystia Freeland"
+        url: https://www.brainyquote.com/quotes/chrystia_freeland_822721?src=t_financial_crisis
+
+      - topic: "Financial Crisis Quotes"
+        source: "BrainyQuote, Jerome Powell"
+        url: https://www.brainyquote.com/quotes/jerome_powell_857792?src=t_financial_crisis
+
+      - topic: "Financial Crisis Quotes"
+        source: "BrainyQuote, John Paulson"
+        url: https://www.brainyquote.com/quotes/john_paulson_863891?src=t_financial_crisis
+
+      - topic: "Financial Crisis Quotes"
+        source: "BrainyQuote, Gary Weiss"
+        url: https://www.brainyquote.com/quotes/gary_weiss_739970?src=t_financial_crisis
+
+      - topic: "Stress Test Quotes"
+        source: "goodreads, Timothy Geithner"
+        url: https://www.goodreads.com/work/quotes/40316935-stress-test-reflections-on-financial-crises
+
+      - topic: "100 Quotes from the Global Financial Crisis: Lessons for the future"
+        source: "SSRN, Peterson K Ozili, January 1, 2020"
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3500921e
+
+      - topic: "What Caused the Financial Crisis? Quotes by Bankers and Other Experts"
+        source: "Responsiblelending.org"
+        url: https://www.responsiblelending.org/mortgage-lending/tools-resources/Quotes-What-Caused-Crisis.pdf
+
+      - topic: "Quotes of the Crisis"
+        source: "thefinanser, September 15 2008"
+        url: https://thefinanser.com/2009/09/quotes-of-the-crisis.html/
+
+      - topic: "THE FINANCIAL CRISIS 2008 FAMOUS QUOTES & SAYINGS"
+        source: "QuotesStats"
+        url: https://quotestats.co- topic/quotes-about-the-financial-crisis-2008/
+
+# {~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
+# {~C~} It can also list the key year (or years) of the problem.
+years_covered:
+    - data_range:
+      - from: 1948
+      - to: 2020
+
+license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+## Formatting Large Numbers
+# All large numbers, particularly currency, (over 1 million -- 1,000,000) should be formatted as the number, 
+# followed by a quick-read version in parentheses.  We will format the quick-read version as follows:
+#
+# $1,734,153,561,230 ($1.7 trillion)
+# $734,153,561,230 ($734 billion)
+# $34,153,561,230 ($34 billion)
+# $4,153,561,230 ($4.2 billion)
+# $153,561,230 ($154 million)
+# $53,561,230 ($54 million)
+# $3,561,230 ($3.6 million)
+
+## Formatting Sources
+# A Source is a human-readable indicator of where data or a quote came from.  All sources should follow a standard format.
+#
+# Sites: Web sites should give the common name of the site (or specific section of a larger site).
+#
+#   Investopedia - Article Title
+#   Wikipedia - Article Title
+#   Yahoo Finance
+#   Joe’s Blog - Article Title
+#   US Bureau of Data
+#
+# Books: Books should give the title, author, and year of publication.  Title should be quoted. Optional chapter and page keys can also be provided.
+# Due to YAML requirements, the entire string should be wrapped in single quotes to properly encapsulate the quoted title.
+#
+#   '“A Book Title”, Arthur A. Author, 2018'
+#
+#   source: '“Another Book Title”, Anne B. Writer, 2016'
+#   chapter: “Chapter 3”
+#
+# Articles: Articles should give the title, publication, and publication date.  Author is optional.  Title should be quoted.
+# Due to YAML requirements, the entire string should be wrapped in single quotes to properly encapsulate the quoted title.
+# 
+#  '“An Article Title”, The Newspaper, November 6, 2017'
+#  '"Another Article Title”, The Magazine, March 2016'
+#  '“Yet Another Article Title”, J. Reporter, The Weekly Magazine, May 10, 1996'

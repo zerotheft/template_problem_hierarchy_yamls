@@ -1,0 +1,298 @@
+# {~C~}ZeroTheft.net{~C~}
+# economic_crisis/2008_mortgage
+
+# {~C~} The following is a template to use when authoring a new proposal for the problem for this path {~C~}
+# {~C~} Provided are: {~C~}
+# {~C~} - an overview of the problem {~C~}
+# {~C~} - some ideas you can use to build your case {~C~}
+# {~C~} - extensive researched data you can use to back up your reasoning {~C~}
+# {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
+
+# The following summary is not an exact amount, but an opinion on an approximation
+# Citizens are often powerless.  
+# The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
+# When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
+summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+summary_year: ~C~2008~C~
+summary_country: USA
+hierarchy: economic_crisis/2008_mortgage
+title: The 2008 Mortgage Crisis resulted in a massive loss to taxpayers to the complete benefit of Wall Street.
+
+author:
+    name:  ~C~anonymous~C~
+    email:  ~C~anonymous@example.com~C~
+
+#  This describes the problem.  You may want to edit this in your proposal. 
+describe_problem_area: |
+    The 2008 Mortgage Crisis resulted in a massive loss to taxpayers to the complete benefit of Wall Street.
+  #~C~Provide a detailed description of the problem here.~C~  
+  #~C~You can add new paragraphs by adding a blank line between blocks of text.~C~
+   
+  
+#  The following are questions you may want to answer in building your case. 
+#  Your reasoning should provide a strong case for how the economy is being rigged against citizens. 
+#  These are just examples and ideas to get you started.  You should delete them and build your own arguments. 
+reasoning: |
+     Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not) 
+     because of this. 
+    
+#  The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. 
+#  Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. 
+#  These are just examples and ideas to get you started.  You should delete them and build your own arguments. 
+reasoning_on_size_of_problem:
+    - reasoning: |
+        Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary. 
+    - how_summary_is_calculated: |
+        Provide the formula or method you used to reach the number you specified in Summary. 
+       
+# {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
+size_of_problem:
+    stock_market(NASDAQ):
+      source: "https://finance.yahoo.com/quote/%5EIXIC/history?period1=1136678400&period2=1262908800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 13,067.48"
+         2020: "Q1: 7,700.10, Q2: 10,058.77, Q3: 11,167.51, Q4: 12,888.28"
+         2010: "Q1: 2,397.96, Q2: 2,109.24, Q3: 2,368.62, Q4: 2,652.87"
+         2009: "Q1: 1,528.59, Q2: 1,835.04, Q3: 2,122.42, Q4: 2,269.15"
+         2008: "Q1: 2,279.10, Q2: 2,292.98, Q3: 2,091.88, Q4: 1,577.03"
+         2007: "Q1: 2,421.64, Q2: 2,603.23, Q3: 2,701.50, Q4: 2,652.28"
+         2006: "Q1: 2,339.79, Q1: 2,172.09, Q3: 2,258.43, Q4: 2,415.29"
+
+    stock_market(mini_dow_jones_indus):
+      source: "https://finance.yahoo.com/quote/YM%3DF/history?period1=1136073600&period2=1262304000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 30,942"
+         2020: "Q1: 21,751, Q2: 25,689, Q3: 27,664, Q4: 30,497"
+         2010: "Q1: 10,797, Q2: 9,716, Q3: 10,723.00, Q4: 11,513"
+         2009: "Q1: 7,562, Q2: 8,394, Q3: 9,653, Q4: 10,365"
+         2008: "Q1: 12,257, Q2: 11,339, Q3: 10,861, Q4: 8,727"
+         2007: "Q1: 12,440, Q2: 13,517, Q3: 13,994, Q4: 13,328"
+         2006: "Q1: 11,195, Q1: 11,247, Q3: 11,749, Q4: 12,539"
+       
+    stock_market(S&P):
+      source: "https://finance.yahoo.com/quote/ES%3DF/history?period1=1136678400&period2=1291766400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 3,795.50"
+         2020: "Q1: 2,569.75, Q2: 3,090.25, Q3: 3,352.00, Q4: 3,748.75"
+         2010: "Q1: 1,165.25, Q2: 1,026.50, Q3: 1,136.75, Q4: 1,253.00"
+         2009: "Q1: 794.75, Q2: 915.50, Q3: 1,053.00, Q4: 1,110.75"
+         2008: "Q1: 1,324.00, Q2: 1,281.00, Q3: 1,169.00, Q4: 900.00"
+         2007: "Q1: 1,431.25, Q2: 1,515.50, Q3: 1,538.00, Q4: 1,477.25"
+         2006: "Q1: 1,307.50, Q1: 1,279.50, Q3: 1,345.50, Q4: 1,428.50"
+    
+    stock_prices(AIG):
+      source: "https://finance.yahoo.com/quote/AIG/history?period1=1136073600&period2=1262304000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 40.89"        
+         2020: "Q1: 23.25, Q2: 30.28, Q3: 27.01, Q4: 37.55"
+         2010: "Q1: 24.05, Q2: 24.26, Q3: 27.54, Q4: 40.59"
+         2009: "Q1: 14.09, Q2: 16.34, Q3: 31.07, Q4: 21.12"
+         2008: "Q1: 597.28, Q2: 367.01, Q3: 46.45, Q4: 22.12"
+         2007: "Q1: 920.07, Q2: 960.74, Q3: 928.09, Q4: 802.23"
+         2006: "Q1: 897.31, Q1: 802.26, Q3: 902.56, Q4: 978.42"
+
+    stock_prices_of_FNMA(federal_national_mortgage_association):
+      source: "https://finance.yahoo.com/quote/FNMA/history?p=FNMA"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 1.9600"   
+         2020: "Q1: 1.5900, Q2: 2.1700, Q3: 2.0200, Q4: 2.3900"
+         2010: "Q1: 1.0500, Q2: 0.3400, Q3: 0.2700, Q4: 0.3000"
+         2009: "Q1: 0.7000, Q2: 0.5800, Q3: 1.5200, Q4: 1.1800"
+         2008: "Q1: 25.8530, Q2: 19.3831, Q3: 1.5300, Q4: 0.7600"
+         2007: "Q1: 51.7336, Q2: 62.4469, Q3: 58.6060, Q4: 38.8546"
+         2006: "Q1: 47.6573, Q1: 44.8240, Q3: 52.3852, Q4: 55.8885"
+        
+    stock_prices_of_freddie_mac:
+      source: "https://finance.yahoo.com/quote/FMCC/history?period1=1133395200&period2=1299801600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 1.9100"
+         2020: "Q1: 1.4000, Q2: 2.1900, Q3: 1.9100, Q4: 2.3300"   
+         2010: "Q1: 1.2700, Q2: 0.4100, Q3: 0.3000, Q4: 0.3000"
+         2009: "Q1: 0.7600 , Q2: 0.6200, Q3: 1.8000, Q4: 1.4700"
+         2008: "Q1: 24.7150, Q2: 16.2104, Q3: 1.7100, Q4: 0.7300"
+         2007: "Q1: 56.2146, Q2: 57.8238, Q3: 56.6406, Q4: 32.9826"
+         2006: "Q1: 55.9448, Q1: 52.6623, Q3: 61.7683, Q4: 63.6973"
+
+    stock_prices_of_the_goldman_sachs_group:
+      source: "https://finance.yahoo.com/quote/GS/history?period1=1134259200&period2=1299801600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 290.08" 
+         2020: "Q1: 151.88, Q2: 195.37, Q3: 199.88, Q4: 262.28" 
+         2010: "Q1: 145.36, Q2: 112.11, Q3: 123.79, Q4: 144.29" 
+         2009: "Q1: 89.50, Q2: 124.79, Q3: 156.36, Q4: 143.51"
+         2008: "Q1: 137.92, Q2: 146.12, Q3: 107.14, Q4: 70.85"
+         2007: "Q1: 171.15, Q2: 179.82, Q3: 180.14, Q4: 179.01"
+         2006: "Q1: 128.97, Q1: 123.86, Q3: 139.62, Q4: 164.85"
+       
+    stock_prices_of_morgan_stanley:
+      source: "https://finance.yahoo.com/quote/MS/history?p=MS"
+      adjusted_closing_price_per_quarter:
+         2021: "january: 75.25"
+         2020: "Q1: 33.22, Q2: 47.61, Q3: 47.99, Q4: 68.53"
+         2010: "Q1: 24.35, Q2: 19.32, Q3: 20.59, Q4: 22.74"
+         2009: "Q1: 18.77, Q2: 23.58, Q3: 25.58, Q4: 24.56"
+         2008: "Q1: 36.22, Q2: 28.75, Q3: 18.47, Q4: 13.04"
+         2007: "Q1: 50.95, Q2: 54.45, Q3: 49.45, Q4: 41.85"
+         2006: "Q1: 40.02, Q1: 40.44, Q3: 46.84, Q4: 52.50"
+    
+    the_state_of_the_bailout:
+      source: "https://projects.propublica.org/bailout/"
+      bailout_state:
+       - outflows: $634.0 billion (This includes money that has actually been spent, invested, or loaned.)
+         amount_spend_on:
+            - banks_and_other_financial_institutions: $245.2 billion
+            - fannie_and_freddie: $191.5 billion
+            - auto_companies: $79.7 billion
+            - AIG: $67.9 billion
+            - other: $31.2 billion
+            - toxic_asset_purchases: $19.6 billion
+
+       - inflow: $743.8 billion (Money returned and paid to Treasury as interest, dividends, fees or to repurchase their stock warrants.)
+         amount_came_from:
+            - refunds: $390.3 billion
+            - revenue: $353.5 billion
+
+       - profit: $109.8 billion 
+    
+#  This section contains quotes that may be useful in backing up your reasoning. 
+quotes:
+    - quote: 1
+      topic: "Bailout Tracker, Tracking Every Dollar and Every Recipient"
+      source: "propublica, Paul Kiel and Dan Nguyen, April 15, 2009"
+      url: "https://projects.propublica.org/bailout/"
+      description: |
+        We're tracking where taxpayer money has gone in the ongoing bailout of the financial system. Our database accounts for both the broader $700 billion bill and the separate bailout of Fannie Mae and Freddie Mac.
+
+        Altogether, accounting for both the TARP and the Fannie and Freddie bailout, $634B has gone out the door.
+
+        Money has been coming back in two ways: $390B of principal has been repaid, and the Treasury has collected revenue from its investments of $353B.
+
+        In total, the government has realized a $110B profit as of november 9, 2020.
+
+        The Treasury is authorized to spend $475 billion of the TARP (In july 2010, the financial regulation overhaul reduced TARP’s spending cap to $475 billion from the original $700 billion.). It has created 13 different programs, to which it has promised $578 billion.
+
+        The government committed bailout money to 984 recipients. Those recipients have received a total of $443 billion. A total of $390 billion has been returned.
+
+        The total amount invested in Fannie and Freddie so far is $191 Billion.
+
+        The companies have not repaid any of the principal, but the companies have been paying dividends, which have so far amounted to $301 Billion.
+
+    - quote: 2
+      topic: "Subprime mortgage crisis"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+      description: |
+        There were many causes of the crisis, with commentators assigning different levels of blame to financial institutions, regulators, credit agencies, government housing policies, and consumers, among others. Two proximate causes were the rise in subprime lending and the increase in housing speculation. The percentage of lower-quality subprime mortgages originated during a given year rose from the historical 8% or lower range to approximately 20% from 2004 to 2006, with much higher ratios in some parts of the U.S. A high percentage of these subprime mortgages, over 90% in 2006 for example, had an interest rate that increased over time. Housing speculation also increased, with the share of mortgage originations to investors (i.e. those owning homes other than primary residences) rising significantly from around 20% in 2000 to around 35% in 2006–2007.
+
+    - quote: 3
+      topic: "Subprime mortgage crisis"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+      description: |
+        The crisis had severe, long-lasting consequences for the U.S. and European economies. The U.S. entered a deep recession, with nearly 9 million jobs lost during 2008 and 2009, roughly 6% of the workforce. The number of jobs did not return to the december 2007 pre-crisis peak until may 2014. U.S. household net worth declined by nearly $13 trillion (20%) from its Q2 2007 pre-crisis peak, recovering by Q4 2012.U.S. housing prices fell nearly 30% on average and the U.S. stock market fell approximately 50% by early 2009, with stocks regaining their december 2007 level during september 2012. One estimate of lost output and income from the crisis comes to "at least 40% of 2007 gross domestic product". 
+
+        As of january 2018, U.S. bailout funds had been fully recovered by the government, when interest on loans is taken into consideration. A total of $626B was invested, loaned, or granted due to various bailout measures, while $390B had been returned to the Treasury. The Treasury had earned another $323B in interest on bailout loans, resulting in an $87B profit.
+
+    - quote: 4
+      topic: "Subprime crisis background information"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_crisis_background_information"
+      description: |
+        The crisis has gone through stages. First, during late 2007, over 100 mortgage lending companies went bankrupt as subprime mortgage-backed securities could no longer be sold to investors to acquire funds. Second, starting in Q4 2007 and in each quarter since then, financial institutions have recognized massive losses as they adjust the value of their mortgage backed securities to a fraction of their purchased prices. These losses as the housing market continued to deteriorate meant that the banks have a weaker capital base from which to lend. Third, during Q1 2008, investment bank Bear Stearns was hastily merged with bank JP Morgan with $30 billion in government guarantees, after it was unable to continue borrowing to finance its operations.
+
+        Fourth, during september 2008, the system approached meltdown. In early september Fannie Mae and Freddie Mac, representing $5 trillion in mortgage obligations, were nationalized by the U.S. government as mortgage losses increased. Next, investment bank Lehman Brothers filed for bankruptcy. In addition, two large U.S. banks (Washington Mutual and Wachovia) became insolvent and were sold to stronger banks.The world's largest insurer, AIG, was 80% nationalized by the U.S. government, due to concerns regarding its ability to honor its obligations via a form of financial insurance called credit default swaps.
+
+    - quote: 5
+      topic: "Subprime mortgage crisis"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis#Background_and_timeline_of_events"
+      description: |
+        The U.S. Financial Crisis Inquiry Commission reported its findings in january 2011. It concluded that "the crisis was avoidable and was caused by: Widespread failures in financial regulation, including the Federal Reserve's failure to stem the tide of toxic mortgages; Dramatic breakdowns in corporate governance including too many financial firms acting recklessly and taking on too much risk; An explosive mix of excessive borrowing and risk by households and Wall Street that put the financial system on a collision course with crisis; Key policy makers ill prepared for the crisis, lacking a full understanding of the financial system they oversaw; and systemic breaches in accountability and ethics at all levels.
+
+    - quote: 6
+      topic: "Subprime mortgage crisis"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis#Background_and_timeline_of_events"
+      description: |
+        The Financial Crisis Inquiry Commission reported in january 2011 that CDS contributed significantly to the crisis. Companies were able to sell protection to investors against the default of mortgage-backed securities, helping to launch and expand the market for new, complex instruments such as CDO's. This further fueled the housing bubble. They also amplified the losses from the collapse of the housing bubble by allowing multiple bets on the same securities and helped spread these bets throughout the financial system. Companies selling protection, such as AIG, were not required to set aside sufficient capital to cover their obligations when significant defaults occurred. Because many CDS were not traded on exchanges, the obligations of key financial institutions became hard to measure, creating uncertainty in the financial system.
+
+    - quote: 7
+      topic: "Subprime mortgage crisis"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+      description: |
+        As a result of the financial crisis in 2008, twenty-five U.S. banks became insolvent and were taken over by the FDIC. As of august 14, 2009, an additional 77 banks became insolvent. This seven-month tally surpasses the 50 banks that were seized in all of 1993, but is still much smaller than the number of failed banking institutions in 1992, 1991, and 1990.
+
+        The FDIC deposit insurance fund, supported by fees on insured banks, fell to $13 billion in the first quarter of 2009. That is the lowest total since september 1993.
+
+    - quote: 8
+      topic: "Who Was to Blame for the Subprime Crisis?"
+      source: Investopedia, Jan 12, 2020
+      url: "https://www.investopedia.com/articles/07/subprime-blame.asp#investment-banks-worsen-the-situation"
+      description: |
+        Investment Banks Worsen the Situation
+
+        The increased use of the secondary mortgage market by lenders added to the number of subprime loans lenders could originate. Instead of holding the originated mortgages on their books, lenders were able to simply sell off the mortgages in the secondary market and collect the originating fees. This freed up more capital for even more lending, which increased liquidity even more, and the snowball began to build.
+
+        A lot of the demand for these mortgages came from the creation of assets pooling mortgages together into a security, such as a collateralized debt obligation (CDO). In this process, investment banks would buy the mortgages from lenders and securitize them into bonds, which were sold to investors through CDOs.
+
+    - quote: 9
+      topic: "What Was the Subprime Mortgage Crisis and How Did it Happen?"
+      source: TheStreet, Steve Fiorillo, september 7,2018
+      url: "https://www.thestreet.com/personal-finance/mortgages/subprime-mortgage-crisis-14704400"
+      description: |
+        The subprime mortgage crisis, which guided us into the Great Recession, has many parties that can share blame for it. For one, lenders were selling these as mortgage-backed securities. After the lenders approved and gave out the loan, that loan would be sold to an investment bank. The investment bank would then bundle this mortgage with other similar mortgage for other parties to invest in, and the lender would, as a result of the sale, have more money to use for home loans.
+
+        Lenders were far too ready to give away so many risky loans at once, seemingly assuming that housing prices would continue to rise and interest rates would stay low. Investment banks seem to have had similar motives, getting bolder with their mortgage-backed securities investments.
+
+        Though these parties decidedly took advantage of people with bad credit in need of a place to live, homebuyers and the distinctly American pursuit of owning a home played a small role in this as well. The dream of upward mobility and owning larger homes led people to be riskier with their own real estate investments, and predatory lenders were all too ready to help them.
+     
+# {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
+resources:
+    - sites:
+        - https://finance.yahoo.com/quote/%5EIXIC/history?period1=1136678400&period2=1262908800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+        - https://finance.yahoo.com/quote/YM%3DF/history?period1=1136073600&period2=1262304000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+        - https://finance.yahoo.com/quote/ES%3DF/history?period1=1136678400&period2=1291766400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+        - https://finance.yahoo.com/quote/AIG/history?period1=1136073600&period2=1262304000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+        - https://finance.yahoo.com/quote/FNMA/history?p=FNMA
+        - https://finance.yahoo.com/quote/FMCC/history?period1=1133395200&period2=1299801600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+        - https://finance.yahoo.com/quote/GS/history?period1=1134259200&period2=1299801600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+        - https://finance.yahoo.com/quote/MS/history?p=MS
+        - https://projects.propublica.org/bailout/
+    
+    - articles:
+      - topic: "Bailout Tracker, Tracking Every Dollar and Every Recipient"
+        source: "propublica, Paul Kiel and Dan Nguyen, April 15, 2009"
+        url: "https://projects.propublica.org/bailout/"
+
+      - topic: "Subprime mortgage crisis"
+        source: "Wikipedia"
+        url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+
+      - topic: "Subprime crisis background information"
+        source: "Wikipedia"
+        url: "https://en.wikipedia.org/wiki/Subprime_crisis_background_information"
+
+      - topic: "Subprime mortgage crisis"
+        source: "Wikipedia"
+        url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis#Background_and_timeline_of_events"
+
+      - topic: "Who Was to Blame for the Subprime Crisis?"
+        source: Investopedia, Jan 12, 2020
+        url: "https://www.investopedia.com/articles/07/subprime-blame.asp#investment-banks-worsen-the-situation"
+
+      - topic: "What Was the Subprime Mortgage Crisis and How Did it Happen?"
+        source: TheStreet, Steve Fiorillo, september 7,2018
+        url: "https://www.thestreet.com/personal-finance/mortgages/subprime-mortgage-crisis-14704400"
+
+# This section should be an array of the years most covered by the problem and backed up by the data provided. 
+# It can also list the key year (or years) of the problem.
+years_covered:
+    - start: ~C~2005 - or remove if there was no known start year of the problem~C~
+    - end: ~C~2012 - or remove if the problem is ongoing~C~
+    - key_year: ~C~2011 or this can be an array~C~
+    - data_range:
+      - from: 2008
+      - to: 2015
+
+license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

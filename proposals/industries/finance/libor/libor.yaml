@@ -1,0 +1,304 @@
+# {~C~} ZeroTheft.net     {~C~}
+# industries/finance/libor
+
+# {~C~} The following is a template to use when authoring a new proposal for the problem for this path {~C~}
+# {~C~} Provided are: {~C~}
+# {~C~} - an overview of the problem {~C~}
+# {~C~} - some ideas you can use to build your case {~C~}
+# {~C~} - extensive researched data you can use to back up your reasoning {~C~}
+# {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
+
+# The following summary is not an exact amount, but an opinion on an approximation
+# Citizens are often powerless.  
+# The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
+# When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
+summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+summary_year: ~C~2019~C~
+summary_country: USA
+hierarchy: industries/finance/libor
+title: How~~~~~~~~~~~~~~~~~~nt government procurement
+
+author:
+    name: ~C~anonymous~C~
+    email: ~C~anonymous@example.com~C~
+
+   
+# {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
+describe_problem_area: |
+
+
+
+
+# {~C~} The following are questions you may want to answer in building your case. {~C~}
+# {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
+# {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~} 
+reasoning: |
+   1) Are t~~~~~~~~~~~~~~~~~~~ is spent because
+      government contracting/procurement is grossly inefficient: {You the citizen will vote}
+   2) Are th~~~~~~~~~~~~~~~~~~spend far less
+      if government procurement/contracting were far more efficient: {Needs research and debate}
+   3) We a~~~~~~~~~~~d world with:
+      a) Nonotube technology: Building materials at the molecule level.
+      b) Wall Street high frequency trading firms can make trades happen at a millisecond.
+      c) We can travel to the moom
+      d) We map out the entire DNS of the body with the genome project
+      THE PROBLEM: We spend so much on Federal government procurement ($586 Billion). The US Federal
+         gov spends $4.4 trillion per year (2019).  That means Federal procurement is about 12%
+         of ALL money the US gov spends (military, gov worker salaries, social programs, debt interest, etc).
+         Since the amount is so high, it is the obligation of the US Congress to have created technology
+         to make this process efficient.  Leaving over spending and waste rigs the economy because
+         so much of the economy goes to US Federal procurement and contractors.
+   4) The on~~~~~~~~~~~~~~~~~~~~nd have enough of the
+      economic output to come into their pockets is for extreme gross waste to be removed.
+      Is there extreme gross waste in government procurement?  Are citizens ripped by
+      by having money that should go in their pocket (one-way-or-another) not going there because
+      it goes to over-spending on government procurement/contracts: {Needs research and debate}
+
+
+# {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
+# {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
+# {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
+reasoning_on_size_of_problem:
+    - reasoning: |
+        What ~~~~~~~~~~~~~~~~~~~ of taking from other market investors
+        in a way that is unethical, or ripping them off in a rigged economy way.
+    - spent_on_US_federal_procurement: $~~~,200,000,000 (in 2019)
+    # "over spent" means if congress had created advanced technology to remove waste and over paying
+    # if Federal procurement and contracting, how much would be saved.
+    - percent_of_industry_that_is_over_spent: #Enter Percent
+    - amount_approximated_of_over_spending: #Enter amount
+    - how_summary_is_calculated: |
+        # {~C~}This is just an example illustration.  It should be replaced by{~C~}
+        # {~C~}the problem pospoals author with their reasoning.{~C~}
+        The Industry size below is multiplied by the percent to calculate the final summary,
+        which is the approximation of the amount that was unethically ripped off.
+
+
+# {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
+size_of_problem: 
+    libor_rate_based_on_us_dollar:
+      source: "https://fred.stlouisfed.org/series/USD12MD156N#0"
+      frequency: annual,average
+      libor_rate:
+        2000:  6.9 %
+        2001:  3.9 %
+        2002:  2.2 %
+        2003:  1.4 %
+        2004:  2.1 %
+        2005:  4.0 %
+        2006:  5.3 %
+        2007:  5.1 %
+        2008:  3.1 %
+        2009:  1.6 %
+        2010:  0.9 %
+        2011:  0.8 %
+        2012:  1.0 %
+        2013:  0.7 %
+        2014:  0.6 %
+        2015:  0.8 %
+        2016:  1.4 %
+        2017:  1.8 %
+        2018:  2.8 %
+        2019:  2.4 %
+        2020:  0.8 %
+     
+    penalties_for_financial_institutions_that_are_engaged_in_LIBOR_scandal:
+      source: "https://www.cfr.org/backgrounder/understanding-libor-scandal"
+      penalties_to_institutions:
+        global_banks: "over $9 billion"
+        Barclays: "$535 million ($435 million to UK/US authorities in July 2012, $100 million to 45 US states in 2016)"
+        UBS: "$1.7 billion ($1.5 billion to global regulators, $203 million to US Justice Department and other regulators)"
+        RBS: "$612 million"
+        Deutsche_Bank_RBS_and_Société_Générale: "1.7 billion euros, or over $2 billion"
+        Citigroup: "$425 million"
+        Dutch_Rabobank: "over $1 billion"
+        Deutsche_Bank: "$3.5 billion"
+        Citigroup_JP_Morgan_Chase_Barclays_Royal_Bank_of_Scotland_and_UBS: "over $5 billion"
+
+# {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
+quotes:
+    - quote: 1
+      topic: "Libor scandal"
+      source: "wikipedia"
+      url: "https://en.wikipedia.org/wiki/Libor#Criminal_investigations"
+      description: |
+        Among the abuses being investigated were the possibility that traders were in direct communication with bankers before the rates were set, thus allowing them an advantage in predicting that day's fixing. Libor underpins approximately $350 trillion in derivatives. One trader's messages indicated that for each basis point (0.01%) that Libor was moved, those involved could net "about a couple of million dollars".
+
+        In 27 June 2012, Barclays Bank was fined $200m by the Commodity Futures Trading Commission,$160m by the United States Department of Justice and £59.5m by the Financial Services Authority for attempted manipulation of the Libor and Euribor rates.The United States Department of Justice and Barclays officially agreed that "the manipulation of the submissions affected the fixed rates on some occasions".On 2 July 2012, Marcus Agius, chairman of Barclays, resigned from the position following the interest rate rigging scandal.Bob Diamond, the chief executive officer of Barclays, resigned on 3 July 2012. Marcus Agius was to fill his post until a replacement is found.Jerry del Missier, chief operating officer of Barclays, also resigned. Del Missier subsequently admitted that he had instructed his subordinates to submit falsified LIBORs to the British Bankers Association.
+
+    - quote: 2
+      topic: "The LIBOR Scandal"
+      source: "Investopedia, Jason Fernando, December 3, 2020"
+      url: "https://www.investopedia.com/terms/l/libor-scandal.asp"
+      description: |
+        The scandal sowed distrust in the financial industry and led to a wave of fines, lawsuits, and regulatory actions. Although the scandal came to light in 2012, there is evidence suggesting that the collusion in question had been ongoing since as early as 2003. 
+
+        The scheme caused financial contracts to be mispriced throughout the world, in transactions such as mortgages, corporate fundraising, and derivative trades.
+
+        Although it is difficult to know whether any particular person was affected by the LIBOR scandal, there are many potential ways in which its impact could have been felt. For example, individual homeowners may have initiated fixed-rate mortgages at a time when mortgage rates were artificially lifted based on upward manipulation of the LIBOR. From the homeowner’s perspective, every dollar of additional expense caused by the artificially high rates could be seen as a kind of “theft” being committed by the LIBOR rate fixers. Similarly, many traders who were party to derivative contracts would have experienced unnecessarily severe losses as a result of the LIBOR scandal. 
+
+    - quote: 3
+      topic: "Libor scandal"
+      source: "wikipedia"
+      url: "https://en.wikipedia.org/wiki/Libor_scandal"
+      description: |
+        The scandal arose when it was discovered that banks were falsely inflating or deflating their rates so as to profit from trades, or to give the impression that they were more creditworthy than they were. Libor underpins approximately $350 trillion in derivatives. 
+
+        The banks are supposed to submit the actual interest rates they are paying, or would expect to pay, for borrowing from other banks. The Libor is supposed to be the total assessment of the health of the financial system because if the banks being polled feel confident about the state of things, they report a low number and if the member banks feel a low degree of confidence in the financial system, they report a higher interest rate number. 
+
+        In June 2012, multiple criminal settlements by Barclays Bank revealed significant fraud and collusion by member banks connected to the rate submissions, leading to the scandal.
+
+        On 27 July 2012, the Financial Times published an article by a former trader which stated that Libor manipulation had been common since at least 1991.
+
+        Timothy Lee, a capital markets expert at the Federal Housing Finance Agency Office of Inspector General, said in a 3 November memo that Fannie Mae and Freddie Mac may have lost more than $3 billion because of the manipulation.
+
+        Before the financial crisis, states and localities bought $500 billion in interest rate swaps to hedge their municipal bond sales. It is estimated that the manipulation of Libor cost municipalities at least $6 billion. These losses were in addition to $4 billion that localities had already paid to unwind backfiring interest rate swaps.
+
+    - quote: 4
+      topic: "US. Banks Urged to Stop Using Libor on New Loans by End of 2021"
+      source: "Morningstar, Andrew Ackerman, November 30,2020"
+      url: "https://www.morningstar.com/news/dow-jones/202011307523/us-banks-urged-to-stop-using-libor-on-new-loans-by-end-of-2021update-1"
+      description: |
+        The moves amount to the strongest and clearest guidance yet from regulators about the risks to banks for writing new contracts based on Libor, an interest-rate benchmark that global policy makers moved to scrap after concluding it was balky and prone to manipulation.
+
+        Deeply rooted in markets, Libor was exposed by a 2012 scandal that led to convictions for some traders and penalties for numerous banks.
+
+        If the transition doesn't go as planned, consumers could end up on the hook for increased payments on credit-card loans and other borrowings, while small businesses could face higher fixed rates for loans.
+
+    - quote: 5
+      topic: "Three former Barclays traders found guilty in Libor rigging trial"
+      source: "Reuters, Kirstin Ridley, Carolyn Cohn, July 4,2016"
+      url: "https://www.reuters.com/article/uk-libor-barclays-verdict/three-former-barclays-traders-found-guilty-in-libor-rigging-trial-idUKKCN0ZK136"
+      description: |
+        Three former Barclays BARC.L traders have been found guilty by a London jury of conspiring to fraudulently manipulate global benchmark interest rates in a stark warning to junior bankers and a major victory for Britain's Serious Fraud Office (SFO).
+
+        The verdicts bring to five the number of people convicted in London for being part of a global financial conspiracy that has forced banks to pay fines of $9 billion, discredited rates like Libor and helped shred public faith in the banking industry.
+
+        “The trial in this country of American nationals also demonstrates the extent to which the response to Libor manipulation has been international and the subject of extensive cooperation between U.S. and UK authorities.”
+
+    - quote: 6
+      topic: "Deutsche Bank Ex-Traders Guilty in Libor Rigging Scandal"
+      source: "The Wall Street Journal, Maria Armental, October 17, 2018 "
+      url: "https://www.wsj.com/articles/deutsche-bank-ex-traders-guilty-in-libor-rigging-scandal-1539826687"
+      description: |
+        Fraud trial was second in U.S. stemming from 2008 benchmark-rate manipulation.
+
+        Two former Deutsche Bank traders were found guilty of trying to rig a key lending benchmark that was considered one of the most important barometers of the world’s financial health.
+
+        Matthew Connolly, who led Deutsche Bank’s pool trading desk in New York, and Gavin Campbell Black, a former derivatives trader who worked on the bank’s London desk, were convicted Wednesday of conspiracy and wire fraud charges following a monthlong trial in Manhattan federal court.
+
+        The German bank in 2015 agreed to pay $2.5bn in penalties to resolve related charges in the US and the UK and a unit in London pleaded guilty in the US to one count of wire fraud.
+
+    - quote: 7
+      topic: "Scandal-hit Libor to be phased out"
+      source: "Marketwatch, Max Colchester, July 27,2017"
+      url: "https://www.marketwatch.com/story/scandal-hit-libor-to-be-phased-out-2017-07-27"
+      description: |
+        On Thursday a top U.K. regulator said it would phase out the London interbank offered rate, a scandal-plagued benchmark that is used to set the price of trillions of dollars of loans and derivatives across the world.
+
+        Its integrity was called into question following a rate-rigging scandal where traders at numerous banks were able to nudge it up or down by submitting false data. Banks were fined billions of dollars and several traders were sent to jail.
+
+    - quote: 8
+      topic: "Citi, Deutsche Bank, HSBC agree to pay $132 million to settle Libor claims"
+      source: "Reuters, Brendan Pierson, October 13, 2017"
+      url: "https://fr.reuters.com/article/us-libor-settlement-idUSKBN1CH36N"
+      description: |
+        Citigroup Inc, Deutsche Bank AG and HSBC Holdings Plc have agreed to pay a combined $132 million to settle a U.S. class action brought by futures traders accusing them of manipulating the Libor benchmark interest rate, according to a U.S. court filing on Wednesday.
+
+        The futures traders’ lawsuit is among many brought by various investors in Manhattan court accusing banks of colluding to rig rates or prices in various financial and commodities markets.
+
+        Rate rigging has led to billions of dollars of regulatory fines against banks worldwide.
+
+    - quote: 9
+      topic: "Jailed Libor trader Tom Hayes appeals 14-year sentence, conviction"
+      source: "Reuters, Kirstin Ridley, November 30,2015"
+      url: "https://www.reuters.com/article/us-libor-hayes-appeal-idUSKBN0TJ1V820151130"
+      description: |
+        Tom Hayes, the first trader convicted by a jury of manipulating Libor benchmark interest rates, on Tuesday begins a two-day, appeal against his conviction and a 14-year jail sentence, one of the toughest to date for white collar crime.
+
+        Hayes, a 36-year-old former UBS and Citigroup trader, was in August found unanimously guilty of eight charges of conspiracy to defraud for rigging Libor, the London interbank offered rate, that underpins around $450 trillion of financial contracts and consumer loans worldwide.
+
+        Cast as the ringleader in one of the rate-rigging scams that has cost banks billions in regulatory fines, Hayes was found guilty of conspiring to rig Libor for profit.
+
+    - quote: 10
+      topic: "London InterBank Offered Rate (LIBOR)"
+      source: "Investopedia, Julia Kagan, Dec 3, 2020"
+      url: "https://www.investopedia.com/terms/l/libor.asp#libor-scandal-of-rate-rigging"
+      description: |
+        While LIBOR has been a long-established global benchmark standard for interest rate, it has had its fair share of controversies including a major scandal of rate rigging. Major banks allegedly colluded to manipulate the LIBOR rates. They took traders' requests into account and submitted artificially low LIBOR rates to keep them at their preferred levels. The intention behind the alleged malpractice was to bump up traders’ profits who were holding positions in LIBOR-based financial securities.
+
+        Following reporting by the Wall Street Journal in 2008, major global banks, which were on the panels and contributed to the LIBOR determination process, faced regulatory scrutiny. It involved investigations by the U.S. Department of Justice. Similar investigations were launched in other parts of the globe including in the U.K. and Europe. Major banks and financial institutions including Barclays, ICAP, Rabobank, Royal Bank of Scotland, UBS, and Deutsche Bank faced heavy fines. Punitive actions were also taken on their employees who were found to be involved in the malpractice. The scandal was also one of the primary reasons why LIBOR shifted from BBA administration to ICE. 
+
+    - quote: 11
+      topic: "Libor scandal"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Libor_scandal#Fines_for_manipulation"
+      description: |
+        The scandal arose when it was discovered that banks were falsely inflating or deflating their rates so as to profit from trades, or to give the impression that they were more creditworthy than they were. Libor underpins approximately $350 trillion in derivatives. It is currently administered by Intercontinental Exchange, which took over running the Libor in January 2014.
+
+        In June 2012, multiple criminal settlements by Barclays Bank revealed significant fraud and collusion by member banks connected to the rate submissions, leading to the scandal.
+
+    - quote: 12
+      topic: "Understanding the Libor Scandal"
+      source: "Council on Foreigh Relations"
+      url: "https://www.cfr.org/backgrounder/understanding-libor-scandal"
+      description: |
+        Beginning in 2012, an international investigation into the London Interbank Offered Rate, or Libor, revealed a widespread plot by multiple banks—notably Deutsche Bank, Barclays, UBS, Rabobank, and the Royal Bank of Scotland—to manipulate these interest rates for profit starting as far back as 2003. Investigations continue to implicate major institutions, exposing them to lawsuits and shaking trust in the global financial system.
+
+        Regulators in the United States, the UK, and the European Union have fined banks more than $9 billion for rigging Libor, which underpins over $300 trillion worth of loans worldwide. 
+
+    - quote: 13
+      topic: "The Libor Scandal: Three Things to Know"
+      source: "YouTube, Council on Foreign Relations, July 11,2012"
+      url: "https://www.youtube.com/watch?v=BYoejdKkKpM"
+      description: |
+        Following investigations into Barclays' manipulation of London Interbank Offered Rates (Libor), CFR's Sebastian Mallaby highlights three implications from the unfolding scandal:
+
+        Conflicts of Interest Within Banks: Barclays' distorted reports on borrowing rates demonstrate the system's failure to prevent damage from conflicts of interest between banks and their traders.  "Chinese walls don't work," Mallaby says. "It's a lesson we've learned over and over again in finance."
+
+        The Role of Regulators: The alleged collusion between the Bank of England and Barclays indicates a critical challenge in the governance of financial markets: Regulators are forced to bend rules to protect banks, "not because they are bribed," says Mallaby, "but because they are blackmailed, in the sense that the banks, by threatening to go under and do untold damage to the economy, can force regulators to bend the rules on their behalf."  
+
+        Responding to the Scandal: Calls for cultural change and for executives to give up remuneration simply scratch the surface, Mallaby argues. "The real lesson to be learned here is that banks which are too big to fail are also too big to exist," he says.
+
+    - quote: 14
+      topic: "Libor scandal"
+      source: "wikipedia"
+      url: "https://en.wikipedia.org/wiki/Libor_scandal#Municipalities_lost_billions_due_to_rigging"
+      description: |
+        The city of Baltimore and others in the US filed a class action lawsuit in April 2012 against Libor setting banks which alleged that the manipulation of Libor caused payments on their interest rate swaps to be smaller than they should have been. Before the financial crisis, states and localities bought $500 billion in interest rate swaps to hedge their municipal bond sales. It is estimated that the manipulation of Libor cost municipalities at least $6 billion. These losses were in addition to $4 billion that localities had already paid to unwind backfiring interest rate swaps.
+
+    - quote: 15
+      topic: "Libor: What is it and why does it matter?"
+      source: "BBC, August 3,2015"
+      url: "https://www.bbc.com/news/business-19199683"
+      description: |
+        A global benchmark interest rate used to set a range of financial deals worth an estimated:
+
+        $450,000,000,000,000
+
+        The value of deals determined by Libor was revised down from $800 trillion to $450 trillion following new figures in the Wheatley report on 28 September 2012.
+
+        Since the rates submitted are estimates, not actual transactions, it has been suggested that banks could have submitted false figures. It is alleged that traders at several banks conspired to influence the final average rate that results, the official Libor rate, by agreeing amongst themselves to submit rates that were either higher or lower than their actual estimates.
+
+        During the past three years Barclays Bank, JP Morgan, Swiss bank UBS, Royal Bank of Scotland and Deutsche Bank have all been fined by financial regulators for this practice, which is seen as market manipulation and corrosive to trust in the financial markets.
+
+        In August 2015, former city trader Tom Hayes was convicted of conspiracy to defraud for manipulating Libor. He was jailed for 14 years a sentence that had since been cut to 11 years.
+
+    - quote: 16
+      topic: "Understanding the Libor Scandal"
+      source: "Council on Foreign Relations, James McBride, October 12, 2016"
+      url: "https://www.cfr.org/backgrounder/understanding-libor-scandal"
+      description: |
+        Beginning in 2012, an international investigation into the London Interbank Offered Rate, or Libor, revealed a widespread plot by multiple banks—notably Deutsche Bank, Barclays, UBS, Rabobank, and the Royal Bank of Scotland—to manipulate these interest rates for profit starting as far back as 2003. Investigations continue to implicate major institutions, exposing them to lawsuits and shaking trust in the global financial system.
+
+        Regulators in the United States, the UK, and the European Union have fined banks more than $9 billion for rigging Libor, which underpins over $300 trillion worth of loans worldwide. Since 2015, authorities in both the UK and the United States have brought criminal charges against individual traders and brokers for their role in manipulating rates, though the success of these prosecutions has been mixed. The scandal has sparked calls for deeper reform of the entire Libor rate-setting system, as well as harsher penalties for offending individuals and institutions, but so far change remains piecemeal.
+
+#{~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
+#{~C~} It can also list the key year (or years) of the problem.
+years_covered:
+    - data_range:
+      - from: 2000
+      - to: 2020
+     
+
+license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
