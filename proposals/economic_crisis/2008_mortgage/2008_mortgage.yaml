@@ -288,9 +288,6 @@ resources:
 # This section should be an array of the years most covered by the problem and backed up by the data provided. 
 # It can also list the key year (or years) of the problem.
 years_covered:
-    - start: ~C~2005 - or remove if there was no known start year of the problem~C~
-    - end: ~C~2012 - or remove if the problem is ongoing~C~
-    - key_year: ~C~2011 or this can be an array~C~
     - data_range:
       - from: 2008
       - to: 2015
