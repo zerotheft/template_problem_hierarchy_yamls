@@ -9,100 +9,109 @@
 # {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
 
 # The following summary is not an exact amount, but an opinion on an approximation
-# Citizens are often powerless.  
+# Citizens are often powerless.
 # The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
 # When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
-summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
-summary_year: ~C~2019~C~
 summary_country: USA
 hierarchy: tax/irs_blocked_enforcement_elites
 title: ~C~please enter a short (150 characters or less) title for this problem~C~
 
+stolen_2020: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2019: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2018: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2017: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2016: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2015: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2014: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2013: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2012: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2011: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2010: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2009: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2008: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2007: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2006: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2005: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2004: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2003: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2002: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2001: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+
 author:
-    name: ~C~anonymous~C~
-    email: ~C~anonymous@example.com~C~
+  name: ~C~anonymous~C~
+  email: ~C~anonymous@example.com~C~
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-
-
-
 
 #https://www.gao.gov/assets/700/698969.pdf
 #What GAO Found
 #The Internal Revenue Service’s (IRS) latest tax gap estimate (2016) found that
 #taxpayers voluntarily and timely paid about 81.7 percent of owed taxes for tax
 #years 2008-2010, leaving an annual gross tax gap of $458 billion. IRS estimated
-#a net tax gap—after late payments and enforcement actions—of $406 billion. 
-
-
+#a net tax gap—after late payments and enforcement actions—of $406 billion.
 
 #  ~C~Provide a detailed description of the problem here.~C~
-  
+
 #  ~C~You can add new paragraphs by adding a blank line beween blocks of text.~C~
-  
+
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning: |
-    ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
-    ~C~because of this.~C~
-    
+  ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
+  ~C~because of this.~C~
+
 # {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
 # {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
-    - reasoning: |
-       ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
-    - how_summary_is_calculated: |
-       ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
-       
+  - reasoning: |
+      ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
+  - how_summary_is_calculated: |
+      ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
+
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
   ~C~data_source_title~C~:
     source: ~C~provide a human-readable source, see notes at the bottom of this document~C~
     url: ~C~https://url.to.your.source~C~
     data:
-      -
-        year: ~C~2020~C~
+      - year: ~C~2020~C~
         amount: ~C~$1,234,567,890,000 ($1.2 trillion) - see notes at bottom on how large numbers should be formatted~C~
-      -
-        year: ~C~2020~C~
+      - year: ~C~2020~C~
         amount: ~C~$1,234,567,890,000 ($1.2 trillion) - see notes at bottom on how large numbers should be formatted~C~
     description: |
       {~C~} optional notes and description of how these numbers apply to the problem. {~C~}
   ~C~another_data_source_title~C~:
     source: ~C~add more sources like above~C~
-    
+
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
-  - 
-    quote: 1
+  - quote: 1
     topic: ~C~optional to indicate what part of the problem or reasoning this quote applies to.~C~
     source: ~C~provide a human-readable source, see notes at the bottom of this document~C~
     url: ~C~https://the.source/of-your-quote~C~
     description: |
       ~C~text of the quote.~C~
-      
+
       ~C~inserting a blank line starts a new paragraph.~C~
-      
-  -
-    quote: 2
+
+  - quote: 2
     topic: ~C~add more quotes like above~C~
-    
+
 # {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
 resources:
   - sites:
-    - ~C~https://site.url~C~
-    - ~C~https://another.site.url~C~
+      - ~C~https://site.url~C~
+      - ~C~https://another.site.url~C~
   - books:
-    - ~C~"A Book Title", Arthur A. Author, 2018~C~
-    - ~C~"Another Book Title", Anne B. Writer, 2016~C~
+      - ~C~"A Book Title", Arthur A. Author, 2018~C~
+      - ~C~"Another Book Title", Anne B. Writer, 2016~C~
   - articles:
-    - ~C~"An Article Title", The Magazine, March, 2015~C~
-    -
-      source: ~C~"Another Article Title", The Big Newspaper, November 6, 2017~C~
-      url: ~C~https://bignewspaper.com/2017/11/6/another-article-title~C~
+      - ~C~"An Article Title", The Magazine, March, 2015~C~
+      - source: ~C~"Another Article Title", The Big Newspaper, November 6, 2017~C~
+        url: ~C~https://bignewspaper.com/2017/11/6/another-article-title~C~
 
 # {~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
 # {~C~} It can also list the key year (or years) of the problem.
@@ -111,8 +120,7 @@ years_covered:
   - end: ~C~2012 - or remove if the problem is ongoing~C~
   - key_year: ~C~2011 or this can be an array~C~
   - data_range:
-    - from: ~C~2008~C~
-    - to: ~C~2015~C~
+      - from: ~C~2008~C~
+      - to: ~C~2015~C~
 
 license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
-
