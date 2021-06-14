@@ -110,22 +110,32 @@ size_of_problem:
       estimated_revenue:
           2019: $2,070,700,000,000 ($2.1 trillion) 
 
-    estimated_revenue_of_insurance_in_the_US:
-      source: "https://www.statista.com/study/15823/industry-report--insurance-carriers-and-related-activities/"
-      estimated_revenue:
-         2019: $2,681,000,000,000 ($2.7 trillion) 
+    insurance_market_size_in_the_US_2009_-_2019:
+      source: "https://www.statista.com/statistics/1102802/insurance-market-size-usa/"
+      value_of_insurance_premiums_written_in_the_United_States_from_2009_to_2019:
+        2019: $1.32 trillion
+        2018: $1.22 trillion
+        2017: $1.15 trillion
+        2016: $1.13 trillion
+        2015: $1.16 trillion
+        2014: $1.15 trillion
+        2013: $1.04 trillion
+        2012: N/A 
+        2011: $1.06 trillion
+        2010: $1 trillion
+        2009: $0.93 trillion 
 
     revenue_in_banking_finance_and_insurance:
       source: "https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states"
       revenue:
-        2012: $1,327,712,000,000 ($1.3 trillion) 
-        2013: $1,418,059,000,000 ($1.4 trillion)
-        2014: $1,429,246,000,000 ($1.4 trillion)
-        2015: $1,472,114,000,000 ($1.5 trillion)
-        2016: $1,572,443,000,000 ($1.6 trillion)
-        2017: $1,677,081,000,000 ($1.7 trillion)
-        2018: $1,720,068,000,000 ($1.7 trillion)
         2019: $2,342,788,000,000 ($2.3 trillion)
+        2018: $1,720,068,000,000 ($1.7 trillion)
+        2017: $1,677,081,000,000 ($1.7 trillion)
+        2016: $1,572,443,000,000 ($1.6 trillion)
+        2015: $1,472,114,000,000 ($1.5 trillion)
+        2014: $1,429,246,000,000 ($1.4 trillion)
+        2013: $1,418,059,000,000 ($1.4 trillion)
+        2012: $1,327,712,000,000 ($1.3 trillion) 
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -509,7 +519,7 @@ quotes:
     - quote: 31
       topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
       source: "U.S. Government Publishing Office"
-      url: "www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
+      url: "http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
       page: XXIV
       description: |
         OTC derivatives contributed to the crisis in three significant ways. First, one type of derivative—credit default swaps (CDS)—fueled the mortgage securitization pipeline. CDS were sold to investors to protect against the default or decline in value of mortgage-related securities backed by risky loans. Companies sold protection—to the tune of $79 billion, in AIG’s case—to investors in these newfangled mortgage securities, helping to launch and expand the market and, in turn, to further fuel the housing bubble.
@@ -650,7 +660,7 @@ quotes:
     - quote: 43
       topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
       source: "U.S. Government Publishing Office"
-      url: "www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
+      url: "http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
       page: XXV
       description: |
        The three credit rating agencies were key enablers of the financial meltdown. The mortgage-related securities at the heart of the crisis could not have been marketed and sold without their seal of approval. Investors relied on them, often blindly. In some cases, they were obligated to use them, or regulatory capital standards were hinged on them. This crisis could not have happened without the rating agencies. Their ratings helped the market soar and their downgrades through 2007 and 2008 wreaked havoc across markets and firms.
@@ -883,7 +893,7 @@ resources:
     - files_download_site:
         - http://www.acsu.buffalo.edu/~keechung/TEM/Journal%20Articles/Collusion%20B%201994.pdf
         - https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr
-        - www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
+        - http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
         - https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf
 
     - sites:
