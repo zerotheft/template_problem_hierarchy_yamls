@@ -25,25 +25,24 @@ author:
 #  This describes the problem.  You may want to edit this in your proposal. 
 describe_problem_area: |
     The 2008 Mortgage Crisis resulted in a massive loss to taxpayers to the complete benefit of Wall Street.
-  #~C~Provide a detailed description of the problem here.~C~  
-  #~C~You can add new paragraphs by adding a blank line between blocks of text.~C~
+#~C~Provide a detailed description of the problem here.~C~  
+#~C~You can add new paragraphs by adding a blank line between blocks of text.~C~
    
   
 #  The following are questions you may want to answer in building your case. 
 #  Your reasoning should provide a strong case for how the economy is being rigged against citizens. 
 #  These are just examples and ideas to get you started.  You should delete them and build your own arguments. 
 reasoning: |
-     Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not) 
-     because of this. 
+     ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not) because of this.~C~ 
     
 #  The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. 
 #  Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. 
 #  These are just examples and ideas to get you started.  You should delete them and build your own arguments. 
 reasoning_on_size_of_problem:
     - reasoning: |
-        Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary. 
+        ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~ 
     - how_summary_is_calculated: |
-        Provide the formula or method you used to reach the number you specified in Summary. 
+        ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
        
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
