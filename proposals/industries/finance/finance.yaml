@@ -112,49 +112,59 @@ reasoning_on_size_of_problem:
       The Industry size below is multiplied by the percent to calculate the final industry.
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
-size_of_problem:
-  estimated_revenue_for_US_finance_and_insurance:
-    source: "https://www.census.gov/services/qss/historic_data.html"
-    note: data are adjusted for seasonal variation but not for price change, and estimates for finance and insurance was started listing from 4th quaterly of 2009.
-    estimated_revenue:
-      2019: $5,107,900,000,000 ($5.1 trillion)
-      2018: $4,879,100,000,000 ($4.9 trillion)
-      2017: $4,570,400,000,000 ($4.6 trillion)
-      2016: $4,570,400,000,000 ($4.6 trillion)
-      2015: $3,924,700,000,000 ($3.9 trillion)
-      2014: $3,705,900,000,000 ($3.7 trillion)
-      2013: $3,705,900,000,000 ($3.7 trillion)
-      2012: $3,461,300,000,000 ($3.5 trillion)
-      2011: $3,341,600,000,000 ($3.3 trillion)
-      2010: $3,252,800,000,000 ($3.3 trillion)
-      2009: $3,186,400,000,000 ($3.2 trillion) #estimated :4*$796,600,000,000  = $3,186,400,000,000
+size_of_problem:     
+    estimated_revenue_for_US_finance_and_insurance:
+      source: "https://www.census.gov/services/qss/historic_data.html"
+      note: data are adjusted for seasonal variation but not for price change, and estimates for finance and insurance was started listing from 4th quaterly of 2009.
+      estimated_revenue:
+          2019: $5,107,900,000,000 ($5.1 trillion)
+          2018: $4,879,100,000,000 ($4.9 trillion)
+          2017: $4,570,400,000,000 ($4.6 trillion)
+          2016: $4,570,400,000,000 ($4.6 trillion)
+          2015: $3,924,700,000,000 ($3.9 trillion)
+          2014: $3,705,900,000,000 ($3.7 trillion)
+          2013: $3,705,900,000,000 ($3.7 trillion)
+          2012: $3,461,300,000,000 ($3.5 trillion)
+          2011: $3,341,600,000,000 ($3.3 trillion)
+          2010: $3,252,800,000,000 ($3.3 trillion)
+          2009: $3,186,400,000,000 ($3.2 trillion) #estimated :4*$796,600,000,000  = $3,186,400,000,000
+ 
+    estimated_revenue_for_US_banking_finance_and_insurance:
+      source: "https://www.statista.com/study/15822/banking-finance-and-insurance-in-the-us/"
+      estimated_revenue:
+          2020: $4,738,000,000,000 ($4.7 trillion) 
 
-  estimated_revenue_for_US_banking_finance_and_insurance:
-    source: "https://www.statista.com/study/15822/banking-finance-and-insurance-in-the-us/"
-    estimated_revenue:
-      2020: $4,738,000,000,000 ($4.7 trillion)
+    estimate_revenue_of_banking_and_finance_in_the_US:
+      source: "https://www.statista.com/study/15822/industry-report--banking-and-finance/"
+      estimated_revenue:
+          2019: $2,070,700,000,000 ($2.1 trillion) 
 
-  estimate_revenue_of_banking_and_finance_in_the_US:
-    source: "https://www.statista.com/study/15822/industry-report--banking-and-finance/"
-    estimated_revenue:
-      2019: $2,070,700,000,000 ($2.1 trillion)
+    insurance_market_size_in_the_US_2009_-_2019:
+      source: "https://www.statista.com/statistics/1102802/insurance-market-size-usa/"
+      value_of_insurance_premiums_written_in_the_United_States_from_2009_to_2019:
+        2019: $1.32 trillion
+        2018: $1.22 trillion
+        2017: $1.15 trillion
+        2016: $1.13 trillion
+        2015: $1.16 trillion
+        2014: $1.15 trillion
+        2013: $1.04 trillion
+        2012: N/A 
+        2011: $1.06 trillion
+        2010: $1 trillion
+        2009: $0.93 trillion 
 
-  estimated_revenue_of_insurance_in_the_US:
-    source: "https://www.statista.com/study/15823/industry-report--insurance-carriers-and-related-activities/"
-    estimated_revenue:
-      2019: $2,681,000,000,000 ($2.7 trillion)
-
-  revenue_in_banking_finance_and_insurance:
-    source: "https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states"
-    revenue:
-      2012: $1,327,712,000,000 ($1.3 trillion)
-      2013: $1,418,059,000,000 ($1.4 trillion)
-      2014: $1,429,246,000,000 ($1.4 trillion)
-      2015: $1,472,114,000,000 ($1.5 trillion)
-      2016: $1,572,443,000,000 ($1.6 trillion)
-      2017: $1,677,081,000,000 ($1.7 trillion)
-      2018: $1,720,068,000,000 ($1.7 trillion)
-      2019: $2,342,788,000,000 ($2.3 trillion)
+    revenue_in_banking_finance_and_insurance:
+      source: "https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states"
+      revenue:
+        2019: $2,342,788,000,000 ($2.3 trillion)
+        2018: $1,720,068,000,000 ($1.7 trillion)
+        2017: $1,677,081,000,000 ($1.7 trillion)
+        2016: $1,572,443,000,000 ($1.6 trillion)
+        2015: $1,472,114,000,000 ($1.5 trillion)
+        2014: $1,429,246,000,000 ($1.4 trillion)
+        2013: $1,418,059,000,000 ($1.4 trillion)
+        2012: $1,327,712,000,000 ($1.3 trillion) 
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -434,114 +444,114 @@ quotes:
   #####################################################################################################
   # f) Did AIG (or any other CDS insurance sellers) have an unethical cause of money to be stolen from citizen (2008)?  Did some of them cause the 2008 mortgage crisis to occur or contribute to it?  Did they do any behavior that people can consider unethical or rigged economy?
   #####################################################################################################
-  - quote: 22
-    topic: "The Causes of the Subprime Mortgage Crisis"
-    source: "The Balance, Kimberly Amadeo, September 17, 2020"
-    url: "https://www.thebalance.com/what-caused-the-subprime-mortgage-crisis-3305696"
-    description: |
-      Hedge funds, banks, and insurance companies caused the subprime mortgage crisis. Hedge funds and banks created mortgage-backed securities. The insurance companies covered them with credit default swaps. Demand for mortgages led to an asset bubble in housing.
+    - quote: 22
+      topic: "The Causes of the Subprime Mortgage Crisis"
+      source: "The Balance, Kimberly Amadeo, September 17, 2020"
+      url: "https://www.thebalance.com/what-caused-the-subprime-mortgage-crisis-3305696"
+      description: |
+        Hedge funds, banks, and insurance companies caused the subprime mortgage crisis. Hedge funds and banks created mortgage-backed securities. The insurance companies covered them with credit default swaps. Demand for mortgages led to an asset bubble in housing.
 
-      Hedge funds are always under tremendous pressure to outperform the market. They created demand for mortgage-backed securities by pairing them with guarantees called credit default swaps. What could go wrong? Nothing, until the Fed started raising interest rates. Those with adjustable-rate mortgages couldn't make these higher payments. Demand fell, and so did housing prices. When they couldn't sell their homes, either, they defaulted. No one could price, or sell, the now-worthless securities. And American International Group (AIG) almost went bankrupt trying to cover the insurance.
+        Hedge funds are always under tremendous pressure to outperform the market. They created demand for mortgage-backed securities by pairing them with guarantees called credit default swaps. What could go wrong? Nothing, until the Fed started raising interest rates. Those with adjustable-rate mortgages couldn't make these higher payments. Demand fell, and so did housing prices. When they couldn't sell their homes, either, they defaulted. No one could price, or sell, the now-worthless securities. And American International Group (AIG) almost went bankrupt trying to cover the insurance.
 
-  - quote: 23
-    topic: "AIG Bailout, Cost, Timeline, Bonuses, Causes, Effects"
-    source: "The Balance, Kimberly Amadeo, November 16, 2020"
-    url: "https://www.thebalance.com/aig-bailout-cost-timeline-bonuses-causes-effects-3305693"
-    description: |
-      AIG had become a major seller of credit default swaps in an attempt to boost its profit margin. These swaps insured the assets that supported corporate debt and mortgages. If AIG went bankrupt, it would trigger the bankruptcy of many of the financial institutions that had bought these swaps.
+    - quote: 23
+      topic: "AIG Bailout, Cost, Timeline, Bonuses, Causes, Effects"
+      source: "The Balance, Kimberly Amadeo, November 16, 2020"
+      url: "https://www.thebalance.com/aig-bailout-cost-timeline-bonuses-causes-effects-3305693"
+      description: |
+        AIG had become a major seller of credit default swaps in an attempt to boost its profit margin. These swaps insured the assets that supported corporate debt and mortgages. If AIG went bankrupt, it would trigger the bankruptcy of many of the financial institutions that had bought these swaps.
 
-      AIG's swaps on subprime mortgages pushed the otherwise profitable company to the brink of bankruptcy. As the mortgages tied to the swaps defaulted, AIG was forced to raise millions in capital. As stockholders got wind of the situation, they sold their shares, making it even more difficult for AIG to cover the swaps.
+        AIG's swaps on subprime mortgages pushed the otherwise profitable company to the brink of bankruptcy. As the mortgages tied to the swaps defaulted, AIG was forced to raise millions in capital. As stockholders got wind of the situation, they sold their shares, making it even more difficult for AIG to cover the swaps.
 
-      Even though AIG had more than enough assets to cover the swaps, it couldn't sell them before the swaps came due. It left it without the cash to pay the swap insurance.
+        Even though AIG had more than enough assets to cover the swaps, it couldn't sell them before the swaps came due. It left it without the cash to pay the swap insurance.
 
-      On September 16, 2008, the Federal Reserve provided an $85 billion two-year loan to AIG to prevent its bankruptcy and further stress on the global economy.
+        On September 16, 2008, the Federal Reserve provided an $85 billion two-year loan to AIG to prevent its bankruptcy and further stress on the global economy.
 
-      In return, the Fed took ownership of 79.9 percent of AIG's equity. 
+        In return, the Fed took ownership of 79.9 percent of AIG's equity. 
 
-      In October 2008, the Fed hired Edward Liddy as CEO and Chairman. His job was to break up AIG and sell off the pieces to repay the loan. Liddy had to safely unwind billions in credit default swaps. He used $62 billion of the Fed's loan.
+        In October 2008, the Fed hired Edward Liddy as CEO and Chairman. His job was to break up AIG and sell off the pieces to repay the loan. Liddy had to safely unwind billions in credit default swaps. He used $62 billion of the Fed's loan.
 
-      On October 8, 2008, the Federal Reserve Bank of New York agreed to lend $37.8 billion to AIG subsidiaries in exchange for fixed-income securities.
+        On October 8, 2008, the Federal Reserve Bank of New York agreed to lend $37.8 billion to AIG subsidiaries in exchange for fixed-income securities.
 
-      In April 2009, the Treasury committed another $29.84 billion to AIG. These changes made the total bailout package $182 billion.
+        In April 2009, the Treasury committed another $29.84 billion to AIG. These changes made the total bailout package $182 billion.
 
-  - quote: 24
-    topic: "The AIG Bailout"
-    source: "Washington and Lee Law Review, William K. Sjostrum,Jr, June 1, 2009"
-    volume: 66
-    issue: 3
-    url: "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr"
-    description: |
-      AIG collapsed because collateral obligations embedded in the CDSs it wrote triggered a chain reaction that drained it of cash. Unable to raise funds in the private markets or quickly sell off some of its trillion dollars in assets, AIG was forced to accept a government bailout. In hindsight, it is easy to conclude that AIG should have never gotten into the CDS business, or at least not written the $61.4 billion of CDSs on multi-sector CDOs with subprime mortgage loan exposure. Ultimately, however, AIG took a calculated business risk that turned out disastrous.
+    - quote: 24
+      topic: "The AIG Bailout"
+      source: "Washington and Lee Law Review, William K. Sjostrum,Jr, June 1, 2009"
+      volume: 66
+      issue: 3
+      url: "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr"
+      description: |
+        AIG collapsed because collateral obligations embedded in the CDSs it wrote triggered a chain reaction that drained it of cash. Unable to raise funds in the private markets or quickly sell off some of its trillion dollars in assets, AIG was forced to accept a government bailout. In hindsight, it is easy to conclude that AIG should have never gotten into the CDS business, or at least not written the $61.4 billion of CDSs on multi-sector CDOs with subprime mortgage loan exposure. Ultimately, however, AIG took a calculated business risk that turned out disastrous.
 
-      In the wake of the bailouts of Bear Steams, Freddie Mac, and Fannie Mae, and the bankruptcy of Lehman Brothers, the government determined that the financial markets were too fragile to absorb an AIG bankruptcy. Thus, it rescued AIG with a package that soon grew to over $182.5 billion.
+        In the wake of the bailouts of Bear Steams, Freddie Mac, and Fannie Mae, and the bankruptcy of Lehman Brothers, the government determined that the financial markets were too fragile to absorb an AIG bankruptcy. Thus, it rescued AIG with a package that soon grew to over $182.5 billion.
 
-  - quote: 25
-    topic: "The AIG Bailout Scandal"
-    source: "The Nation, William Greider, August 6,2010"
-    url: "https://www.thenation.com/article/archive/aig-bailout-scandal/"
-    description: |
-      As Elizabeth Warren’s devastating Congressional report reveals, the Federal Reserve used taxpayer money to bail out the insurance giant, instead of forcing the major banks to clean up the mess they helped create.
+    - quote: 25
+      topic: "The AIG Bailout Scandal"
+      source: "The Nation, William Greider, August 6,2010"
+      url: "https://www.thenation.com/article/archive/aig-bailout-scandal/"
+      description: |
+        As Elizabeth Warren’s devastating Congressional report reveals, the Federal Reserve used taxpayer money to bail out the insurance giant, instead of forcing the major banks to clean up the mess they helped create.
 
-      The government’s $182 billion bailout of insurance giant AIG should be seen as the Rosetta Stone for understanding the financial crisis and its costly aftermath.
+        The government’s $182 billion bailout of insurance giant AIG should be seen as the Rosetta Stone for understanding the financial crisis and its costly aftermath.
 
-      “The AIG rescue demonstrated that Treasury and the Federal Reserve would commit taxpayers to pay any price and bear any burden to prevent the collapse of America’s largest financial institutions,” the COP report said. This could have been avoided, the report argues, if the Fed had listened to disinterested advisers with a less parochial understanding of the public interest.
+        “The AIG rescue demonstrated that Treasury and the Federal Reserve would commit taxpayers to pay any price and bear any burden to prevent the collapse of America’s largest financial institutions,” the COP report said. This could have been avoided, the report argues, if the Fed had listened to disinterested advisers with a less parochial understanding of the public interest.
 
-  - quote: 26
-    topic: "FAQs: MBS Purchase Program"
-    source: "Federal Reserve Bank of New York"
-    url: "https://www.newyorkfed.org/markets/mbs_faq.html"
-    description: |
-      The MBS program completed its purchases on March 31, 2010, but will continue to settle transactions over the coming months. In connection with this activity, the Federal Reserve continues to use dollar roll and coupon swap transactions to facilitate an orderly settlement of the program’s purchases.
+    - quote: 26
+      topic: "FAQs: MBS Purchase Program"
+      source: "Federal Reserve Bank of New York"
+      url: "https://www.newyorkfed.org/markets/mbs_faq.html"
+      description: |
+        The MBS program completed its purchases on March 31, 2010, but will continue to settle transactions over the coming months. In connection with this activity, the Federal Reserve continues to use dollar roll and coupon swap transactions to facilitate an orderly settlement of the program’s purchases.
 
-      This agency MBS program is managed by the Federal Reserve Bank of New York at the direction of the Federal Open Market Committee (FOMC). The New York Fed will continue to work with two investment managers to support the implementation of the program.
+        This agency MBS program is managed by the Federal Reserve Bank of New York at the direction of the Federal Open Market Committee (FOMC). The New York Fed will continue to work with two investment managers to support the implementation of the program.
 
-      The FOMC directed the Desk to purchase $1.25 trillion of agency MBS. Actual purchases by the program effectively reached this target. The purchase activity began on January 5, 2009 and continued through March 31, 2010.
+        The FOMC directed the Desk to purchase $1.25 trillion of agency MBS. Actual purchases by the program effectively reached this target. The purchase activity began on January 5, 2009 and continued through March 31, 2010.
 
-  - quote: 27
-    topic: "Did the Federal Reserve's MBS Purchase Program Lower Mortgage Rates?"
-    source: "Board of Governors of the Federal Reserve system"
-    url: "https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf"
-    page: 31
-    description: |
-      The Federal Reserve essentially tried to drive longer-term interest rates lower by withdrawing supply from the fixed-rate financial asset markets and forcing investors to overcome their risk aversion and rebalance their portfolios. One might argue that $1.25 trillion in MBS would be too small to have this affect in a normal environment because there are over $23 trillion of fixed-rate, high-quality, dollar-denominated financial assets. However, the financial crisis called into question the validity of credit ratings for fixed-rated assets and increased the demand for “full faith and credit” government-backed securities. As a result, the $1.25 trillion dollar withdrawal of MBS was a much larger fraction of the relevant market as far as risk-averse investors were concerned. Thus, the “portfolio balance effect” might be greater during period of financial crisis because of investors’ views of acceptable substitutions for government-backed assets are much more limited.
+    - quote: 27
+      topic: "Did the Federal Reserve's MBS Purchase Program Lower Mortgage Rates?"
+      source: "Board of Governors of the Federal Reserve system"
+      url: "https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf"
+      page: 31
+      description: |
+        The Federal Reserve essentially tried to drive longer-term interest rates lower by withdrawing supply from the fixed-rate financial asset markets and forcing investors to overcome their risk aversion and rebalance their portfolios. One might argue that $1.25 trillion in MBS would be too small to have this affect in a normal environment because there are over $23 trillion of fixed-rate, high-quality, dollar-denominated financial assets. However, the financial crisis called into question the validity of credit ratings for fixed-rated assets and increased the demand for “full faith and credit” government-backed securities. As a result, the $1.25 trillion dollar withdrawal of MBS was a much larger fraction of the relevant market as far as risk-averse investors were concerned. Thus, the “portfolio balance effect” might be greater during period of financial crisis because of investors’ views of acceptable substitutions for government-backed assets are much more limited. 
 
-  - quote: 12
-    topic: "Fed Ends Purchases of GSE Mortgage-Backed Securities"
-    source: "Committee for a Responsible Federal Budget"
-    url: "https://www.crfb.org/blogs/fed-ends-purchases-gse-mortgage-backed-securities-0"
-    description: |
-      Initially intended to purchase up to $500 billion in MBS's, this limit was increased in March 2009 to $1.25 trillion, where it has remained ever since. Private markets must now sustain such purchases of MBS's for housing markets to remain stable, and many Fed officials and industry analysts seem to believe that they are.
+    - quote: 12
+      topic: "Fed Ends Purchases of GSE Mortgage-Backed Securities"
+      source: "Committee for a Responsible Federal Budget"
+      url: "https://www.crfb.org/blogs/fed-ends-purchases-gse-mortgage-backed-securities-0"
+      description: |
+        Initially intended to purchase up to $500 billion in MBS's, this limit was increased in March 2009 to $1.25 trillion, where it has remained ever since. Private markets must now sustain such purchases of MBS's for housing markets to remain stable, and many Fed officials and industry analysts seem to believe that they are.
 
-      But this is only the second phase of the Fed's exit strategy from MBS's -- the first being announcements of a March 31st end to the program. With over a trillion worth in MBS's on the balance sheet, the Fed will have to develop a strategy for eventually selling these assets. This, however, must occur within the government's broader efforts to restructure and account for Fannie and Freddie.
+        But this is only the second phase of the Fed's exit strategy from MBS's -- the first being announcements of a March 31st end to the program. With over a trillion worth in MBS's on the balance sheet, the Fed will have to develop a strategy for eventually selling these assets. This, however, must occur within the government's broader efforts to restructure and account for Fannie and Freddie.
 
-  - quote: 29
-    book: "The Courage to Act - A Memoir of a Crisis and Its Aftermath"
-    author: Ben S. Bernanke
-    published_date: 2015
-    url: "https://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath-ebook/dp/B00TIZFP0I"
-    pdf_url: "https://www.pdfdrive.com/the-courage-to-act-a-memoir-of-a-crisis-and-its-aftermath-d185122792.html"
-    page: 8 - 11 # this page number is from pdf downloaded from pdfdrive, not from amazon.
-    description: |
-      Now I found myself explaining to the president why the Federal Reserve was planning to lend $85 billion to American International Group (AIG), the world’s largest insurance company. The company had gambled recklessly, using exotic financial instruments to insure securities backed by subprime mortgages.
+    - quote: 29
+      book: "The Courage to Act - A Memoir of a Crisis and Its Aftermath"
+      author: Ben S. Bernanke
+      published_date: 2015
+      url: "https://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath-ebook/dp/B00TIZFP0I"
+      pdf_url: "https://www.pdfdrive.com/the-courage-to-act-a-memoir-of-a-crisis-and-its-aftermath-d185122792.html"
+      page: 8 - 11 # this page number is from pdf downloaded from pdfdrive, not from amazon.
+      description: |
+        Now I found myself explaining to the president why the Federal Reserve was planning to lend $85 billion to American International Group (AIG), the world’s largest insurance company. The company had gambled recklessly, using exotic financial instruments to insure securities backed by subprime mortgages.
 
-      With more than $1 trillion in assets, AIG was more than 50 percent larger than Lehman. It operated in more than 130 countries and had more than 74 million individual and corporate customers worldwide. It provided commercial insurance to 180,000 small businesses and other corporate entities employing 106 million people—two-thirds of American workers. Its insurance products protected municipalities, pension funds, and participants in 401(k) retirement plans. AIG’s collapse could well trigger the failures of yet more financial giants, both in the United States and abroad.
+        With more than $1 trillion in assets, AIG was more than 50 percent larger than Lehman. It operated in more than 130 countries and had more than 74 million individual and corporate customers worldwide. It provided commercial insurance to 180,000 small businesses and other corporate entities employing 106 million people—two-thirds of American workers. Its insurance products protected municipalities, pension funds, and participants in 401(k) retirement plans. AIG’s collapse could well trigger the failures of yet more financial giants, both in the United States and abroad.
 
-      Without doubt, the risks we would be taking were huge. Though $85 billion was an enormous sum, much more was at stake than money. If AIG failed even with the loan, the financial panic would intensify, and market confidence in the Fed’s ability to control the crisis could be destroyed. Moreover, the future of the Fed itself could be at risk.
+        Without doubt, the risks we would be taking were huge. Though $85 billion was an enormous sum, much more was at stake than money. If AIG failed even with the loan, the financial panic would intensify, and market confidence in the Fed’s ability to control the crisis could be destroyed. Moreover, the future of the Fed itself could be at risk.
 
-  - quote: 30
-    topic: "Subprime mortgage crisis"
-    source: "Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
-    description: |
-      The Financial Crisis Inquiry Commission reported in January 2011 that CDS contributed significantly to the crisis. Companies were able to sell protection to investors against the default of mortgage-backed securities, helping to launch and expand the market for new, complex instruments such as CDO's. This further fueled the housing bubble. They also amplified the losses from the collapse of the housing bubble by allowing multiple bets on the same securities and helped spread these bets throughout the financial system. Companies selling protection, such as AIG, were not required to set aside sufficient capital to cover their obligations when significant defaults occurred. Because many CDS were not traded on exchanges, the obligations of key financial institutions became hard to measure, creating uncertainty in the financial system.
+    - quote: 30
+      topic: "Subprime mortgage crisis"
+      source: "Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+      description: |
+        The Financial Crisis Inquiry Commission reported in January 2011 that CDS contributed significantly to the crisis. Companies were able to sell protection to investors against the default of mortgage-backed securities, helping to launch and expand the market for new, complex instruments such as CDO's. This further fueled the housing bubble. They also amplified the losses from the collapse of the housing bubble by allowing multiple bets on the same securities and helped spread these bets throughout the financial system. Companies selling protection, such as AIG, were not required to set aside sufficient capital to cover their obligations when significant defaults occurred. Because many CDS were not traded on exchanges, the obligations of key financial institutions became hard to measure, creating uncertainty in the financial system.
 
-  - quote: 31
-    topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
-    source: "U.S. Government Publishing Office"
-    url: "www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
-    page: XXIV
-    description: |
-      OTC derivatives contributed to the crisis in three significant ways. First, one type of derivative—credit default swaps (CDS)—fueled the mortgage securitization pipeline. CDS were sold to investors to protect against the default or decline in value of mortgage-related securities backed by risky loans. Companies sold protection—to the tune of $79 billion, in AIG’s case—to investors in these newfangled mortgage securities, helping to launch and expand the market and, in turn, to further fuel the housing bubble.
+    - quote: 31
+      topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
+      source: "U.S. Government Publishing Office"
+      url: "http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
+      page: XXIV
+      description: |
+        OTC derivatives contributed to the crisis in three significant ways. First, one type of derivative—credit default swaps (CDS)—fueled the mortgage securitization pipeline. CDS were sold to investors to protect against the default or decline in value of mortgage-related securities backed by risky loans. Companies sold protection—to the tune of $79 billion, in AIG’s case—to investors in these newfangled mortgage securities, helping to launch and expand the market and, in turn, to further fuel the housing bubble.
 
   #####################################################################################################
   # 7.  b) Mortgage Originators: Where they unethical in creating a massive increase in blow-up mortgages (compared to other times)
@@ -676,13 +686,13 @@ quotes:
 
        As these mortgages began to default, the three agencies were compelled to go back and redo their ratings. Between autumn of 2007 and the middle of 2008, agencies downgraded nearly $2 trillion in MBS tranches. By the end of 2008, 80% of the CDOs by value rated "triple-A" were downgraded to junk. Bank writedowns and losses on these investments totaled $523 billion.
 
-  - quote: 43
-    topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
-    source: "U.S. Government Publishing Office"
-    url: "www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
-    page: XXV
-    description: |
-      The three credit rating agencies were key enablers of the financial meltdown. The mortgage-related securities at the heart of the crisis could not have been marketed and sold without their seal of approval. Investors relied on them, often blindly. In some cases, they were obligated to use them, or regulatory capital standards were hinged on them. This crisis could not have happened without the rating agencies. Their ratings helped the market soar and their downgrades through 2007 and 2008 wreaked havoc across markets and firms.
+    - quote: 43
+      topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
+      source: "U.S. Government Publishing Office"
+      url: "http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
+      page: XXV
+      description: |
+       The three credit rating agencies were key enablers of the financial meltdown. The mortgage-related securities at the heart of the crisis could not have been marketed and sold without their seal of approval. Investors relied on them, often blindly. In some cases, they were obligated to use them, or regulatory capital standards were hinged on them. This crisis could not have happened without the rating agencies. Their ratings helped the market soar and their downgrades through 2007 and 2008 wreaked havoc across markets and firms.
 
       And you will see that without the active participation of the rating agencies, the market for mortgage-related securities could not have been what it became.
 
@@ -907,234 +917,234 @@ quotes:
 
 # {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
 resources:
-  - files_download_site:
-      - http://www.acsu.buffalo.edu/~keechung/TEM/Journal%20Articles/Collusion%20B%201994.pdf
-      - https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr
-      - www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
-      - https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf
+    - files_download_site:
+        - http://www.acsu.buffalo.edu/~keechung/TEM/Journal%20Articles/Collusion%20B%201994.pdf
+        - https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr
+        - http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
+        - https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf
 
-  - sites:
-      - https://www.selectusa.gov/financial-services-industry-united-states
-      - https://www.census.gov/services/qss/historic_data.html
-      - https://www.statista.com/study/15822/banking-finance-and-insurance-in-the-us/
-      - https://www.statista.com/study/15822/industry-report--banking-and-finance/
-      - https://www.statista.com/study/15823/industry-report--insurance-carriers-and-related-activities/
-      - https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states
+    - sites:
+        - https://www.selectusa.gov/financial-services-industry-united-states
+        - https://www.census.gov/services/qss/historic_data.html
+        - https://www.statista.com/study/15822/banking-finance-and-insurance-in-the-us/
+        - https://www.statista.com/study/15822/industry-report--banking-and-finance/
+        - https://www.statista.com/study/15823/industry-report--insurance-carriers-and-related-activities/
+        - https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states
 
-  - books:
-      - book: "Flash Boys: A Wall Street Revolt"
-        author: Michael Lewis
-        published_date: March 31, 2014
-        url: "https://www.amazon.com/dp/B00HVJB4VM/"
+    - books:
+        - book: "Flash Boys: A Wall Street Revolt"          
+          author: Michael Lewis
+          published_date: March 31, 2014
+          url: "https://www.amazon.com/dp/B00HVJB4VM/"
 
-      - book: "The Courage to Act - A Memoir of a Crisis and Its Aftermath"
-        author: Ben S. Bernanke
-        published_date: 2015
-        url: "https://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath-ebook/dp/B00TIZFP0I"
+        - book: "The Courage to Act - A Memoir of a Crisis and Its Aftermath"
+          author: Ben S. Bernanke
+          published_date: 2015
+          url: "https://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath-ebook/dp/B00TIZFP0I"
+        
+    - articles:
+        - topic: "The LIBOR Scandal"
+          source: "Investopedia, Jason Fernando, December 3, 2020"
+          url: "https://www.investopedia.com/terms/l/libor-scandal.asp"
 
-  - articles:
-      - topic: "The LIBOR Scandal"
-        source: "Investopedia, Jason Fernando, December 3, 2020"
-        url: "https://www.investopedia.com/terms/l/libor-scandal.asp"
+        - topic: "Libor scandal"
+          source: "wikipedia"
+          url: "https://en.wikipedia.org/wiki/Libor_scandal"
 
-      - topic: "Libor scandal"
-        source: "wikipedia"
-        url: "https://en.wikipedia.org/wiki/Libor_scandal"
+        - topic: "US. Banks Urged to Stop Using Libor on New Loans by End of 2021"
+          source: "Morningstar, Andrew Ackerman, November 30,2020"
+          url: "https://www.morningstar.com/news/dow-jones/202011307523/us-banks-urged-to-stop-using-libor-on-new-loans-by-end-of-2021update-1"
 
-      - topic: "US. Banks Urged to Stop Using Libor on New Loans by End of 2021"
-        source: "Morningstar, Andrew Ackerman, November 30,2020"
-        url: "https://www.morningstar.com/news/dow-jones/202011307523/us-banks-urged-to-stop-using-libor-on-new-loans-by-end-of-2021update-1"
+        - topic: "Three former Barclays traders found guilty in Libor rigging trial"
+          source: "Reuters, Kirstin Ridley, Carolyn Cohn, July 4,2016"
+          url: "https://www.reuters.com/article/uk-libor-barclays-verdict/three-former-barclays-traders-found-guilty-in-libor-rigging-trial-idUKKCN0ZK136"
 
-      - topic: "Three former Barclays traders found guilty in Libor rigging trial"
-        source: "Reuters, Kirstin Ridley, Carolyn Cohn, July 4,2016"
-        url: "https://www.reuters.com/article/uk-libor-barclays-verdict/three-former-barclays-traders-found-guilty-in-libor-rigging-trial-idUKKCN0ZK136"
+        - topic: "Deutsche Bank Ex-Traders Guilty in Libor Rigging Scandal"
+          source: "The Wall Street Journal, Maria Armental, October 17, 2018 "
+          url: "https://www.wsj.com/articles/deutsche-bank-ex-traders-guilty-in-libor-rigging-scandal-1539826687"
 
-      - topic: "Deutsche Bank Ex-Traders Guilty in Libor Rigging Scandal"
-        source: "The Wall Street Journal, Maria Armental, October 17, 2018 "
-        url: "https://www.wsj.com/articles/deutsche-bank-ex-traders-guilty-in-libor-rigging-scandal-1539826687"
+        - topic: "Scandal-hit Libor to be phased out"
+          source: "Marketwatch,  Max Colchester, July 27,2017"
+          url: "https://www.marketwatch.com/story/scandal-hit-libor-to-be-phased-out-2017-07-27"
 
-      - topic: "Scandal-hit Libor to be phased out"
-        source: "Marketwatch,  Max Colchester, July 27,2017"
-        url: "https://www.marketwatch.com/story/scandal-hit-libor-to-be-phased-out-2017-07-27"
+        - topic: "Citi, Deutsche Bank, HSBC agree to pay $132 million to settle Libor claims"
+          source: "Reuters, Brendan Pierson, October 13, 2017"
+          url: "https://fr.reuters.com/article/us-libor-settlement-idUSKBN1CH36N"
 
-      - topic: "Citi, Deutsche Bank, HSBC agree to pay $132 million to settle Libor claims"
-        source: "Reuters, Brendan Pierson, October 13, 2017"
-        url: "https://fr.reuters.com/article/us-libor-settlement-idUSKBN1CH36N"
+        - topic: "Jailed Libor trader Tom Hayes appeals 14-year sentence, conviction"
+          source: "Reuters, Kirstin Ridley, November 30,2015"
+          url: "https://www.reuters.com/article/us-libor-hayes-appeal-idUSKBN0TJ1V820151130"
 
-      - topic: "Jailed Libor trader Tom Hayes appeals 14-year sentence, conviction"
-        source: "Reuters, Kirstin Ridley, November 30,2015"
-        url: "https://www.reuters.com/article/us-libor-hayes-appeal-idUSKBN0TJ1V820151130"
+        - topic: "Examining Corporate Priorities: The Impact of Stock Buybacks on Workers, Communities and Investors"
+          source: "Harvard Law School Forum on Corporate Governance"
+          url: "https://corpgov.law.harvard.edu/2019/10/22/examining-corporate-priorities-the-impact-of-stock-buybacks-on-workers-communities-and-investors/"
 
-      - topic: "Examining Corporate Priorities: The Impact of Stock Buybacks on Workers, Communities and Investors"
-        source: "Harvard Law School Forum on Corporate Governance"
-        url: "https://corpgov.law.harvard.edu/2019/10/22/examining-corporate-priorities-the-impact-of-stock-buybacks-on-workers-communities-and-investors/"
+        - topic: "The Ugly Truth Behind Stock Buybacks"
+          source: "Forbes, February 28,2017"
+          url: "https://www.forbes.com/sites/aalsin/2017/02/28/shareholders-should-be-required-to-vote-on-stock-buybacks/?sh=395b2c676b1e"
 
-      - topic: "The Ugly Truth Behind Stock Buybacks"
-        source: "Forbes, February 28,2017"
-        url: "https://www.forbes.com/sites/aalsin/2017/02/28/shareholders-should-be-required-to-vote-on-stock-buybacks/?sh=395b2c676b1e"
+        - topic: "How Corporations Scam Their Shareholders and Screw Over Workers"
+          source: "The New Republic,Bruce Bartlett, September 28, 2020"
+          url: "https://newrepublic.com/article/159504/corporations-scam-shareholders-screw-workers"
 
-      - topic: "How Corporations Scam Their Shareholders and Screw Over Workers"
-        source: "The New Republic,Bruce Bartlett, September 28, 2020"
-        url: "https://newrepublic.com/article/159504/corporations-scam-shareholders-screw-workers"
+        - topic: "Stock Buybacks Hurt Workers"
+          source: "Communications Workers of America"
+          url: "https://cwa-union.org/stock-buybacks-hurt-workers"
 
-      - topic: "Stock Buybacks Hurt Workers"
-        source: "Communications Workers of America"
-        url: "https://cwa-union.org/stock-buybacks-hurt-workers"
+        - topic: "Why Did Nasdaq market makers stop avoiding odd-eighth quote?"
+          source: "University of Buffalo"
+          url: "http://www.acsu.buffalo.edu/~keechung/TEM/Journal%20Articles/Collusion%20B%201994.pdf"
 
-      - topic: "Why Did Nasdaq market makers stop avoiding odd-eighth quote?"
-        source: "University of Buffalo"
-        url: "http://www.acsu.buffalo.edu/~keechung/TEM/Journal%20Articles/Collusion%20B%201994.pdf"
+        - topic: "Report Pursuant to Section 21(a) of the Securities Exchange Act of 1934 Regarding the NASD and the NASDAQ Market"
+          source: "U.S. Securities and Exchange Commission"
+          url: "https://www.sec.gov/litigation/investreport/nd21a-report.txt"
 
-      - topic: "Report Pursuant to Section 21(a) of the Securities Exchange Act of 1934 Regarding the NASD and the NASDAQ Market"
-        source: "U.S. Securities and Exchange Commission"
-        url: "https://www.sec.gov/litigation/investreport/nd21a-report.txt"
+        - topic: "Probe Launched Into Nasdaq Stock Trading"
+          source: "Los Angeles Times,SCOT J. PALTROW, October 19,1994"
+          url: "https://www.latimes.com/archives/la-xpm-1994-10-19-mn-52099-story.html"
 
-      - topic: "Probe Launched Into Nasdaq Stock Trading"
-        source: "Los Angeles Times,SCOT J. PALTROW, October 19,1994"
-        url: "https://www.latimes.com/archives/la-xpm-1994-10-19-mn-52099-story.html"
+        - topic: "Eliot Spitzer: Ayatollah General"
+          source: "The Atlas Society, April 1, 2005"
+          url: "https://www.atlassociety.org/post/eliot-spitzer-ayatollah-general"
 
-      - topic: "Eliot Spitzer: Ayatollah General"
-        source: "The Atlas Society, April 1, 2005"
-        url: "https://www.atlassociety.org/post/eliot-spitzer-ayatollah-general"
+        - topic: "The Causes of the Subprime Mortgage Crisis"
+          source: "The Balance, Kimberly Amadeo, September 17, 2020"
+          url: "https://www.thebalance.com/what-caused-the-subprime-mortgage-crisis-3305696"
 
-      - topic: "The Causes of the Subprime Mortgage Crisis"
-        source: "The Balance, Kimberly Amadeo, September 17, 2020"
-        url: "https://www.thebalance.com/what-caused-the-subprime-mortgage-crisis-3305696"
+        - topic: "AIG Bailout, Cost, Timeline, Bonuses, Causes, Effects"
+          source: "The Balance, Kimberly Amadeo, November 16, 2020"
+          url: "https://www.thebalance.com/aig-bailout-cost-timeline-bonuses-causes-effects-3305693"
 
-      - topic: "AIG Bailout, Cost, Timeline, Bonuses, Causes, Effects"
-        source: "The Balance, Kimberly Amadeo, November 16, 2020"
-        url: "https://www.thebalance.com/aig-bailout-cost-timeline-bonuses-causes-effects-3305693"
+        - topic: "The AIG Bailout"
+          source: "Washington and Lee Law Review, William K. Sjostrum,Jr, June 1, 2009"
+          volume: 66
+          issue: 3
+          url: "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr"
 
-      - topic: "The AIG Bailout"
-        source: "Washington and Lee Law Review, William K. Sjostrum,Jr, June 1, 2009"
-        volume: 66
-        issue: 3
-        url: "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1062&context=wlulr"
+        - topic: "The AIG Bailout Scandal"
+          source: "The Nation, William Greider, August 6,2010"
+          url: "https://www.thenation.com/article/archive/aig-bailout-scandal/"
 
-      - topic: "The AIG Bailout Scandal"
-        source: "The Nation, William Greider, August 6,2010"
-        url: "https://www.thenation.com/article/archive/aig-bailout-scandal/"
+        - topic: "FAQs: MBS Purchase Program"
+          source: "Federal Reserve Bank of New York"
+          url: "https://www.newyorkfed.org/markets/mbs_faq.html"
 
-      - topic: "FAQs: MBS Purchase Program"
-        source: "Federal Reserve Bank of New York"
-        url: "https://www.newyorkfed.org/markets/mbs_faq.html"
+        - topic: "Did the Federal Reserve's MBS Purchase Program Lower Mortgage Rates?"
+          source: "Board of Governors of the Federal Reserve system"
+          url: "https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf"
+          page: 31
 
-      - topic: "Did the Federal Reserve's MBS Purchase Program Lower Mortgage Rates?"
-        source: "Board of Governors of the Federal Reserve system"
-        url: "https://www.federalreserve.gov/pubs/feds/2011/201101/201101pap.pdf"
-        page: 31
+        - topic: "Fed Ends Purchases of GSE Mortgage-Backed Securities"
+          source: "Committee for a Responsible Federal Budget"
+          url: "https://www.crfb.org/blogs/fed-ends-purchases-gse-mortgage-backed-securities-0"
 
-      - topic: "Fed Ends Purchases of GSE Mortgage-Backed Securities"
-        source: "Committee for a Responsible Federal Budget"
-        url: "https://www.crfb.org/blogs/fed-ends-purchases-gse-mortgage-backed-securities-0"
+        - topic: "Subprime mortgage crisis"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis#Mortgage_fraud_and_predatory_lending"
 
-      - topic: "Subprime mortgage crisis"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis#Mortgage_fraud_and_predatory_lending"
+        - topic: "Deutsche Bank settles US mortgage bond rigging case"
+          source: "Financial Times, Laura Noonan, September 13, 2019"
+          url: "https://www.ft.com/content/30f231fe-d578-11e9-a0bd-ab8ec6435630"
 
-      - topic: "Deutsche Bank settles US mortgage bond rigging case"
-        source: "Financial Times, Laura Noonan, September 13, 2019"
-        url: "https://www.ft.com/content/30f231fe-d578-11e9-a0bd-ab8ec6435630"
+        - topic: "Who Was to Blame for the Subprime Crisis?"
+          source: "Investopedia, Jan 12, 2020"
+          url: "https://www.investopedia.com/articles/07/subprime-blame.asp"
 
-      - topic: "Who Was to Blame for the Subprime Crisis?"
-        source: "Investopedia, Jan 12, 2020"
-        url: "https://www.investopedia.com/articles/07/subprime-blame.asp"
+        - topic: "The Republican Case for Elizabeth Warren? Here’s the Case against That"
+          source: "National Review, David L. Bahnsen, January 31, 2020"
+          url: "https://www.nationalreview.com/2020/01/elizabeth-warren-sheila-bair-case-for-her-is-ironic/"
 
-      - topic: "The Republican Case for Elizabeth Warren? Here’s the Case against That"
-        source: "National Review, David L. Bahnsen, January 31, 2020"
-        url: "https://www.nationalreview.com/2020/01/elizabeth-warren-sheila-bair-case-for-her-is-ironic/"
+        - topic: "Credit Rating Agency Heads Grilled by Lawmakers"
+          source: "The New York Times, Gretchen Morgenson, October 22,2008"
+          url: "https://www.nytimes.com/2008/10/23/business/economy/23rating.html"
 
-      - topic: "Credit Rating Agency Heads Grilled by Lawmakers"
-        source: "The New York Times, Gretchen Morgenson, October 22,2008"
-        url: "https://www.nytimes.com/2008/10/23/business/economy/23rating.html"
+        - topic: "Credit rating agencies and the subprime crisis"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Credit_rating_agencies_and_the_subprime_crisis"
 
-      - topic: "Credit rating agencies and the subprime crisis"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Credit_rating_agencies_and_the_subprime_crisis"
+        - topic: "Savings and Loan Crisis"
+          source: "The Library of Economics and Liberty"
+          url: "https://www.econlib.org/library/Enc/SavingsandLoanCrisis.html"
 
-      - topic: "Savings and Loan Crisis"
-        source: "The Library of Economics and Liberty"
-        url: "https://www.econlib.org/library/Enc/SavingsandLoanCrisis.html"
+        - topic: "Savings and loan crisis"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Savings_and_loan_crisis"
 
-      - topic: "Savings and loan crisis"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Savings_and_loan_crisis"
+        - topic: "U.S. Timeline - The 1980s"
+          source: "America's Best History"
+          url: "https://americasbesthistory.com/abhtimeline1989m2.html"
 
-      - topic: "U.S. Timeline - The 1980s"
-        source: "America's Best History"
-        url: "https://americasbesthistory.com/abhtimeline1989m2.html"
+        - topic: "Long-Term Capital Management"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Long-Term_Capital_Management"
 
-      - topic: "Long-Term Capital Management"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Long-Term_Capital_Management"
+        - topic: "Long-Term Capital Management Hedge Fund Crisis"
+          source: "The Balance, Kimberly Amadeo, January 08, 2020"
+          url: "https://www.thebalance.com/long-term-capital-crisis-3306240"
 
-      - topic: "Long-Term Capital Management Hedge Fund Crisis"
-        source: "The Balance, Kimberly Amadeo, January 08, 2020"
-        url: "https://www.thebalance.com/long-term-capital-crisis-3306240"
+        - topic: "Long-Term Capital Management (LTCM)"
+          source: "Investopedia, Adam Hayes, June 12, 2019"
+          url: "https://www.investopedia.com/terms/l/longtermcapital.asp"
 
-      - topic: "Long-Term Capital Management (LTCM)"
-        source: "Investopedia, Adam Hayes, June 12, 2019"
-        url: "https://www.investopedia.com/terms/l/longtermcapital.asp"
+        - topic: "The Epic Story Of How A 'Genius' Hedge Fund Almost Caused A Global Financial Meltdown"
+          source: "Business Insider,  Stephanie Yang, July 11,2014"
+          url: "https://www.businessinsider.com/the-fall-of-long-term-capital-management-2014-7"
 
-      - topic: "The Epic Story Of How A 'Genius' Hedge Fund Almost Caused A Global Financial Meltdown"
-        source: "Business Insider,  Stephanie Yang, July 11,2014"
-        url: "https://www.businessinsider.com/the-fall-of-long-term-capital-management-2014-7"
+        - topic: "JUSTICE DEPARTMENT CHARGES 24 MAJOR NASDAQ SECURITIES FIRMS WITH FIXING TRANSACTION COSTS FOR INVESTORs"
+          source: "The United States Department of Justice"
+          url: "https://www.justice.gov/archive/opa/pr/1996/July96/343-at.html"
 
-      - topic: "JUSTICE DEPARTMENT CHARGES 24 MAJOR NASDAQ SECURITIES FIRMS WITH FIXING TRANSACTION COSTS FOR INVESTORs"
-        source: "The United States Department of Justice"
-        url: "https://www.justice.gov/archive/opa/pr/1996/July96/343-at.html"
+        - topic: "Probe Launched Into Nasdaq Stock Trading"
+          source: "Los Angeles Times, SCOT J. PALTROW, October 19, 1994"
+          url: "https://www.latimes.com/archives/la-xpm-1994-10-19-mn-52099-story.html"
 
-      - topic: "Probe Launched Into Nasdaq Stock Trading"
-        source: "Los Angeles Times, SCOT J. PALTROW, October 19, 1994"
-        url: "https://www.latimes.com/archives/la-xpm-1994-10-19-mn-52099-story.html"
+        - topic: "Flash Boys"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Flash_Boys"
 
-      - topic: "Flash Boys"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Flash_Boys"
+        - topic: "Is High-Frequency Trading as Bad as Michael Lewis Wants You to Think?"
+          source: "The Atlantic, Eric Levenson and Dashiell Bennett, April 1, 2014"
+          url: "https://www.theatlantic.com/business/archive/2014/04/is-high-frequency-trading-as-bad-as-michael-lewis-wants-you-to-think/359903/"
 
-      - topic: "Is High-Frequency Trading as Bad as Michael Lewis Wants You to Think?"
-        source: "The Atlantic, Eric Levenson and Dashiell Bennett, April 1, 2014"
-        url: "https://www.theatlantic.com/business/archive/2014/04/is-high-frequency-trading-as-bad-as-michael-lewis-wants-you-to-think/359903/"
+        - topic: "SEC Caught Dark Pool and High Speed Traders Doing Bad Stuff"
+          source: "Bloomberg, Matt Levine, June 7, 2014"
+          url: "https://www.bloomberg.com/opinion/articles/2014-06-06/sec-caught-dark-pool-and-high-speed-traders-doing-bad-stuff"
 
-      - topic: "SEC Caught Dark Pool and High Speed Traders Doing Bad Stuff"
-        source: "Bloomberg, Matt Levine, June 7, 2014"
-        url: "https://www.bloomberg.com/opinion/articles/2014-06-06/sec-caught-dark-pool-and-high-speed-traders-doing-bad-stuff"
+        - topic: "Liquidnet, a Dark Pool Operator, Is Fined $2 Million Over Customer Data"
+          source: "The New York Times,  William Alden June 6, 2014"
+          url: "https://dealbook.nytimes.com/2014/06/06/liquidnet-a-dark-pool-operator-is-fined-2-million-over-customer-data/?mtrref=undefined&gwh=759452B34D150B56A9B157441EDCC5BB&gwt=regi&assetType=REGIWALL"
 
-      - topic: "Liquidnet, a Dark Pool Operator, Is Fined $2 Million Over Customer Data"
-        source: "The New York Times,  William Alden June 6, 2014"
-        url: "https://dealbook.nytimes.com/2014/06/06/liquidnet-a-dark-pool-operator-is-fined-2-million-over-customer-data/?mtrref=undefined&gwh=759452B34D150B56A9B157441EDCC5BB&gwt=regi&assetType=REGIWALL"
+        - topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
+          source: "U.S. Government Publishing Office"
+          url: "www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
 
-      - topic: "THE FINANCIAL CRISIS INQUIRY REPORT"
-        source: "U.S. Government Publishing Office"
-        url: "www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
+        - topic: "Who Was to Blame for the Subprime Crisis?"
+          source: "Investopedia, Jan 12, 2020"
+          url: "https://www.investopedia.com/articles/07/subprime-blame.asp#investment-banks-worsen-the-situation"
 
-      - topic: "Who Was to Blame for the Subprime Crisis?"
-        source: "Investopedia, Jan 12, 2020"
-        url: "https://www.investopedia.com/articles/07/subprime-blame.asp#investment-banks-worsen-the-situation"
+        - topic: "What Was the Subprime Mortgage Crisis and How Did it Happen?"
+          source: "TheStreet, Steve Fiorillo, September 7,2018"
+          url: "https://www.thestreet.com/personal-finance/mortgages/subprime-mortgage-crisis-14704400"
 
-      - topic: "What Was the Subprime Mortgage Crisis and How Did it Happen?"
-        source: "TheStreet, Steve Fiorillo, September 7,2018"
-        url: "https://www.thestreet.com/personal-finance/mortgages/subprime-mortgage-crisis-14704400"
+        - topic: "London InterBank Offered Rate (LIBOR)"
+          source: "Investopedia, Julia Kagan, Dec 3, 2020"
+          url: "https://www.investopedia.com/terms/l/libor.asp#libor-scandal-of-rate-rigging"
 
-      - topic: "London InterBank Offered Rate (LIBOR)"
-        source: "Investopedia, Julia Kagan, Dec 3, 2020"
-        url: "https://www.investopedia.com/terms/l/libor.asp#libor-scandal-of-rate-rigging"
+        - topic: "Libor scandal"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Libor_scandal#Fines_for_manipulation"
+          
+        - topic: "Understanding the Libor Scandal"
+          source: "Council on Foreigh Relations"
+          url: "https://www.cfr.org/backgrounder/understanding-libor-scandal"
+        
+        - topic: "Eliot Spitzer"
+          source: "Wikipedia"
+          url: "https://en.wikipedia.org/wiki/Eliot_Spitzer"
 
-      - topic: "Libor scandal"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Libor_scandal#Fines_for_manipulation"
-
-      - topic: "Understanding the Libor Scandal"
-        source: "Council on Foreigh Relations"
-        url: "https://www.cfr.org/backgrounder/understanding-libor-scandal"
-
-      - topic: "Eliot Spitzer"
-        source: "Wikipedia"
-        url: "https://en.wikipedia.org/wiki/Eliot_Spitzer"
-
-      - topic: "Eliot Spitzer: Wall Street's fallen angel"
-        source: "The Guardian, Paul Harris, February 27, 2011"
-        url: "https://www.theguardian.com/world/2011/feb/27/eliot-spitzer-wall-street-fallen-angel"
+        - topic: "Eliot Spitzer: Wall Street's fallen angel"
+          source: "The Guardian, Paul Harris, February 27, 2011"
+          url: "https://www.theguardian.com/world/2011/feb/27/eliot-spitzer-wall-street-fallen-angel"
 
 #{~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
 #{~C~} It can also list the key year (or years) of the problem.

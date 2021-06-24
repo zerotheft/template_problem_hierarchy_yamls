@@ -92,17 +92,16 @@ describe_problem_area: |
 #  Your reasoning should provide a strong case for how the economy is being rigged against citizens.
 #  These are just examples and ideas to get you started.  You should delete them and build your own arguments.
 reasoning: |
-  Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not) 
-  because of this.
+  ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not) because of this.~C~
 
 #  The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem.
 #  Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy.
 #  These are just examples and ideas to get you started.  You should delete them and build your own arguments.
 reasoning_on_size_of_problem:
   - reasoning: |
-      Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.
+      ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
   - how_summary_is_calculated: |
-      Provide the formula or method you used to reach the number you specified in Summary.
+      ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
