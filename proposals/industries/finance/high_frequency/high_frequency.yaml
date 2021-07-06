@@ -9,45 +9,78 @@
 # {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
 
 # The following summary is not an exact amount, but an opinion on an approximation
-# Citizens are often powerless.  
+# Citizens are often powerless.
 # The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
 # When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
-summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
-summary_year: ~C~2019~C~
 summary_country: USA
 hierarchy: industries/finance/high_frequency
 title: Is High Frequency Trading a pointer to Rigged Economy?
 
+stolen_2021: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2020: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2019: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2018: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2017: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2016: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2015: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2014: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2013: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2012: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2011: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2010: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2009: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2008: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2007: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2006: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2005: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2004: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2003: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2002: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2001: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2000: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1999: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1998: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1997: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1996: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1995: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1994: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1993: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1992: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1991: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1990: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1989: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1988: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1987: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 
 author:
-    name: ~C~anonymous~C~
-    email: ~C~anonymous@example.com~C~
+  name: ~C~anonymous~C~
+  email: ~C~anonymous@example.com~C~
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-    High Frequency tradings started since 1930s. Computer based High Frequency Tradings got introduced in the year 1983 by NASDAQ. By the year 2010 high frequency trading execution time has come down to micro seconds.
-    
-    Due to the super speed of transactions for such high volumes there always remains a worry about transactions being rigged and hence it contributes to rigged economy.
-  
+  High Frequency tradings started since 1930s. Computer based High Frequency Tradings got introduced in the year 1983 by NASDAQ. By the year 2010 high frequency trading execution time has come down to micro seconds.
+
+  Due to the super speed of transactions for such high volumes there always remains a worry about transactions being rigged and hence it contributes to rigged economy.
+
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning: |
-    ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
-    ~C~because of this.~C~
-    
+  ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
+  ~C~because of this.~C~
+
 # {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
 # {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
-    - reasoning: |
-       ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
-    - how_summary_is_calculated: |
-       ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
-       
+  - reasoning: |
+      ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
+  - how_summary_is_calculated: |
+      ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
+
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-   high_frequency_trading_in_the_US:
+  high_frequency_trading_in_the_US:
     source: https://www.ibisworld.com/industry-statistics/market-size/high-frequency-trading-united-states/
     market_size:
       2020: $6369.5 million ($6.4 billion)
@@ -60,127 +93,127 @@ size_of_problem:
       2013: $5655.8 million ($5.6 billion)
       2012: $9338.5 million ($9.3 billion)
       2011: $22554.5 million ($22.6 billion)
-    
+
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
-    - quote: 1
-      book: "Flash Boys: A Wall Street Revolt"
-      author: Michael Lewis
-      published: March 31, 2014
-      url: https://www.amazon.com/dp/B00HVJB4VM/
-      description: |
-        The U.S. financial markets had always been either corrupt or about to be corrupted.
-      
-    - quote: 2
-      book: "Flash Boys: A Wall Street Revolt"
-      author: Michael Lewis
-      published: March 31, 2014
-      url: https://www.amazon.com/dp/B00HVJB4VM/
-      description: |
-        The U.S. stock market now trades inside black boxes, in heavily guarded buildings in New Jersey and Chicago.
+  - quote: 1
+    book: "Flash Boys: A Wall Street Revolt"
+    author: Michael Lewis
+    published: March 31, 2014
+    url: https://www.amazon.com/dp/B00HVJB4VM/
+    description: |
+      The U.S. financial markets had always been either corrupt or about to be corrupted.
 
-    - quote: 3
-      book: "Flash Boys: A Wall Street Revolt"
-      author: Michael Lewis
-      published: March 31, 2014
-      url: https://www.amazon.com/dp/B00HVJB4VM/
-      description: |
-        People no longer are responsible for what happens in the market, because computers make all the decisions.
+  - quote: 2
+    book: "Flash Boys: A Wall Street Revolt"
+    author: Michael Lewis
+    published: March 31, 2014
+    url: https://www.amazon.com/dp/B00HVJB4VM/
+    description: |
+      The U.S. stock market now trades inside black boxes, in heavily guarded buildings in New Jersey and Chicago.
 
-    - quote: 4
-      book: "Flash Boys: A Wall Street Revolt"
-      author: Michael Lewis
-      published: March 31, 2014
-      url: https://www.amazon.com/dp/B00HVJB4VM/
-      description: |
-        The U.S. stock market was now a class system, rooted in speed, of haves and have-nots. The haves paid for nanoseconds; the have-nots had no idea that a nanosecond had value.
+  - quote: 3
+    book: "Flash Boys: A Wall Street Revolt"
+    author: Michael Lewis
+    published: March 31, 2014
+    url: https://www.amazon.com/dp/B00HVJB4VM/
+    description: |
+      People no longer are responsible for what happens in the market, because computers make all the decisions.
 
-    - quote: 5
-      book: "Flash Boys: A Wall Street Revolt"
-      author: Michael Lewis
-      published: March 31, 2014
-      url: https://www.amazon.com/dp/B00HVJB4VM/
-      description: |
-        The U.S. financial markets had always been either corrupt or about to be corrupted.
+  - quote: 4
+    book: "Flash Boys: A Wall Street Revolt"
+    author: Michael Lewis
+    published: March 31, 2014
+    url: https://www.amazon.com/dp/B00HVJB4VM/
+    description: |
+      The U.S. stock market was now a class system, rooted in speed, of haves and have-nots. The haves paid for nanoseconds; the have-nots had no idea that a nanosecond had value.
 
-    - quote: 6
-      book: "Flash Boys: A Wall Street Revolt"
-      author: Michael Lewis
-      published: March 31, 2014
-      url: https://www.amazon.com/dp/B00HVJB4VM/
-      description: |
-        No one could say for sure what caused the flash crash—for the same reason no one could prove that high-frequency traders were front-running the orders of ordinary investors. The data didn’t exist. But Brad sensed that the investment community was not persuaded by the SEC’s explanation and by the assurances of the stock exchanges that all was well inside them. A lot of them asked the same question he was asking himself: Isn’t there a much deeper question of how this one snowball caused a deadly avalanche? He watched the most sophisticated investors respond after Duncan Niederauer, the CEO of the New York Stock Exchange, embarked on a goodwill tour, the purpose of which seemed to be to explain why the New York Stock Exchange had nothing to do with the flash crash.
+  - quote: 5
+    book: "Flash Boys: A Wall Street Revolt"
+    author: Michael Lewis
+    published: March 31, 2014
+    url: https://www.amazon.com/dp/B00HVJB4VM/
+    description: |
+      The U.S. financial markets had always been either corrupt or about to be corrupted.
 
-        Every router, when it bought stock, tended to drive the price of that stock a bit higher. But when the stock had settled—say, ten seconds later—it settled differently with each router. The sequential costeffective router caused the share price to remain higher than the spray router did, and the spray router caused it to move higher than Thor did. “I have no scientific evidence,” said Brad. “This is purely a theory. But with Thor the HFT firms are trying to cover their losses. I’m short when I don’t want to be, so I need to buy to cover, quickly.” The other two routers enabled HFT to front-run, so they wound up being long the stock. “[With] the other two, HFT is in a position to trade around a winning position,” said Brad, “and they can do whatever they can do to force the stock even higher.” (Or lower, if the investor who triggered the activity is a seller.) They had, in those privileged microseconds, the reckless abandon of gamblers playing with house money.
+  - quote: 6
+    book: "Flash Boys: A Wall Street Revolt"
+    author: Michael Lewis
+    published: March 31, 2014
+    url: https://www.amazon.com/dp/B00HVJB4VM/
+    description: |
+      No one could say for sure what caused the flash crash—for the same reason no one could prove that high-frequency traders were front-running the orders of ordinary investors. The data didn’t exist. But Brad sensed that the investment community was not persuaded by the SEC’s explanation and by the assurances of the stock exchanges that all was well inside them. A lot of them asked the same question he was asking himself: Isn’t there a much deeper question of how this one snowball caused a deadly avalanche? He watched the most sophisticated investors respond after Duncan Niederauer, the CEO of the New York Stock Exchange, embarked on a goodwill tour, the purpose of which seemed to be to explain why the New York Stock Exchange had nothing to do with the flash crash.
 
-    - quote: 7
-      topic: "Flash Boys"
-      source: "Wikipedia"
-      url: https://en.wikipedia.org/wiki/Flash_Boys
-      description: |
-        Lewis concludes that HFT is used as a method to front run orders placed by investors. He goes further to suggest that broad technological changes and unethical trading practices have transformed the U.S. stock market from "the world's most public, most democratic, financial market" into a "rigged" market.
+      Every router, when it bought stock, tended to drive the price of that stock a bit higher. But when the stock had settled—say, ten seconds later—it settled differently with each router. The sequential costeffective router caused the share price to remain higher than the spray router did, and the spray router caused it to move higher than Thor did. “I have no scientific evidence,” said Brad. “This is purely a theory. But with Thor the HFT firms are trying to cover their losses. I’m short when I don’t want to be, so I need to buy to cover, quickly.” The other two routers enabled HFT to front-run, so they wound up being long the stock. “[With] the other two, HFT is in a position to trade around a winning position,” said Brad, “and they can do whatever they can do to force the stock even higher.” (Or lower, if the investor who triggered the activity is a seller.) They had, in those privileged microseconds, the reckless abandon of gamblers playing with house money.
 
-    - quote: 8
-      topic: "Is High-Frequency Trading as Bad as Michael Lewis Wants You to Think?"
-      source: "The Atlantic, Eric Levenson and Dashiell Bennett, April 1, 2014"
-      url: https://www.theatlantic.com/business/archive/2014/04/is-high-frequency-trading-as-bad-as-michael-lewis-wants-you-to-think/359903/
-      description: |
-        When companies that are equipped to do high-frequency trading receive that order, they (or their computers) recognize that a certain stock is about to be purchased in large quantities. So in the split-second before the order is filled they start buying up the stock. By "front running" the order, they can drive up the price of that stock, forcing the company placing the original order to pay more than they otherwise would have. The whole process is automated and takes just milliseconds, but do it enough times, with enough stock shares, over a long enough period, and it really starts to add up. 
+  - quote: 7
+    topic: "Flash Boys"
+    source: "Wikipedia"
+    url: https://en.wikipedia.org/wiki/Flash_Boys
+    description: |
+      Lewis concludes that HFT is used as a method to front run orders placed by investors. He goes further to suggest that broad technological changes and unethical trading practices have transformed the U.S. stock market from "the world's most public, most democratic, financial market" into a "rigged" market.
 
-        There are two ways of characterizing high frequency trading. In one, HFTs are front-running big investors, rigging the game against them and making the stock market illusory. In the other, HFTs are reacting instantly to demand, avoiding being picked off by informed investors and making the stock market more efficient.
+  - quote: 8
+    topic: "Is High-Frequency Trading as Bad as Michael Lewis Wants You to Think?"
+    source: "The Atlantic, Eric Levenson and Dashiell Bennett, April 1, 2014"
+    url: https://www.theatlantic.com/business/archive/2014/04/is-high-frequency-trading-as-bad-as-michael-lewis-wants-you-to-think/359903/
+    description: |
+      When companies that are equipped to do high-frequency trading receive that order, they (or their computers) recognize that a certain stock is about to be purchased in large quantities. So in the split-second before the order is filled they start buying up the stock. By "front running" the order, they can drive up the price of that stock, forcing the company placing the original order to pay more than they otherwise would have. The whole process is automated and takes just milliseconds, but do it enough times, with enough stock shares, over a long enough period, and it really starts to add up. 
 
-    - quote: 9
-      topic: "Too much high-frequency trading can rig the market, IEX founder says"
-      source: "Marketplace, Molly Wood, September 18, 2018"
-      url: https://www.marketplace.org/2018/09/18/too-much-high-frequency-trading-can-rig-market-says-iex-exchange-founder/
-      description: |
-        High-frequency trading relies on algorithms, and professor Jonathan Macey of the Yale School of Management labels some of them parasitic.
+      There are two ways of characterizing high frequency trading. In one, HFTs are front-running big investors, rigging the game against them and making the stock market illusory. In the other, HFTs are reacting instantly to demand, avoiding being picked off by informed investors and making the stock market more efficient.
 
-         Macey said while it might be small amounts of money on individual trades, “there [are] so many trades that it adds up into the billions of dollars.”
+  - quote: 9
+    topic: "Too much high-frequency trading can rig the market, IEX founder says"
+    source: "Marketplace, Molly Wood, September 18, 2018"
+    url: https://www.marketplace.org/2018/09/18/too-much-high-frequency-trading-can-rig-market-says-iex-exchange-founder/
+    description: |
+      High-frequency trading relies on algorithms, and professor Jonathan Macey of the Yale School of Management labels some of them parasitic.
 
-         Katsuyama said HFT technologies are rigging the market in a way that means the system as a whole is “benefiting fewer people.”
+       Macey said while it might be small amounts of money on individual trades, “there [are] so many trades that it adds up into the billions of dollars.”
 
-         To Katsuyama, the bigger problem isn’t the technology — it’s the way in which it’s being used. Fifty to 60 percent of the market is classified as high-frequency trading, “so the majority of the stock market are now machines [that] really don’t even understand the fundamentals of a company.” The algorithms are built to trade based upon the reactions of other traders, which he said is “a significant problem.”
+       Katsuyama said HFT technologies are rigging the market in a way that means the system as a whole is “benefiting fewer people.”
 
-    - quote: 10
-      topic: "'The market is rigged' - Michael Lewis"
-      source: "BBC News, Kamal Ahmed, April 10, 2015"
-      url: https://www.bbc.com/news/business-32246655
-      description: |
-        Mr Munger said that high-frequency trading was "the functional equivalent of letting a lot of rats into a granary".
+       To Katsuyama, the bigger problem isn’t the technology — it’s the way in which it’s being used. Fifty to 60 percent of the market is classified as high-frequency trading, “so the majority of the stock market are now machines [that] really don’t even understand the fundamentals of a company.” The algorithms are built to trade based upon the reactions of other traders, which he said is “a significant problem.”
 
-        Because HFT firms execute deals in tiny fractions of seconds they are able to "front run" human traders who are buying stocks and make a small "skim" on the deal by pushing prices up or down.
+  - quote: 10
+    topic: "'The market is rigged' - Michael Lewis"
+    source: "BBC News, Kamal Ahmed, April 10, 2015"
+    url: https://www.bbc.com/news/business-32246655
+    description: |
+      Mr Munger said that high-frequency trading was "the functional equivalent of letting a lot of rats into a granary".
 
-        Although each "skim" is tiny, the overall effect, according to Mr Lewis, is that billions of dollars are being lost by investors to HFT firms which have inserted themselves into the market.
+      Because HFT firms execute deals in tiny fractions of seconds they are able to "front run" human traders who are buying stocks and make a small "skim" on the deal by pushing prices up or down.
 
-        Martin Wheatley, the head of the markets watchdog the Financial Conduct Authority, has said that high-frequency trading now accounts for 30% of business on the UK equity market. In America it is higher.
+      Although each "skim" is tiny, the overall effect, according to Mr Lewis, is that billions of dollars are being lost by investors to HFT firms which have inserted themselves into the market.
 
-    - quote: 11
-      topic: "'The market is rigged' - Michael Lewis"
-      source: "CNBC, Michelle Fox, March 23, 2015"
-      url: https://www.cnbc.com/2015/03/23/flash-boys-michael-lewis-markets-still-rigged.html
-      description: |
-        Lewis claimed the market was rigged in favor of high-frequency traders, who use sophisticated computer algorithms to execute orders at very fast speeds.
+      Martin Wheatley, the head of the markets watchdog the Financial Conduct Authority, has said that high-frequency trading now accounts for 30% of business on the UK equity market. In America it is higher.
 
-    - quote: 12
-      topic: "'High-frequency trading runs over a rigged market: Barry Ritholtz"
-      source: "InvestmentNews, Barry Ritholtz, July 8, 2014"
-      url: https://www.investmentnews.com/high-frequency-trading-runs-over-a-rigged-market-barry-ritholtz-57143
-      description: |
-        On "60 Minutes," author Michael Lewis made a bland assertion: High-frequency traders, he said, working with U.S. stock exchanges and big banks, have rigged the markets in their own favor. The only surprising thing about Lewis's charge was that anyone could be even remotely surprised by it.
+  - quote: 11
+    topic: "'The market is rigged' - Michael Lewis"
+    source: "CNBC, Michelle Fox, March 23, 2015"
+    url: https://www.cnbc.com/2015/03/23/flash-boys-michael-lewis-markets-still-rigged.html
+    description: |
+      Lewis claimed the market was rigged in favor of high-frequency traders, who use sophisticated computer algorithms to execute orders at very fast speeds.
+
+  - quote: 12
+    topic: "'High-frequency trading runs over a rigged market: Barry Ritholtz"
+    source: "InvestmentNews, Barry Ritholtz, July 8, 2014"
+    url: https://www.investmentnews.com/high-frequency-trading-runs-over-a-rigged-market-barry-ritholtz-57143
+    description: |
+      On "60 Minutes," author Michael Lewis made a bland assertion: High-frequency traders, he said, working with U.S. stock exchanges and big banks, have rigged the markets in their own favor. The only surprising thing about Lewis's charge was that anyone could be even remotely surprised by it.
 
 # {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
 resources:
-    - sites:
+  - sites:
       - https://www.ibisworld.com/industry-statistics/market-size/high-frequency-trading-united-states/
 
-    - books:
-      - book: "Flash Boys: A Wall Street Revolt"          
+  - books:
+      - book: "Flash Boys: A Wall Street Revolt"
         author: Michael Lewis
         published_date: March 31, 2014
         url: "https://www.amazon.com/dp/B00HVJB4VM/"
 
-    - articles:
+  - articles:
       - topic: "Flash Boys"
         source: "Wikipedia"
         url: https://en.wikipedia.org/wiki/Flash_Boys
@@ -212,7 +245,7 @@ resources:
 # {~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
 # {~C~} It can also list the key year (or years) of the problem.
 years_covered:
-    - data_range:
+  - data_range:
       - from: 2011
       - to: 2020
 

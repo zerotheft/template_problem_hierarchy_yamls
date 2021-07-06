@@ -9,223 +9,242 @@
 # {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
 
 # The following summary is not an exact amount, but an opinion on an approximation
-# Citizens are often powerless.  
+# Citizens are often powerless.
 # The government rarely uses criminal prosecution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
 # When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
-summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
-summary_year: ~C~2019~C~
 summary_country: USA
 hierarchy: industries/pharma/medicare_negotiation
 title: Ripped off by illegal for Medicare to negotiate drug prices
 
-author:
-    name: ~C~anonymous~C~
-    email: ~C~anonymous@example.com~C~
+stolen_2021: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2020: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2019: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2018: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2017: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2016: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2015: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2014: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2013: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2012: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2011: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2010: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2009: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2008: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2007: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2006: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2005: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2004: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2003: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2002: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2001: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 
+author:
+  name: ~C~anonymous~C~
+  email: ~C~anonymous@example.com~C~
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-    Medicare is a U.S. national health insurance program that provides medical insurance primarily for those aged 65 and up. 
+  Medicare is a U.S. national health insurance program that provides medical insurance primarily for those aged 65 and up. 
 
-    Medicare Part D of Medicare provides prescription drug coverage. Congress passed a law (the non-interference clause) that prohibited Medicare from being able to negotiate drug prices, requiring accepting the price the drug companies offered.
-    
-    The question is: has the non-interference clause in Medicare Part D caused excessive spending of taxpayer money and brought extra profits to the pharmaceutical industry?  Has this rigged the economy in favor of the pharmaceutical industry, and resulted in excessive spending of taxpayer money?
-    
-    In the ten years between 2007 and 2017, the cost to the US government for just the Part D prescription drug coverage alone was just under $1 trillion. With blocked (or limited) ability to negotiate drug prices, the issue to vote on is IF this causes "theft" by extra profit for the pharmaceutical industry that sets the prices since negotation is banned (or reduced).
+  Medicare Part D of Medicare provides prescription drug coverage. Congress passed a law (the non-interference clause) that prohibited Medicare from being able to negotiate drug prices, requiring accepting the price the drug companies offered.
 
-    If you approximated a negotiated 15% reduction in price would represent a savings of $150 billion. Or to put it another way, you are voting on if the Pharmaceutical Industry STOLE at least $150 billion from taxpayers over that decade.
-    
-    Medicare was started in 1966 under the Social Security Administration (SSA) and now administered by the Centers for Medicare and Medicaid Services (CMS). It provides medical insurance for those aged 65+, or those receiving  Social Security Disability Insurance (SSDI) for a certain amount of time, or with End-Stage Renal Disease (ESRD). 
+  The question is: has the non-interference clause in Medicare Part D caused excessive spending of taxpayer money and brought extra profits to the pharmaceutical industry?  Has this rigged the economy in favor of the pharmaceutical industry, and resulted in excessive spending of taxpayer money?
 
-    It has 4 parts: Part A (Hospital/Hospice Insurance), Part B. (Medical Insurance), Part C (Medicare Advantage) and Part D (Prescription Drug Coverage). 
-  
-    Medicare Part D's prescription drug benefit has offered affordable coverage to millions of elderly Americans since its January 2006 implementation. Part D has given millions of low-income elderly Americans the ability to obtain drugs that are vital to their health and continued longevity. The estimated cost of that access, however, is substantial: just under $1 trillion in cumulative Medicare spending between 2007 and 2017.
+  In the ten years between 2007 and 2017, the cost to the US government for just the Part D prescription drug coverage alone was just under $1 trillion. With blocked (or limited) ability to negotiate drug prices, the issue to vote on is IF this causes "theft" by extra profit for the pharmaceutical industry that sets the prices since negotation is banned (or reduced).
+
+  If you approximated a negotiated 15% reduction in price would represent a savings of $150 billion. Or to put it another way, you are voting on if the Pharmaceutical Industry STOLE at least $150 billion from taxpayers over that decade.
+
+  Medicare was started in 1966 under the Social Security Administration (SSA) and now administered by the Centers for Medicare and Medicaid Services (CMS). It provides medical insurance for those aged 65+, or those receiving  Social Security Disability Insurance (SSDI) for a certain amount of time, or with End-Stage Renal Disease (ESRD). 
+
+  It has 4 parts: Part A (Hospital/Hospice Insurance), Part B. (Medical Insurance), Part C (Medicare Advantage) and Part D (Prescription Drug Coverage). 
+
+  Medicare Part D's prescription drug benefit has offered affordable coverage to millions of elderly Americans since its January 2006 implementation. Part D has given millions of low-income elderly Americans the ability to obtain drugs that are vital to their health and continued longevity. The estimated cost of that access, however, is substantial: just under $1 trillion in cumulative Medicare spending between 2007 and 2017.
 
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning: |
-    1) Why doesn't or can't the medicare negotiate for lower Medicine prices? {Needs research and debate}
-    2) What laws or reasoning blocks medicare from negotiating? {Needs research and debate}
-    3) Congress people present like they will enable medicare negociating, but do they just fail to pass? {Needs research and debate}
-    4) What credible sources say the prices should be far lower if medicare was allowed to negotiate? {Needs research and debate}
-    5) How much does Medicare spend on medicines each year? {Needs research and debate}
+  1) Why doesn't or can't the medicare negotiate for lower Medicine prices? {Needs research and debate}
+  2) What laws or reasoning blocks medicare from negotiating? {Needs research and debate}
+  3) Congress people present like they will enable medicare negociating, but do they just fail to pass? {Needs research and debate}
+  4) What credible sources say the prices should be far lower if medicare was allowed to negotiate? {Needs research and debate}
+  5) How much does Medicare spend on medicines each year? {Needs research and debate}
 
-    # Here is the reasoning that the Prosposed Problem author makes.
-    # {~C~}This is just an example illustration.  It should be replaced by{~C~}
-    # {~C~}the problem pospoals author with their reasoning.{~C~}
- 
+  # Here is the reasoning that the Prosposed Problem author makes.
+  # {~C~}This is just an example illustration.  It should be replaced by{~C~}
+  # {~C~}the problem pospoals author with their reasoning.{~C~}
+
 # {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
 # {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
-# {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}    
+# {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
-    - reasoning: |
-        Do pharmaceutical companies charge 20%, 40%, 60% or 100% more for
-            some or many medicines if medicare doesn't negotiate? (This is the question)
-           A. Attempt to find the best sources for how much medicare pays for medicines
-             each year.
-           B. The author of the problem proposal needs to make a best approximation
-             PERCENTAGE of the total medicare medicine budget that would come off
-             if negotiating happened efficiently.  
-    - percent_of_medicare_medicine_expenses_that_would_go_away_after_effective_negotiation: Enter Percent
-    - how_summary_is_calculated: |
-        # {~C~}This is just an example illustration.  It should be replaced by{~C~}
-        # {~C~}the problem pospoals author with their reasoning.{~C~}
-        The yearly amount spent on Medicare medicines multiplied by the percent.
+  - reasoning: |
+      Do pharmaceutical companies charge 20%, 40%, 60% or 100% more for
+          some or many medicines if medicare doesn't negotiate? (This is the question)
+         A. Attempt to find the best sources for how much medicare pays for medicines
+           each year.
+         B. The author of the problem proposal needs to make a best approximation
+           PERCENTAGE of the total medicare medicine budget that would come off
+           if negotiating happened efficiently.
+  - percent_of_medicare_medicine_expenses_that_would_go_away_after_effective_negotiation: Enter Percent
+  - how_summary_is_calculated: |
+      # {~C~}This is just an example illustration.  It should be replaced by{~C~}
+      # {~C~}the problem pospoals author with their reasoning.{~C~}
+      The yearly amount spent on Medicare medicines multiplied by the percent.
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-    amount_medicare_spends_on_medicines_each_year:
-      source: 
-        - https://www.statista.com/statistics/248073/distribution-of-medicare-spending-by-service-type/
-        - https://en.wikipedia.org/wiki/Medicare_(United_States)
-      amount_spend_on_respective_year:
-        2019: $796,200,000,000 ($796.2 billion)  
-        2018: $740,700,000,000 ($740.7 billion) 
-        2017: $710,200,000,000 ($710.2 billion) 
-        2016: $678,700,000,000 ($678.7 billion) 
-        2015: $560,300,000,000 ($560.3 billion)
-        2014: $613,300,000,000 ($613.3 billion)
-        2013: $582,900,000,000 ($582.9 billion)
-        2012: $574,200,000,000 ($574.2 billion)
-        2011: $549,100,000,000 ($549.1 billion)
-        2010: $522,900,000,000 ($522.9 billion)
-        2005: $336,400,000,000 ($336.4 billion)
-        2000: $221,800,000,000 ($221.8 billion)
-        1995: $184,200,000,000 ($184.2 billion)
-        1990: $111,000,000,000 ($111 billion)
-        1985: $72,300,000,000 ($72.3 billion)
-        1980: $36,800,000,000 ($36.8 billion)
-        1975: $16,300,000,000 ($16.3 billion)
-        1970: $7,500,000,000 ($7.5 billion)
+  amount_medicare_spends_on_medicines_each_year:
+    source:
+      - https://www.statista.com/statistics/248073/distribution-of-medicare-spending-by-service-type/
+      - https://en.wikipedia.org/wiki/Medicare_(United_States)
+    amount_spend_on_respective_year:
+      2019: $796,200,000,000 ($796.2 billion)
+      2018: $740,700,000,000 ($740.7 billion)
+      2017: $710,200,000,000 ($710.2 billion)
+      2016: $678,700,000,000 ($678.7 billion)
+      2015: $560,300,000,000 ($560.3 billion)
+      2014: $613,300,000,000 ($613.3 billion)
+      2013: $582,900,000,000 ($582.9 billion)
+      2012: $574,200,000,000 ($574.2 billion)
+      2011: $549,100,000,000 ($549.1 billion)
+      2010: $522,900,000,000 ($522.9 billion)
+      2005: $336,400,000,000 ($336.4 billion)
+      2000: $221,800,000,000 ($221.8 billion)
+      1995: $184,200,000,000 ($184.2 billion)
+      1990: $111,000,000,000 ($111 billion)
+      1985: $72,300,000,000 ($72.3 billion)
+      1980: $36,800,000,000 ($36.8 billion)
+      1975: $16,300,000,000 ($16.3 billion)
+      1970: $7,500,000,000 ($7.5 billion)
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
-    - quote: 1
-      topic: "Why Medicare Can't Get The Lowest Drug Prices"
-      source: Forbes - Why Medicare Can't Get The Lowest Drug Prices - Aug 10, 2018
-      url: "https://www.forbes.com/sites/johnwasik/2018/08/10/why-medicare-cant-get-the-lowest-drug-prices/#496debfa302b" 
-      description: |
-        Medicare, which insures more than 60 million beneficiaries, doesn't have that power, mostly because Congress stopped it from getting the best drug prices years ago. 
-    
-    - quote: 2
-      topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
-      source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
-      url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/" 
-      description: |
-        Allowing Part D to negotiate drug prices is not a new idea: President Obama supported the repeal during his 2008 campaign and has included versions of the proposal in multiple budgets. So why doesn’t Medicare have the ability to control its drug costs? The short answer is politics.
-    
-    - quote: 3
-      topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
-      source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
-      url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/" 
-      description: |
-        Congress approved a landmark program in 2003 to help seniors buy prescription drugs, 
-          it slapped on an unusual restriction: The federal government was barred from negotiating
-          cheaper prices for those medicines. Instead, the job of holding down costs was outsourced
-          to the insurance companies delivering the subsidized new coverage, known as Medicare Part D. 
-          The ban on government price bargaining, justified by supporters on free-market grounds, 
-          has been derided by critics as a giant gift to the drug industry.   
-    
-    - quote: 4
-      topic: "Bill to Let Medicare Negotiate Drug Prices Is Blocked"
-      source: The New York Times - Bill to Let Medicare Negotiate Drug Prices Is Blocked - April 18, 2007
-      url: "https://www.nytimes.com/2007/04/18/washington/18cnd-medicare.html" 
-      description: |
-        The 2003 Medicare law prohibits Medicare from negotiating drug prices, setting prices or establishing a uniform list of covered drugs, known as a formulary
-    
-    - quote: 5
-      topic: "S.99 - Medicare Drug Price Negotiation Act"
-      source: Congress Gov - S.99 - Medicare Drug Price Negotiation Act - 
-      url: "https://www.congress.gov/bill/116th-congress/senate-bill/99" 
-      description: |
-        Under current law, the Centers for Medicare & Medicaid Services (CMS) may neither negotiate the prices of covered drugs nor establish a formulary. The bill repeals these restrictions and instead specifically requires the CMS to (1) negotiate the prices of covered drugs; and (2) either establish a formulary for covered drugs, or require changes to PDP formularies that take into account CMS negotiations.
-    
-    - quote: 6
-      topic: "Mirror, Mirror on the Wall: Medicare Part D pays needlessly high brand-name drug prices compared with other OECD countries and with U.S. government programs"
-      source: valuewalk - Mirror, Mirror on the Wall- Medicare Part D pays needlessly high brand-name drug prices compared with other OECD countries and with U.S. government programs - July 23, 2015
-      url: "https://www.valuewalk.com/wp-content/uploads/2015/10/283117277-Medicare-Part-D.pdf" 
-      description: |
-        Despite its size, Medicare Part D is not allowed to “interfere with the negotiations between drug manufacturers and pharmacies and [Part D plan] sponsors” (P.L. 108-73, Section 1860D-11). 
-    
-    - quote: 7
-      topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
-      source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
-      url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/" 
-      description: |
-        Democratic lawmakers began introducing bills to free the government to use its vast purchasing power to negotiate better deals even before former President George W. Bush signed the Part D law, known as the Medicare Modernization Act.
-        All those measures over the last 13 years have failed, almost always without ever even getting a hearing, much less being brought up for a vote.
-    
-    - quote: 8
-      topic: "What’s the Latest on Medicare Drug Price Negotiations?"
-      source: KFF - What’s the Latest on Medicare Drug Price Negotiations? - Oct 17, 2019
-      url: "https://www.kff.org/medicare/issue-brief/whats-the-latest-on-medicare-drug-price-negotiations/"
-      description: |
-        Lawmakers in the 116th Congress have introduced a variety of bills to allow the federal government to negotiate drug prices in Medicare Part D, with the goal of lowering Part D program spending and enrollees’ out-of-pocket costs. Some are stand-alone bills, while others are incorporated in broader legislation to expand health insurance coverage. This discussion focuses on five bills where the primary (or sole) purpose is to allow the Secretary to negotiate drug prices. While these bills seek to achieve the same overall goal of reducing drug prices in Medicare Part D by allowing the Secretary to negotiate prices with drug manufacturers, they take different approaches to achieve that end.   
-    
-    - quote: 9
-      topic: "What are the barriers that are blocking cheaper prescription drugs?"
-      source: AARP - The Barriers Blocking Cheaper Prescription Drugs - April 30, 2019
-      url: "https://www.aarp.org/politics-society/advocacy/info-2019/generic-drug-barriers.html"
-      description: |
-        Generic drug prices can be as much as 90 percent lower than branded products, the government has found; pricing differences like that translated into $265 billion worth of consumer savings in 2017, estimates the Association for Accessible Medicines, the generic manufacturers’ trade group.     
-    
-    - quote: 10
-      topic: "It's time to let Medicare to negotiate drug prices"   
-      source: TheHill - It's time to let Medicare to negotiate drug prices - June 14, 2019
-      url: "https://thehill.com/opinion/healthcare/448644-its-time-to-let-medicare-to-negotiate-drug-prices"
-      description: |
-        It’s time for Medicare to harness the bargaining power of the 43 million Americans in the Part D prescription program to compel pharmaceutical companies to lower drug prices. The AARP has estimated that Medicare could have saved $14.4 billion on prescription medications in 2016 alone if it had been allowed to negotiate prices.
-        While its customers suffer under excessive prices, the pharmaceutical industry continues to revel in record profits. In the third quarter of 2018, 14 drug-makers realized profits of over $1 billion. Meanwhile, pharmaceutical industry CEO pay has climbed to $18 million a year at the same time as one in five Americans confronts health care debt. Big Pharma can certainly afford to sit at the negotiating table with Medicare to work out fairer price points for consumers.
+  - quote: 1
+    topic: "Why Medicare Can't Get The Lowest Drug Prices"
+    source: Forbes - Why Medicare Can't Get The Lowest Drug Prices - Aug 10, 2018
+    url: "https://www.forbes.com/sites/johnwasik/2018/08/10/why-medicare-cant-get-the-lowest-drug-prices/#496debfa302b"
+    description: |
+      Medicare, which insures more than 60 million beneficiaries, doesn't have that power, mostly because Congress stopped it from getting the best drug prices years ago.
 
-    - quote: 11
-      topic: "Check out how much Medicare spends on drugs"   
-      source: CNN Business - Check out how much Medicare spends on drugs - May 15, 2018
-      url: "https://money.cnn.com/2018/05/15/news/economy/medicare-drug-spending/index.html"
-      description: |
-        The Centers for Medicare & Medicaid Services spent $174 billion on prescription medications in 2016,or 23% of its total budget, the agency reported Tuesday. That's up from $109 billion, or 17% of the budget, in 2012
-    
-    - quote: 12
-      topic: "Check out how much Medicare spends on drugs"   
-      source: CNN Business - Check out how much Medicare spends on drugs - May 15, 2018
-      url: "https://money.cnn.com/2018/05/15/news/economy/medicare-drug-spending/index.html"
-      description: |
-        Prescription drug spending increased 2.5% to $335.0 billion in 2018, faster than the 1.4% growth in 2017.
+  - quote: 2
+    topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
+    source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
+    url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/"
+    description: |
+      Allowing Part D to negotiate drug prices is not a new idea: President Obama supported the repeal during his 2008 campaign and has included versions of the proposal in multiple budgets. So why doesn’t Medicare have the ability to control its drug costs? The short answer is politics.
+
+  - quote: 3
+    topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
+    source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
+    url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/"
+    description: |
+      Congress approved a landmark program in 2003 to help seniors buy prescription drugs, 
+        it slapped on an unusual restriction: The federal government was barred from negotiating
+        cheaper prices for those medicines. Instead, the job of holding down costs was outsourced
+        to the insurance companies delivering the subsidized new coverage, known as Medicare Part D. 
+        The ban on government price bargaining, justified by supporters on free-market grounds, 
+        has been derided by critics as a giant gift to the drug industry.
+
+  - quote: 4
+    topic: "Bill to Let Medicare Negotiate Drug Prices Is Blocked"
+    source: The New York Times - Bill to Let Medicare Negotiate Drug Prices Is Blocked - April 18, 2007
+    url: "https://www.nytimes.com/2007/04/18/washington/18cnd-medicare.html"
+    description: |
+      The 2003 Medicare law prohibits Medicare from negotiating drug prices, setting prices or establishing a uniform list of covered drugs, known as a formulary
+
+  - quote: 5
+    topic: "S.99 - Medicare Drug Price Negotiation Act"
+    source: Congress Gov - S.99 - Medicare Drug Price Negotiation Act -
+    url: "https://www.congress.gov/bill/116th-congress/senate-bill/99"
+    description: |
+      Under current law, the Centers for Medicare & Medicaid Services (CMS) may neither negotiate the prices of covered drugs nor establish a formulary. The bill repeals these restrictions and instead specifically requires the CMS to (1) negotiate the prices of covered drugs; and (2) either establish a formulary for covered drugs, or require changes to PDP formularies that take into account CMS negotiations.
+
+  - quote: 6
+    topic: "Mirror, Mirror on the Wall: Medicare Part D pays needlessly high brand-name drug prices compared with other OECD countries and with U.S. government programs"
+    source: valuewalk - Mirror, Mirror on the Wall- Medicare Part D pays needlessly high brand-name drug prices compared with other OECD countries and with U.S. government programs - July 23, 2015
+    url: "https://www.valuewalk.com/wp-content/uploads/2015/10/283117277-Medicare-Part-D.pdf"
+    description: |
+      Despite its size, Medicare Part D is not allowed to “interfere with the negotiations between drug manufacturers and pharmacies and [Part D plan] sponsors” (P.L. 108-73, Section 1860D-11).
+
+  - quote: 7
+    topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
+    source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
+    url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/"
+    description: |
+      Democratic lawmakers began introducing bills to free the government to use its vast purchasing power to negotiate better deals even before former President George W. Bush signed the Part D law, known as the Medicare Modernization Act.
+      All those measures over the last 13 years have failed, almost always without ever even getting a hearing, much less being brought up for a vote.
+
+  - quote: 8
+    topic: "What’s the Latest on Medicare Drug Price Negotiations?"
+    source: KFF - What’s the Latest on Medicare Drug Price Negotiations? - Oct 17, 2019
+    url: "https://www.kff.org/medicare/issue-brief/whats-the-latest-on-medicare-drug-price-negotiations/"
+    description: |
+      Lawmakers in the 116th Congress have introduced a variety of bills to allow the federal government to negotiate drug prices in Medicare Part D, with the goal of lowering Part D program spending and enrollees’ out-of-pocket costs. Some are stand-alone bills, while others are incorporated in broader legislation to expand health insurance coverage. This discussion focuses on five bills where the primary (or sole) purpose is to allow the Secretary to negotiate drug prices. While these bills seek to achieve the same overall goal of reducing drug prices in Medicare Part D by allowing the Secretary to negotiate prices with drug manufacturers, they take different approaches to achieve that end.
+
+  - quote: 9
+    topic: "What are the barriers that are blocking cheaper prescription drugs?"
+    source: AARP - The Barriers Blocking Cheaper Prescription Drugs - April 30, 2019
+    url: "https://www.aarp.org/politics-society/advocacy/info-2019/generic-drug-barriers.html"
+    description: |
+      Generic drug prices can be as much as 90 percent lower than branded products, the government has found; pricing differences like that translated into $265 billion worth of consumer savings in 2017, estimates the Association for Accessible Medicines, the generic manufacturers’ trade group.
+
+  - quote: 10
+    topic: "It's time to let Medicare to negotiate drug prices"
+    source: TheHill - It's time to let Medicare to negotiate drug prices - June 14, 2019
+    url: "https://thehill.com/opinion/healthcare/448644-its-time-to-let-medicare-to-negotiate-drug-prices"
+    description: |
+      It’s time for Medicare to harness the bargaining power of the 43 million Americans in the Part D prescription program to compel pharmaceutical companies to lower drug prices. The AARP has estimated that Medicare could have saved $14.4 billion on prescription medications in 2016 alone if it had been allowed to negotiate prices.
+      While its customers suffer under excessive prices, the pharmaceutical industry continues to revel in record profits. In the third quarter of 2018, 14 drug-makers realized profits of over $1 billion. Meanwhile, pharmaceutical industry CEO pay has climbed to $18 million a year at the same time as one in five Americans confronts health care debt. Big Pharma can certainly afford to sit at the negotiating table with Medicare to work out fairer price points for consumers.
+
+  - quote: 11
+    topic: "Check out how much Medicare spends on drugs"
+    source: CNN Business - Check out how much Medicare spends on drugs - May 15, 2018
+    url: "https://money.cnn.com/2018/05/15/news/economy/medicare-drug-spending/index.html"
+    description: |
+      The Centers for Medicare & Medicaid Services spent $174 billion on prescription medications in 2016,or 23% of its total budget, the agency reported Tuesday. That's up from $109 billion, or 17% of the budget, in 2012
+
+  - quote: 12
+    topic: "Check out how much Medicare spends on drugs"
+    source: CNN Business - Check out how much Medicare spends on drugs - May 15, 2018
+    url: "https://money.cnn.com/2018/05/15/news/economy/medicare-drug-spending/index.html"
+    description: |
+      Prescription drug spending increased 2.5% to $335.0 billion in 2018, faster than the 1.4% growth in 2017.
 
 # {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
 resources:
-    - sites:
+  - sites:
       - https://www.statista.com/statistics/248073/distribution-of-medicare-spending-by-service-type/
       - https://en.wikipedia.org/wiki/Medicare_(United_States)
 
-    - articles:
+  - articles:
       - topic: "Why Medicare Can't Get The Lowest Drug Prices"
         source: Forbes - Why Medicare Can't Get The Lowest Drug Prices - Aug 10, 2018
-        url: "https://www.forbes.com/sites/johnwasik/2018/08/10/why-medicare-cant-get-the-lowest-drug-prices/#496debfa302b" 
+        url: "https://www.forbes.com/sites/johnwasik/2018/08/10/why-medicare-cant-get-the-lowest-drug-prices/#496debfa302b"
 
       - topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
         source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
-        url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/" 
+        url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/"
 
       - topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
         source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
-        url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/" 
+        url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/"
 
       - topic: "Bill to Let Medicare Negotiate Drug Prices Is Blocked"
         source: The New York Times - Bill to Let Medicare Negotiate Drug Prices Is Blocked - April 18, 2007
-        url: "https://www.nytimes.com/2007/04/18/washington/18cnd-medicare.html" 
+        url: "https://www.nytimes.com/2007/04/18/washington/18cnd-medicare.html"
 
       - topic: "S.99 - Medicare Drug Price Negotiation Act"
-        source: Congress Gov - S.99 - Medicare Drug Price Negotiation Act - 
-        url: "https://www.congress.gov/bill/116th-congress/senate-bill/99" 
+        source: Congress Gov - S.99 - Medicare Drug Price Negotiation Act -
+        url: "https://www.congress.gov/bill/116th-congress/senate-bill/99"
 
       - topic: "Mirror, Mirror on the Wall: Medicare Part D pays needlessly high brand-name drug prices compared with other OECD countries and with U.S. government programs"
         source: valuewalk - Mirror, Mirror on the Wall- Medicare Part D pays needlessly high brand-name drug prices compared with other OECD countries and with U.S. government programs - July 23, 2015
-        url: "https://www.valuewalk.com/wp-content/uploads/2015/10/283117277-Medicare-Part-D.pdf" 
+        url: "https://www.valuewalk.com/wp-content/uploads/2015/10/283117277-Medicare-Part-D.pdf"
 
       - topic: "The Politics behind Medicare and Drug-Price negotiation {Needs research and debate}"
         source: HealthAffairs - The Politics of Medicare and Drug-Price Negotiation - Sep 19, 2016
-        url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/" 
+        url: "https://www.healthaffairs.org/do/10.1377/hblog20160919.056632/full/"
 
       - topic: "What’s the Latest on Medicare Drug Price Negotiations?"
         source: KFF - What’s the Latest on Medicare Drug Price Negotiations? - Oct 17, 2019
@@ -235,15 +254,15 @@ resources:
         source: AARP - The Barriers Blocking Cheaper Prescription Drugs - April 30, 2019
         url: "https://www.aarp.org/politics-society/advocacy/info-2019/generic-drug-barriers.html"
 
-      - topic: "It's time to let Medicare to negotiate drug prices"   
+      - topic: "It's time to let Medicare to negotiate drug prices"
         source: TheHill - It's time to let Medicare to negotiate drug prices - June 14, 2019
         url: "https://thehill.com/opinion/healthcare/448644-its-time-to-let-medicare-to-negotiate-drug-prices"
 
-      - topic: "Check out how much Medicare spends on drugs"   
+      - topic: "Check out how much Medicare spends on drugs"
         source: CNN Business - Check out how much Medicare spends on drugs - May 15, 2018
         url: "https://money.cnn.com/2018/05/15/news/economy/medicare-drug-spending/index.html"
 
-      - topic: "Check out how much Medicare spends on drugs"   
+      - topic: "Check out how much Medicare spends on drugs"
         source: CNN Business - Check out how much Medicare spends on drugs - May 15, 2018
         url: "https://money.cnn.com/2018/05/15/news/economy/medicare-drug-spending/index.html"
 
@@ -254,7 +273,7 @@ years_covered:
   - end: 2012
   - key_year: 2011
   - data_range:
-    - from: 1970
-    - to: 2019
+      - from: 1970
+      - to: 2019
 
 license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

@@ -9,287 +9,345 @@
 # {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
 
 # The following summary is not an exact amount, but an opinion on an approximation
-# Citizens are often powerless.  
+# Citizens are often powerless.
 # The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
 # When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
-summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
-summary_year: ~C~2019~C~
 summary_country: USA
 hierarchy: tax/other
 title: Balanced taxation helps an economy to become robust.
 
+stolen_2021: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2020: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2019: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2018: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2017: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2016: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2015: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2014: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2013: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2012: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2011: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2010: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2009: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2008: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2007: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2006: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2005: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2004: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2003: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2002: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2001: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2000: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1999: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1998: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1997: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1996: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1995: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1994: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1993: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1992: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1991: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1990: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1989: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1988: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1987: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1986: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1985: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1984: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1983: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1982: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1981: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1980: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1979: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1978: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1977: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1976: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1975: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1974: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1973: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1972: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1971: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1970: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1969: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1968: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1967: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1966: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1965: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1964: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1963: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1962: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1961: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1960: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+
 author:
-    name: ~C~anonymous~C~
-    email: ~C~anonymous@example.com~C~
+  name: ~C~anonymous~C~
+  email: ~C~anonymous@example.com~C~
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-    A booming economy is an ideal scenario where everyone gets an opportunity to grow. A booming economy helps the workers to earn more, it helps the Corporate to grow stronger and thus generate more jobs for people. But a rigged economy can not do that. It helps only a miniscule percentage of the population. A rigged economy will always remains a big challenge for the common people. It can affect HealthCare, it can affect Worker's paychecks, it can give trouble to the small businesses. Inequality is the source of many more problems.
-  
+  A booming economy is an ideal scenario where everyone gets an opportunity to grow. A booming economy helps the workers to earn more, it helps the Corporate to grow stronger and thus generate more jobs for people. But a rigged economy can not do that. It helps only a miniscule percentage of the population. A rigged economy will always remains a big challenge for the common people. It can affect HealthCare, it can affect Worker's paychecks, it can give trouble to the small businesses. Inequality is the source of many more problems.
+
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning: |
-    ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
-    ~C~because of this.~C~
-    
+  ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
+  ~C~because of this.~C~
+
 # {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
 # {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
-    - reasoning: |
-       ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
-    - how_summary_is_calculated: |
-       ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
-       
+  - reasoning: |
+      ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
+  - how_summary_is_calculated: |
+      ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
+
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-    average_federal_tax_rates,_by_income_group_(2016_and_2021):
-      source: https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
-      average_federal_tax_rates:
-        1979: "lowest_quintile: 9.3%, middle_quintile: 19.3%, 81st_to_99th_quintile: 25.1%, top_1_percent: 35.1%"
-        1980: "lowest_quintile: 8.9%, middle_quintile: 19.3%, 81st_to_99th_quintile: 25.4%, top_1_percent: 33.1%"
-        1981: "lowest_quintile: 9.6%, middle_quintile: 19.8%, 81st_to_99th_quintile: 25.7%, top_1_percent: 30.5%"
-        1982: "lowest_quintile: 9.8%, middle_quintile: 18.4%, 81st_to_99th_quintile: 23.5%, top_1_percent: 26.8%"
-        1983: "lowest_quintile: 11.1%, middle_quintile: 18.0%, 81st_to_99th_quintile: 22.7%, top_1_percent: 26.8%"
-        1984: "lowest_quintile: 12.1%, middle_quintile: 18.4%, 81st_to_99th_quintile: 22.8%, top_1_percent: 27.0%"
-        1985: "lowest_quintile: 11.8%, middle_quintile: 18.6%, 81st_to_99th_quintile: 23.0%, top_1_percent: 26.1%"
-        1986: "lowest_quintile: 11.7%, middle_quintile: 18.6%, 81st_to_99th_quintile: 23.1%, top_1_percent: 24.7%"
-        1987: "lowest_quintile: 10.7%, middle_quintile: 18.3%, 81st_to_99th_quintile: 24.3%, top_1_percent: 30.1%"
-        1988: "lowest_quintile: 10.2%, middle_quintile: 18.7%, 81st_to_99th_quintile: 24.2%, top_1_percent: 28.6%"
-        1989: "lowest_quintile: 9.6%, middle_quintile: 18.5%, 81st_to_99th_quintile: 24.1%, top_1_percent: 27.9%"
-        1990: "lowest_quintile: 10.7%, middle_quintile: 18.7%, 81st_to_99th_quintile: 24.0%, top_1_percent: 27.7%"
-        1991: "lowest_quintile: 10.2%, middle_quintile: 18.4%, 81st_to_99th_quintile: 24.1%, top_1_percent: 28.9%"
-        1992: "lowest_quintile: 10.0%, middle_quintile: 18.1%, 81st_to_99th_quintile: 24.1%, top_1_percent: 29.6%"
-        1993: "lowest_quintile: 10.0%, middle_quintile: 18.1%, 81st_to_99th_quintile: 24.4%, top_1_percent: 33.2%"
-        1994: "lowest_quintile: 8.2%, middle_quintile: 18.2%, 81st_to_99th_quintile: 24.8%, top_1_percent: 34.4%"
-        1995: "lowest_quintile: 7.6%, middle_quintile: 18.3%, 81st_to_99th_quintile: 25.1%, top_1_percent: 34.9%"
-        1996: "lowest_quintile: 6.8%, middle_quintile: 18.3%, 81st_to_99th_quintile: 25.1%, top_1_percent: 34.8%"
-        1997: "lowest_quintile: 7.0%, middle_quintile: 18.5%, 81st_to_99th_quintile: 25.3%, top_1_percent: 33.8%"
-        1998: "lowest_quintile: 6.9%, middle_quintile: 18.1%, 81st_to_99th_quintile: 25.2%, top_1_percent: 32.4%"
-        1999: "lowest_quintile: 7.2%, middle_quintile: 18.2%, 81st_to_99th_quintile: 25.7%, top_1_percent: 32.6%"
-        2000: "lowest_quintile: 6.6%, middle_quintile: 18.1%, 81st_to_99th_quintile: 25.7%, top_1_percent: 32.3%"
-        2001: "lowest_quintile: 6.1%, middle_quintile: 16.6%, 81st_to_99th_quintile: 24.5%, top_1_percent: 32.0%"
-        2002: "lowest_quintile: 5.6%, middle_quintile: 15.8%, 81st_to_99th_quintile: 23.8%, top_1_percent: 31.9%"
-        2003: "lowest_quintile: 5.7%, middle_quintile: 15.1%, 81st_to_99th_quintile: 22.7%, top_1_percent: 30.3%"
-        2004: "lowest_quintile: 5.3%, middle_quintile: 15.3%, 81st_to_99th_quintile: 23.0%, top_1_percent: 30.0%"
-        2005: "lowest_quintile: 5.5%, middle_quintile: 15.6%, 81st_to_99th_quintile: 23.3%, top_1_percent: 30.2%"
-        2006: "lowest_quintile: 5.9%, middle_quintile: 15.6%, 81st_to_99th_quintile: 23.4%, top_1_percent: 29.8%"
-        2007: "lowest_quintile: 5.3%, middle_quintile: 15.5%, 81st_to_99th_quintile: 23.0%, top_1_percent: 28.2%"
-        2008: "lowest_quintile: 0.9%, middle_quintile: 13.1%, 81st_to_99th_quintile: 21.8%, top_1_percent: 28.1%"
-        2009: "lowest_quintile: -0.3%, middle_quintile: 12.6%, 81st_to_99th_quintile: 21.3%, top_1_percent: 28.7%"
-        2010: "lowest_quintile: 0.0%, middle_quintile: 12.9%, 81st_to_99th_quintile: 21.8%, top_1_percent: 29.3%"
-        2011: "lowest_quintile: 0.6%, middle_quintile: 12.9%, 81st_to_99th_quintile: 21.3%, top_1_percent: 29.0%"
-        2012: "lowest_quintile: 0.9%, middle_quintile: 13.1%, 81st_to_99th_quintile: 21.8%, top_1_percent: 28.6%"
-        2013: "lowest_quintile: 2.3%, middle_quintile: 14.5%, 81st_to_99th_quintile: 23.3%, top_1_percent: 33.6%"
-        2014: "lowest_quintile: 1.9%, middle_quintile: 14.8%, 81st_to_99th_quintile: 23.7%, top_1_percent: 33.6%"
-        2015: "lowest_quintile: 1.5%, middle_quintile: 14.9%, 81st_to_99th_quintile: 23.8%, top_1_percent: 33.3%"
-        2016: "lowest_quintile: 1.7%, middle_quintile: 14.9%, 81st_to_99th_quintile: 23.8%, top_1_percent: 33.3%"
-        2021: "lowest_quintile: 0.8%, middle_quintile: 13.9%, 81st_to_99th_quintile: 22.4%, top_1_percent: 30.4%"
-       
-  
-    average_means_tested_transfer_rate_by_income_group_(2016_and_2021):
-      source: https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
-      average_data:
-        2021: "lowest_quintile: 68.3%, second_quintile: 14.2%, middle_quintile: 4.5%, fourth_quintile: 1.4%, highest_quintile: 0.3%"
-        2016: "lowest_quintile: 71.6%, second_quintile: 15.3%, middle_quintile: 4.8%, fourth_quintile: 1.5%, highest_quintile:0.3%"
-        projected_changes_in_rates: "lowest_quintile: -3.4%, second_quintile: -1.1%, middle_quintile: -0.3%, fourth_quintile: -0.1%, highest_quintile: 0.0%"
+  average_federal_tax_rates,_by_income_group_(2016_and_2021):
+    source: https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
+    average_federal_tax_rates:
+      1979: "lowest_quintile: 9.3%, middle_quintile: 19.3%, 81st_to_99th_quintile: 25.1%, top_1_percent: 35.1%"
+      1980: "lowest_quintile: 8.9%, middle_quintile: 19.3%, 81st_to_99th_quintile: 25.4%, top_1_percent: 33.1%"
+      1981: "lowest_quintile: 9.6%, middle_quintile: 19.8%, 81st_to_99th_quintile: 25.7%, top_1_percent: 30.5%"
+      1982: "lowest_quintile: 9.8%, middle_quintile: 18.4%, 81st_to_99th_quintile: 23.5%, top_1_percent: 26.8%"
+      1983: "lowest_quintile: 11.1%, middle_quintile: 18.0%, 81st_to_99th_quintile: 22.7%, top_1_percent: 26.8%"
+      1984: "lowest_quintile: 12.1%, middle_quintile: 18.4%, 81st_to_99th_quintile: 22.8%, top_1_percent: 27.0%"
+      1985: "lowest_quintile: 11.8%, middle_quintile: 18.6%, 81st_to_99th_quintile: 23.0%, top_1_percent: 26.1%"
+      1986: "lowest_quintile: 11.7%, middle_quintile: 18.6%, 81st_to_99th_quintile: 23.1%, top_1_percent: 24.7%"
+      1987: "lowest_quintile: 10.7%, middle_quintile: 18.3%, 81st_to_99th_quintile: 24.3%, top_1_percent: 30.1%"
+      1988: "lowest_quintile: 10.2%, middle_quintile: 18.7%, 81st_to_99th_quintile: 24.2%, top_1_percent: 28.6%"
+      1989: "lowest_quintile: 9.6%, middle_quintile: 18.5%, 81st_to_99th_quintile: 24.1%, top_1_percent: 27.9%"
+      1990: "lowest_quintile: 10.7%, middle_quintile: 18.7%, 81st_to_99th_quintile: 24.0%, top_1_percent: 27.7%"
+      1991: "lowest_quintile: 10.2%, middle_quintile: 18.4%, 81st_to_99th_quintile: 24.1%, top_1_percent: 28.9%"
+      1992: "lowest_quintile: 10.0%, middle_quintile: 18.1%, 81st_to_99th_quintile: 24.1%, top_1_percent: 29.6%"
+      1993: "lowest_quintile: 10.0%, middle_quintile: 18.1%, 81st_to_99th_quintile: 24.4%, top_1_percent: 33.2%"
+      1994: "lowest_quintile: 8.2%, middle_quintile: 18.2%, 81st_to_99th_quintile: 24.8%, top_1_percent: 34.4%"
+      1995: "lowest_quintile: 7.6%, middle_quintile: 18.3%, 81st_to_99th_quintile: 25.1%, top_1_percent: 34.9%"
+      1996: "lowest_quintile: 6.8%, middle_quintile: 18.3%, 81st_to_99th_quintile: 25.1%, top_1_percent: 34.8%"
+      1997: "lowest_quintile: 7.0%, middle_quintile: 18.5%, 81st_to_99th_quintile: 25.3%, top_1_percent: 33.8%"
+      1998: "lowest_quintile: 6.9%, middle_quintile: 18.1%, 81st_to_99th_quintile: 25.2%, top_1_percent: 32.4%"
+      1999: "lowest_quintile: 7.2%, middle_quintile: 18.2%, 81st_to_99th_quintile: 25.7%, top_1_percent: 32.6%"
+      2000: "lowest_quintile: 6.6%, middle_quintile: 18.1%, 81st_to_99th_quintile: 25.7%, top_1_percent: 32.3%"
+      2001: "lowest_quintile: 6.1%, middle_quintile: 16.6%, 81st_to_99th_quintile: 24.5%, top_1_percent: 32.0%"
+      2002: "lowest_quintile: 5.6%, middle_quintile: 15.8%, 81st_to_99th_quintile: 23.8%, top_1_percent: 31.9%"
+      2003: "lowest_quintile: 5.7%, middle_quintile: 15.1%, 81st_to_99th_quintile: 22.7%, top_1_percent: 30.3%"
+      2004: "lowest_quintile: 5.3%, middle_quintile: 15.3%, 81st_to_99th_quintile: 23.0%, top_1_percent: 30.0%"
+      2005: "lowest_quintile: 5.5%, middle_quintile: 15.6%, 81st_to_99th_quintile: 23.3%, top_1_percent: 30.2%"
+      2006: "lowest_quintile: 5.9%, middle_quintile: 15.6%, 81st_to_99th_quintile: 23.4%, top_1_percent: 29.8%"
+      2007: "lowest_quintile: 5.3%, middle_quintile: 15.5%, 81st_to_99th_quintile: 23.0%, top_1_percent: 28.2%"
+      2008: "lowest_quintile: 0.9%, middle_quintile: 13.1%, 81st_to_99th_quintile: 21.8%, top_1_percent: 28.1%"
+      2009: "lowest_quintile: -0.3%, middle_quintile: 12.6%, 81st_to_99th_quintile: 21.3%, top_1_percent: 28.7%"
+      2010: "lowest_quintile: 0.0%, middle_quintile: 12.9%, 81st_to_99th_quintile: 21.8%, top_1_percent: 29.3%"
+      2011: "lowest_quintile: 0.6%, middle_quintile: 12.9%, 81st_to_99th_quintile: 21.3%, top_1_percent: 29.0%"
+      2012: "lowest_quintile: 0.9%, middle_quintile: 13.1%, 81st_to_99th_quintile: 21.8%, top_1_percent: 28.6%"
+      2013: "lowest_quintile: 2.3%, middle_quintile: 14.5%, 81st_to_99th_quintile: 23.3%, top_1_percent: 33.6%"
+      2014: "lowest_quintile: 1.9%, middle_quintile: 14.8%, 81st_to_99th_quintile: 23.7%, top_1_percent: 33.6%"
+      2015: "lowest_quintile: 1.5%, middle_quintile: 14.9%, 81st_to_99th_quintile: 23.8%, top_1_percent: 33.3%"
+      2016: "lowest_quintile: 1.7%, middle_quintile: 14.9%, 81st_to_99th_quintile: 23.8%, top_1_percent: 33.3%"
+      2021: "lowest_quintile: 0.8%, middle_quintile: 13.9%, 81st_to_99th_quintile: 22.4%, top_1_percent: 30.4%"
 
-    
-    share_of_total_wages_received_by_the_top_1_percent_of_wage_earners:
-      source: https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
-      share_percent:
-        2020: 13.8%
-        2019: 13.8%
-        2018: 13.5%
-        2017: 13.2%
-        2016: 12.9%
-        2015: 13.3%
-        2014: 13.3%
-        2013: 12.9%
-        2012: 13.5%
-        2011: 12.8%
-        2010: 12.7%
-        2009: 11.9%
-        2008: 13.0%
-        2007: 13.8%
-        2006: 13.3%
-        2005: 13.0%
-        2004: 12.6%
-        2003: 11.8%
-        2002: 11.8%
-        2001: 12.6%
-        2000: 13.7%
-        1999: 13.0%
-        1998: 12.3%
-        1997: 11.9%
-        1996: 11.3%
-        1995: 11.0%
-        1994: 10.4%
-        1993: 10.8%
-        1992: 11.1%
-        1991: 10.1%
-        1990: 10.7%
-        1989: 10.6%
-        1988: 10.9%
-        1987: 10.0%
-        1986: 8.8%
-        1985: 8.4%
-        1984: 8.3%
-        1983: 8.0%
-        1982: 7.8%
-        1981: 7.3%
-        1980: 7.3%
-        1979: 6.9%
-        1978: 7.0%
+  average_means_tested_transfer_rate_by_income_group_(2016_and_2021):
+    source: https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
+    average_data:
+      2021: "lowest_quintile: 68.3%, second_quintile: 14.2%, middle_quintile: 4.5%, fourth_quintile: 1.4%, highest_quintile: 0.3%"
+      2016: "lowest_quintile: 71.6%, second_quintile: 15.3%, middle_quintile: 4.8%, fourth_quintile: 1.5%, highest_quintile:0.3%"
+      projected_changes_in_rates: "lowest_quintile: -3.4%, second_quintile: -1.1%, middle_quintile: -0.3%, fourth_quintile: -0.1%, highest_quintile: 0.0%"
 
-    top_1%_pre_tax_income_share_(equal_-_split_adults):
-      source: https://eml.berkeley.edu//~saez/SaezZucman2020.xlsx
-      pre_tax_income_share:
-        1920: 19.1%
-        1930: 19.4%
-        1940: 20.9%
-        1950: 16.7%
-        1960: 12.7%
-        1970: 10.8%
-        1980: 10.3%
-        1990: 14.2%
-        2000: 17.3%
-        2001: 16.5%
-        2002: 16.0%
-        2003: 16.2%
-        2004: 16.9%
-        2005: 17.7%
-        2006: 18.3%
-        2007: 18.4%
-        2008: 18.0%
-        2009: 16.7%
-        2010: 17.7%
-        2011: 18.2%
-        2012: 19.3%
-        2013: 18.3%
-        2014: 18.9%
-        2015: 18.8%
-        2016: 18.6%
-        2017: 18.8%
-        2018: 18.9%
+  share_of_total_wages_received_by_the_top_1_percent_of_wage_earners:
+    source: https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
+    share_percent:
+      2020: 13.8%
+      2019: 13.8%
+      2018: 13.5%
+      2017: 13.2%
+      2016: 12.9%
+      2015: 13.3%
+      2014: 13.3%
+      2013: 12.9%
+      2012: 13.5%
+      2011: 12.8%
+      2010: 12.7%
+      2009: 11.9%
+      2008: 13.0%
+      2007: 13.8%
+      2006: 13.3%
+      2005: 13.0%
+      2004: 12.6%
+      2003: 11.8%
+      2002: 11.8%
+      2001: 12.6%
+      2000: 13.7%
+      1999: 13.0%
+      1998: 12.3%
+      1997: 11.9%
+      1996: 11.3%
+      1995: 11.0%
+      1994: 10.4%
+      1993: 10.8%
+      1992: 11.1%
+      1991: 10.1%
+      1990: 10.7%
+      1989: 10.6%
+      1988: 10.9%
+      1987: 10.0%
+      1986: 8.8%
+      1985: 8.4%
+      1984: 8.3%
+      1983: 8.0%
+      1982: 7.8%
+      1981: 7.3%
+      1980: 7.3%
+      1979: 6.9%
+      1978: 7.0%
 
-    top_0.1%_wealth_share_(tax_units):
-      source: https://eml.berkeley.edu//~saez/SaezZucman2020.xlsx
-      wealth_share_rate:
-        1920: 14.8%
-        1930: 20.0%
-        1940: 15.8%
-        1950: 10.6%
-        1960: 10.2%
-        1970: 9.7%
-        1980: 8.3%
-        1990: 12.9%
-        2000: 16.9%
-        2001: 16.5%
-        2002: 15.9%
-        2003: 15.9%
-        2004: 16.3%
-        2005: 16.8%
-        2006: 17.2%
-        2007: 17.9%
-        2008: 18.3%
-        2009: 17.2%
-        2010: 18.2%
-        2011: 19.1%
-        2012: 20.1%
-        2013: 19.5%
-        2014: 19.8%
-        2015: 20.0%
-        2016: 19.8%
-        2017: 19.5%
-        2018: 19.4%
-    
+  top_1%_pre_tax_income_share_(equal_-_split_adults):
+    source: https://eml.berkeley.edu//~saez/SaezZucman2020.xlsx
+    pre_tax_income_share:
+      1920: 19.1%
+      1930: 19.4%
+      1940: 20.9%
+      1950: 16.7%
+      1960: 12.7%
+      1970: 10.8%
+      1980: 10.3%
+      1990: 14.2%
+      2000: 17.3%
+      2001: 16.5%
+      2002: 16.0%
+      2003: 16.2%
+      2004: 16.9%
+      2005: 17.7%
+      2006: 18.3%
+      2007: 18.4%
+      2008: 18.0%
+      2009: 16.7%
+      2010: 17.7%
+      2011: 18.2%
+      2012: 19.3%
+      2013: 18.3%
+      2014: 18.9%
+      2015: 18.8%
+      2016: 18.6%
+      2017: 18.8%
+      2018: 18.9%
+
+  top_0.1%_wealth_share_(tax_units):
+    source: https://eml.berkeley.edu//~saez/SaezZucman2020.xlsx
+    wealth_share_rate:
+      1920: 14.8%
+      1930: 20.0%
+      1940: 15.8%
+      1950: 10.6%
+      1960: 10.2%
+      1970: 9.7%
+      1980: 8.3%
+      1990: 12.9%
+      2000: 16.9%
+      2001: 16.5%
+      2002: 15.9%
+      2003: 15.9%
+      2004: 16.3%
+      2005: 16.8%
+      2006: 17.2%
+      2007: 17.9%
+      2008: 18.3%
+      2009: 17.2%
+      2010: 18.2%
+      2011: 19.1%
+      2012: 20.1%
+      2013: 19.5%
+      2014: 19.8%
+      2015: 20.0%
+      2016: 19.8%
+      2017: 19.5%
+      2018: 19.4%
+
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
-    - quote: 1
-      topic: "The American Economy Is Rigged"
-      source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
-      url: "https://www.scientificamerican.com/article/the-american-economy-is-rigged/"
-      description: |
-        By most accounts, the U.S. has the highest level of economic inequality among developed countries. It has the world's greatest per capita health expenditures yet the lowest life expectancy among comparable countries. It is also one of a few developed countries jostling for the dubious distinction of having the lowest measures of equality of opportunity.
+  - quote: 1
+    topic: "The American Economy Is Rigged"
+    source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
+    url: "https://www.scientificamerican.com/article/the-american-economy-is-rigged/"
+    description: |
+      By most accounts, the U.S. has the highest level of economic inequality among developed countries. It has the world's greatest per capita health expenditures yet the lowest life expectancy among comparable countries. It is also one of a few developed countries jostling for the dubious distinction of having the lowest measures of equality of opportunity.
 
-    - quote: 2
-      topic: "The American Economy Is Rigged"
-      source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
-      url: "https://www.scientificamerican.com/article/the-american-economy-is-rigged/"
-      description: |
-        In significant part because of high inequality, U.S. life expectancy, exceptionally low to begin with, is experiencing sustained declines. This in spite of the marvels of medical science, many advances of which occur right here in America and which are made readily available to the rich.
+  - quote: 2
+    topic: "The American Economy Is Rigged"
+    source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
+    url: "https://www.scientificamerican.com/article/the-american-economy-is-rigged/"
+    description: |
+      In significant part because of high inequality, U.S. life expectancy, exceptionally low to begin with, is experiencing sustained declines. This in spite of the marvels of medical science, many advances of which occur right here in America and which are made readily available to the rich.
 
-    - quote: 3
-      topic: "To Tackle Inequality, We Need New Thinking on Tax Havens"
-      source: "Open Society Justice Initiative, BEN BATROS, JULY 02, 2018"
-      url: "https://www.justiceinitiative.org/voices/tackle-inequality-we-need-new-thinking-tax-havens"
-      description: |
-        This transfer of income from labor to capital while the tax burden shifts away from capital—and therefore onto labor and consumption—is concerning in its own right. However, the need to address barriers to effective taxation of capital becomes more urgent in light of the role technology is playing in displacing labor. As technology displaces more workers in more sectors of the economy, it seems inevitable that the balance of return will shift further from increasingly-replaceable labor to capital (i.e., those who can invest in, and own, the technologies in question).
+  - quote: 3
+    topic: "To Tackle Inequality, We Need New Thinking on Tax Havens"
+    source: "Open Society Justice Initiative, BEN BATROS, JULY 02, 2018"
+    url: "https://www.justiceinitiative.org/voices/tackle-inequality-we-need-new-thinking-tax-havens"
+    description: |
+      This transfer of income from labor to capital while the tax burden shifts away from capital—and therefore onto labor and consumption—is concerning in its own right. However, the need to address barriers to effective taxation of capital becomes more urgent in light of the role technology is playing in displacing labor. As technology displaces more workers in more sectors of the economy, it seems inevitable that the balance of return will shift further from increasingly-replaceable labor to capital (i.e., those who can invest in, and own, the technologies in question).
 
-    - quote: 4
-      topic: "Americans Are Right To Think the Economy Is Rigged"
-      source: "Literary Hub, Nicholas D. Kristof and Sheryl WuDunn, January 24, 2020"
-      url: "https://lithub.com/americans-are-right-to-think-the-economy-is-rigged/"
-      description: |
-        More than a century ago, Theodore Roosevelt described a similar crisis: “Exactly as the special interests of cotton and slavery threatened our political integrity before the Civil War, so now the great special business interests too often control and corrupt the men and methods of government for their own profit. The absence of effective State, and, especially, national, restraint upon unfair money-getting has tended to create a small class of enormously wealthy and economically powerful men, whose chief object is to hold and increase their power. The prime need is to change the conditions which enable these men to accumulate power.”
+  - quote: 4
+    topic: "Americans Are Right To Think the Economy Is Rigged"
+    source: "Literary Hub, Nicholas D. Kristof and Sheryl WuDunn, January 24, 2020"
+    url: "https://lithub.com/americans-are-right-to-think-the-economy-is-rigged/"
+    description: |
+      More than a century ago, Theodore Roosevelt described a similar crisis: “Exactly as the special interests of cotton and slavery threatened our political integrity before the Civil War, so now the great special business interests too often control and corrupt the men and methods of government for their own profit. The absence of effective State, and, especially, national, restraint upon unfair money-getting has tended to create a small class of enormously wealthy and economically powerful men, whose chief object is to hold and increase their power. The prime need is to change the conditions which enable these men to accumulate power.”
 
-    - quote: 5
-      topic: "The Economy Has Been Rigged. We Can Change That!"
-      source: "Fair World Project, Erinch Sahan, April 22, 2019"
-      url: "https://fairworldproject.org/the-economy-has-been-rigged-we-can-change-that/"
-      description: |
-        Are not most people shareholders anyway, through their pension funds, for instance? And is it really so bad that corporations are increasingly obsessed with growing the wealth of their shareholders? Yes, this is a big problem. The majority of shares are owned by a small group of people. In the U.S., the richest 10% own 84% of shares. As so eloquently put by Mike Konczal in his article “The Shareholder Revolution Devours Its Children” in The Nation, “The economy has been rigged to channel wealth to a tiny elite” and “these shareholders are also probably not you.”
+  - quote: 5
+    topic: "The Economy Has Been Rigged. We Can Change That!"
+    source: "Fair World Project, Erinch Sahan, April 22, 2019"
+    url: "https://fairworldproject.org/the-economy-has-been-rigged-we-can-change-that/"
+    description: |
+      Are not most people shareholders anyway, through their pension funds, for instance? And is it really so bad that corporations are increasingly obsessed with growing the wealth of their shareholders? Yes, this is a big problem. The majority of shares are owned by a small group of people. In the U.S., the richest 10% own 84% of shares. As so eloquently put by Mike Konczal in his article “The Shareholder Revolution Devours Its Children” in The Nation, “The economy has been rigged to channel wealth to a tiny elite” and “these shareholders are also probably not you.”
 
-    - quote: 6
-      topic: "The Shareholder Revolution Devours Its Children"
-      source: "The Nation, Mike Konczal, August 15, 2018"
-      url: "https://www.thenation.com/article/archive/the-shareholder-revolution-devours-its-children/"
-      description: |
-        People increasingly feel the economy is rigged against them, but can’t quite understand why. It’s led people to lash out at immigrants, trade, and technology, and even to lose hope that things can change at all. That we’ve given so much power to shareholders is a central part of the problem.
+  - quote: 6
+    topic: "The Shareholder Revolution Devours Its Children"
+    source: "The Nation, Mike Konczal, August 15, 2018"
+    url: "https://www.thenation.com/article/archive/the-shareholder-revolution-devours-its-children/"
+    description: |
+      People increasingly feel the economy is rigged against them, but can’t quite understand why. It’s led people to lash out at immigrants, trade, and technology, and even to lose hope that things can change at all. That we’ve given so much power to shareholders is a central part of the problem.
 
-    - quote: 7
-      topic: "AN ECONOMY FOR THE 99%"
-      source: "OXFAM BRIEFING PAPER, Mike Konczal, January, 2017"
-      url: "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/file_attachments/bp-economy-for-99-percent-160117-en.pdf"
-      description: |
-        Crony Capitalism - As documented by Oxfam in An Economy for the 1%,31 corporations from many sectors – finance, extractives, garment manufacturers, pharmaceuticals and others – use their huge power and influence to ensure that regulations and national and international policies are shaped in ways that enable continued profitability. For example, oil corporations in Nigeria have managed to secure generous tax breaks.
+  - quote: 7
+    topic: "AN ECONOMY FOR THE 99%"
+    source: "OXFAM BRIEFING PAPER, Mike Konczal, January, 2017"
+    url: "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/file_attachments/bp-economy-for-99-percent-160117-en.pdf"
+    description: |
+      Crony Capitalism - As documented by Oxfam in An Economy for the 1%,31 corporations from many sectors – finance, extractives, garment manufacturers, pharmaceuticals and others – use their huge power and influence to ensure that regulations and national and international policies are shaped in ways that enable continued profitability. For example, oil corporations in Nigeria have managed to secure generous tax breaks.
 
-    - quote: 8
-      topic: "Americans Are Right To Think the Economy Is Rigged"
-      source: "Literary Hub, Nicholas D. Kristof and Sheryl WuDunn, January 24, 2020"
-      url: "https://lithub.com/americans-are-right-to-think-the-economy-is-rigged/"
-      description: |
-        Some elements of America’s modern feudalism are so embedded that we don’t notice them. Dentists are paid substantially more in America than in Canada or Europe, and Americans often can’t afford to care for their teeth, partly because the dental lobby has worked ferociously to block dental therapists (found in 50 other countries) from providing cheap and simple services, even in rural areas where there are few dentists.
+  - quote: 8
+    topic: "Americans Are Right To Think the Economy Is Rigged"
+    source: "Literary Hub, Nicholas D. Kristof and Sheryl WuDunn, January 24, 2020"
+    url: "https://lithub.com/americans-are-right-to-think-the-economy-is-rigged/"
+    description: |
+      Some elements of America’s modern feudalism are so embedded that we don’t notice them. Dentists are paid substantially more in America than in Canada or Europe, and Americans often can’t afford to care for their teeth, partly because the dental lobby has worked ferociously to block dental therapists (found in 50 other countries) from providing cheap and simple services, even in rural areas where there are few dentists.
 
-        Americans flying in coach class subsidize the tycoon flying in a private jet, because air traffic control is financed by commercial tickets. Tax depreciation rules subsidize the purchase of private planes. Everybody knows about the cost of food stamps for the poor, but few people are aware that the median taxpayer is also subsidizing the corporate executives whose elegant French dinner is tax deductible.
+      Americans flying in coach class subsidize the tycoon flying in a private jet, because air traffic control is financed by commercial tickets. Tax depreciation rules subsidize the purchase of private planes. Everybody knows about the cost of food stamps for the poor, but few people are aware that the median taxpayer is also subsidizing the corporate executives whose elegant French dinner is tax deductible.
 
-        The public frets about cheating with food stamps (the fraud rate is about 1.5 percent) yet doesn’t understand that zillionaires hide assets abroad and thereby deprive the Treasury of some $36 billion a year in taxes—enough to pay for high-quality pre-K and day care for all. Joseph Stiglitz, the Nobel Prize–winning economist, has said that “we confused the hard work of wealth creation with wealth-grabbing.”
+      The public frets about cheating with food stamps (the fraud rate is about 1.5 percent) yet doesn’t understand that zillionaires hide assets abroad and thereby deprive the Treasury of some $36 billion a year in taxes—enough to pay for high-quality pre-K and day care for all. Joseph Stiglitz, the Nobel Prize–winning economist, has said that “we confused the hard work of wealth creation with wealth-grabbing.”
 
-    - quote: 9
-      topic: "6 facts about economic inequality in the U.S"
-      source: "Pew Research Center, KATHERINE SCHAEFFER, FEBRUARY 7, 2020"
-      url: "https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/"
-      description: |
-        Income inequality in the U.S. is the highest of all the G7 nations, according to data from the Organization for Economic Cooperation and Development.
+  - quote: 9
+    topic: "6 facts about economic inequality in the U.S"
+    source: "Pew Research Center, KATHERINE SCHAEFFER, FEBRUARY 7, 2020"
+    url: "https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/"
+    description: |
+      Income inequality in the U.S. is the highest of all the G7 nations, according to data from the Organization for Economic Cooperation and Development.
 
-    - quote: 10
-      topic: "The U.S. tax system is a new engine of inequality"
-      source: "CBS News, AIMEE PICCHI, OCTOBER 16, 2019"
-      url: "https://www.cbsnews.com/news/u-s-tax-system-a-new-engine-of-inequality-economist-gabriel-zucman-says/"
-      description: |
-        The U.S. tax system, once viewed as a model for sharing the nation's bounty, is today a "new engine of inequality," said Gabriel Zucman, one of the world's leading experts on the rising gap between rich and poor.
+  - quote: 10
+    topic: "The U.S. tax system is a new engine of inequality"
+    source: "CBS News, AIMEE PICCHI, OCTOBER 16, 2019"
+    url: "https://www.cbsnews.com/news/u-s-tax-system-a-new-engine-of-inequality-economist-gabriel-zucman-says/"
+    description: |
+      The U.S. tax system, once viewed as a model for sharing the nation's bounty, is today a "new engine of inequality," said Gabriel Zucman, one of the world's leading experts on the rising gap between rich and poor.
 
-        Zucman, as detailed in his new book, "The Triumph of Injustice," written with fellow University of California at Berkeley economist Emmanuel Saez, found that the 400 richest Americans now pay a total tax rate of about 23% — that's lower than the bottom half of U.S. households, who pay a rate of about 24%. 
+      Zucman, as detailed in his new book, "The Triumph of Injustice," written with fellow University of California at Berkeley economist Emmanuel Saez, found that the 400 richest Americans now pay a total tax rate of about 23% — that's lower than the bottom half of U.S. households, who pay a rate of about 24%.
 
-   
 # {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
 resources:
-    - sites:
+  - sites:
       - https://www.cbo.gov/system/files/2019-12/55941-CBO-data-underlying-figures.xlsx
-  
-    - articles:
+
+  - articles:
       - topic: "The American Economy Is Rigged"
         source: "Scientific American, Joseph E. Stiglitz, November 1, 2018"
         url: "https://www.scientificamerican.com/article/the-american-economy-is-rigged/"
@@ -321,7 +379,7 @@ resources:
 # {~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
 # {~C~} It can also list the key year (or years) of the problem.
 years_covered:
-    - data_range:
+  - data_range:
       - from: 1978
       - to: 2020
 

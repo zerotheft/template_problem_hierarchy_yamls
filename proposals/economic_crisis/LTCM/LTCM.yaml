@@ -9,192 +9,231 @@
 # {~C~} - useful quotes on the subject you can use for your case or as a starting point for further research {~C~}
 
 # The following summary is not an exact amount, but an opinion on an approximation
-# Citizens are often powerless.  
+# Citizens are often powerless.
 # The government rarely uses criminal prosectution tools (subpoenas, legal discovery, etc.) when the privileged class steals.
 # When these tools aren't applied, citizens have no recourse except to approximate what is being stolen.
-summary: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
-summary_year: ~C~2019~C~
 summary_country: USA
 hierarchy: economic_crisis/LTCM
-title: Did the 1998 bailout of LTCM started the economic crisis 
+title: Did the 1998 bailout of LTCM started the economic crisis
 # LTCM, the bailouts and the Economic Crisis
 # LTCM, the dream that crashed.
+stolen_2021: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2020: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2019: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2018: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2017: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2016: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2015: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2014: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2013: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2012: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2011: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2010: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2009: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2008: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2007: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2006: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2005: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2004: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2003: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2002: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2001: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_2000: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1999: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1998: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1997: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1996: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1995: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1994: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1993: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1992: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1991: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1990: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1989: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1988: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1987: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1986: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1985: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1984: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1983: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1982: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1981: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1980: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+stolen_1979: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 
 author:
-    name: ~C~anonymous~C~
-    email: ~C~anonymous@example.com~C~
+  name: ~C~anonymous~C~
+  email: ~C~anonymous@example.com~C~
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-    Long term Capital Management or LTCM fund was setup by a group of Nobel laureates. This fund was initially hugely successful and gave a high return for their investors. By the year 1998 it started sinking quickly and thus raised the possibility of global financial crisis. Ultimately Fed bailed the fund out to avoid the crisis for that time. Fed paid $3.75 billion for the bailout, so that the fund can be saved.
+  Long term Capital Management or LTCM fund was setup by a group of Nobel laureates. This fund was initially hugely successful and gave a high return for their investors. By the year 1998 it started sinking quickly and thus raised the possibility of global financial crisis. Ultimately Fed bailed the fund out to avoid the crisis for that time. Fed paid $3.75 billion for the bailout, so that the fund can be saved.
 # This is the Long-term Capital Management blow-up
 # that required bailouts (whether public or private)
 # This happened in (or around) 1989.
 
 #Long term Capital Management or LTCM, basically a hedge fund, was set up by Nobel laureates and it started off very well only to fizzle out by 1998. It required a Fed bailout to save it. We will attempt to see whether this was the starting point of 2008 economic crisis.
-  
-  
+
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning: |
-    ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
-    ~C~because of this.~C~
-    
+  ~C~Provide a chain of reasoning that backs up your case for why this is a problem and why the economy is rigged (or not)~C~
+  ~C~because of this.~C~
+
 # {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
 # {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
-    - reasoning: |
-       ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
-    - how_summary_is_calculated: |
-       ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
-       
+  - reasoning: |
+      ~C~Provide a chain of reasoning that backs up how you've reached the conclusion on the amount of theft you've specified in Summary.~C~
+  - how_summary_is_calculated: |
+      ~C~Provide the formula or method you used to reach the number you specified in Summary.~C~
+
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-    breakdown_of_$4.8_billion_lost_by_LTCM_over_the_course_of_1998:
-      source: https://www.econcrises.org/2016/04/18/long-term-capital-management/
-      breakdown_amount:
-        swaps: $1.6 billion
-        equity_and_volatility: $1.3 billion
-        Russia_and_other_emerging_markets: $430 million 
-        directional_trade_in_developed_countries: $371 million 
-        equity_pairs: $286 million 
-        yield_curve_arbitrage: $215 million 
-        s&p_500_stocks: $203 million 
-        junk_bonds_arbitrage: $100 million
-        merger_arbitrage: no substancial losses
+  breakdown_of_$4.8_billion_lost_by_LTCM_over_the_course_of_1998:
+    source: https://www.econcrises.org/2016/04/18/long-term-capital-management/
+    breakdown_amount:
+      swaps: $1.6 billion
+      equity_and_volatility: $1.3 billion
+      Russia_and_other_emerging_markets: $430 million
+      directional_trade_in_developed_countries: $371 million
+      equity_pairs: $286 million
+      yield_curve_arbitrage: $215 million
+      s&p_500_stocks: $203 million
+      junk_bonds_arbitrage: $100 million
+      merger_arbitrage: no substancial losses
 
-    major_contributors_in_LTCM_bailout:
-      source: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
-      details: "Seeing no options left, the Federal Reserve Bank of New York organized a bailout of $3.625 billion by the major creditors to avoid a wider collapse in the financial markets.The principal negotiator for LTCM was general counsel James G. Rickards"
-      instituitions_with_contributed_amount:
-         bankers_trust, barclays, chase, credit_suisse_first_boston, deutsche_Bank, goldman_sachs, merrill_lynch, J.P.Morgan, morgan_stanley, salomon_smith_barney, UBS : $300 million
-         société_générale: $125 million
-         paribas_and_lehman_brothers: $100 million
-         bear_stearns_and_crédit_agricole: Declined to participate
-    
+  major_contributors_in_LTCM_bailout:
+    source: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
+    details: "Seeing no options left, the Federal Reserve Bank of New York organized a bailout of $3.625 billion by the major creditors to avoid a wider collapse in the financial markets.The principal negotiator for LTCM was general counsel James G. Rickards"
+    instituitions_with_contributed_amount:
+      bankers_trust, barclays, chase, credit_suisse_first_boston, deutsche_Bank, goldman_sachs, merrill_lynch, J.P.Morgan, morgan_stanley, salomon_smith_barney, UBS: $300 million
+      société_générale: $125 million
+      paribas_and_lehman_brothers: $100 million
+      bear_stearns_and_crédit_agricole: Declined to participate
+
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
-    - quote: 1
-      book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
-      author: Roger Lowenstein
-      published: October 9, 2000
-      url: https://www.amazon.com/gp/product/0375758259/
-      description: |
-        If Wall Street is to learn just one lesson from the Long-Term debacle, it should be that. The next time a Merton proposes an elegant model to manage risks and foretell odds, the next time a computer with a perfect memory of the past is said to quantify risks in the future, investors should run—and quickly—the other way. On Wall Street, though, few lessons remain learned.
+  - quote: 1
+    book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
+    author: Roger Lowenstein
+    published: October 9, 2000
+    url: https://www.amazon.com/gp/product/0375758259/
+    description: |
+      If Wall Street is to learn just one lesson from the Long-Term debacle, it should be that. The next time a Merton proposes an elegant model to manage risks and foretell odds, the next time a computer with a perfect memory of the past is said to quantify risks in the future, investors should run—and quickly—the other way. On Wall Street, though, few lessons remain learned.
 
-    - quote: 2
-      book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
-      author: Roger Lowenstein
-      published: October 9, 2000
-      url: https://www.amazon.com/gp/product/0375758259/
-      description: |
-        With traders scrambling to pay back debts, Neal Soss, an economist at Credit Suisse First Boston, explained to the Journal, "You don't sell what you should. You sell what you can." By leveraging one security, investors had potentially given up control of all of their others. This verity is well worth remembering: the securities may be unrelated, but the same investors owned them, implicitly linking them in times of stress. And when armies of financial soldiers were involved in the same securities, borders shrank. The very concept of safety through diversification - the basis of Long-Term's own security - would merit rethinking
+  - quote: 2
+    book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
+    author: Roger Lowenstein
+    published: October 9, 2000
+    url: https://www.amazon.com/gp/product/0375758259/
+    description: |
+      With traders scrambling to pay back debts, Neal Soss, an economist at Credit Suisse First Boston, explained to the Journal, "You don't sell what you should. You sell what you can." By leveraging one security, investors had potentially given up control of all of their others. This verity is well worth remembering: the securities may be unrelated, but the same investors owned them, implicitly linking them in times of stress. And when armies of financial soldiers were involved in the same securities, borders shrank. The very concept of safety through diversification - the basis of Long-Term's own security - would merit rethinking
 
-    - quote: 3
-      book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
-      author: Roger Lowenstein
-      published: October 9, 2000
-      url: https://www.amazon.com/gp/product/0375758259/
-      description: |
-        Lawrence Summers, now the U.S. Treasury secretary , told The Wall Street Journal after the crash, "The efficient market hypothesis is the most remarkable error in the history of economic theory.
+  - quote: 3
+    book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
+    author: Roger Lowenstein
+    published: October 9, 2000
+    url: https://www.amazon.com/gp/product/0375758259/
+    description: |
+      Lawrence Summers, now the U.S. Treasury secretary , told The Wall Street Journal after the crash, "The efficient market hypothesis is the most remarkable error in the history of economic theory.
 
-    - quote: 4
-      book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
-      author: Roger Lowenstein
-      published: October 9, 2000
-      url: https://www.amazon.com/gp/product/0375758259/
-      description: |
-        Once a typhoon breaks loose in markets, there is no telling where it will go.
+  - quote: 4
+    book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
+    author: Roger Lowenstein
+    published: October 9, 2000
+    url: https://www.amazon.com/gp/product/0375758259/
+    description: |
+      Once a typhoon breaks loose in markets, there is no telling where it will go.
 
-        When you need money, Wall Street is a heartless place.
+      When you need money, Wall Street is a heartless place.
 
-    - quote: 5
-      topic: "Long-Term Capital Management"
-      source: "Wikipedia"
-      url: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
-      description: |
-        Initially successful with annualized return of over 21% (after fees) in its first year, 43% in the second year and 41% in the third year, in 1998 it lost $4.6 billion in less than four months due to a combination of high leverage and exposure to the 1997 Asian financial crisis and 1998 Russian financial crisis.
+  - quote: 5
+    topic: "Long-Term Capital Management"
+    source: "Wikipedia"
+    url: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
+    description: |
+      Initially successful with annualized return of over 21% (after fees) in its first year, 43% in the second year and 41% in the third year, in 1998 it lost $4.6 billion in less than four months due to a combination of high leverage and exposure to the 1997 Asian financial crisis and 1998 Russian financial crisis.
 
-        As LTCM teetered, Wall Street feared that Long-Term's failure could cause a chain reaction in numerous markets, causing catastrophic losses throughout the financial system.
+      As LTCM teetered, Wall Street feared that Long-Term's failure could cause a chain reaction in numerous markets, causing catastrophic losses throughout the financial system.
 
-        After LTCM failed to raise more money on its own, it became clear it was running out of options. On September 23, 1998, Goldman Sachs, AIG, and Berkshire Hathaway offered then to buy out the fund's partners for $250 million, to inject $3.75 billion and to operate LTCM within Goldman's own trading division. The offer of $250 million was stunningly low to LTCM's partners because at the start of the year their firm had been worth $4.7 billion. Warren Buffett gave Meriwether less than one hour to accept the deal; the time lapsed before a deal could be worked out.
+      After LTCM failed to raise more money on its own, it became clear it was running out of options. On September 23, 1998, Goldman Sachs, AIG, and Berkshire Hathaway offered then to buy out the fund's partners for $250 million, to inject $3.75 billion and to operate LTCM within Goldman's own trading division. The offer of $250 million was stunningly low to LTCM's partners because at the start of the year their firm had been worth $4.7 billion. Warren Buffett gave Meriwether less than one hour to accept the deal; the time lapsed before a deal could be worked out.
 
-        Seeing no options left, the Federal Reserve Bank of New York organized a bailout of $3.625 billion by the major creditors to avoid a wider collapse in the financial markets.
-   
-    - quote: 6
-      topic: "Long-Term Capital Management Hedge Fund Crisis"
-      source: "The Balance, Kimberly Amadeo, January 08, 2020"
-      url: https://www.thebalance.com/long-term-capital-crisis-3306240
-      description: |
-        Like many hedge funds, LTCM's investment strategies were based upon hedging against a predictable range of volatility in foreign currencies and bonds. On August 17, 1998, Russia declared it was devaluing its currency. It also defaulted on its bonds. That event was beyond the normal range that LTCM had estimated. By August 31, the Dow Jones Industrial Average had dropped by 13%. Investors sought refuge in Treasury bonds, causing long-term interest rates to fall by more than a full point by September 30, 1998.﻿
+      Seeing no options left, the Federal Reserve Bank of New York organized a bailout of $3.625 billion by the major creditors to avoid a wider collapse in the financial markets.
 
-        As a result, LTCM's highly leveraged investments started to crumble. By the end of August 1998, it lost 50% of the value of its capital investments. Since so many banks and pension funds had invested in LTCM, its problems threatened to push most of them to near bankruptcy.
+  - quote: 6
+    topic: "Long-Term Capital Management Hedge Fund Crisis"
+    source: "The Balance, Kimberly Amadeo, January 08, 2020"
+    url: https://www.thebalance.com/long-term-capital-crisis-3306240
+    description: |
+      Like many hedge funds, LTCM's investment strategies were based upon hedging against a predictable range of volatility in foreign currencies and bonds. On August 17, 1998, Russia declared it was devaluing its currency. It also defaulted on its bonds. That event was beyond the normal range that LTCM had estimated. By August 31, the Dow Jones Industrial Average had dropped by 13%. Investors sought refuge in Treasury bonds, causing long-term interest rates to fall by more than a full point by September 30, 1998.﻿
 
-        In September, Bear Stearns dealt the deathblow.﻿ The investment bank managed all of LTCM's bond and derivatives settlements. It called in a $500 million payment. Bear Stearns was afraid it would lose all its considerable investments. LTCM had been out of compliance with its banking agreements for three months.
+      As a result, LTCM's highly leveraged investments started to crumble. By the end of August 1998, it lost 50% of the value of its capital investments. Since so many banks and pension funds had invested in LTCM, its problems threatened to push most of them to near bankruptcy.
 
-        To save the U.S. banking system, the Federal Reserve Bank of New York President William McDonough convinced 14 banks to bail out LTCM. They spent $3.5 billion in return for a 90% ownership of the fund.
+      In September, Bear Stearns dealt the deathblow.﻿ The investment bank managed all of LTCM's bond and derivatives settlements. It called in a $500 million payment. Bear Stearns was afraid it would lose all its considerable investments. LTCM had been out of compliance with its banking agreements for three months.
 
-    - quote: 7
-      topic: "Long-Term Capital Management (LTCM)"
-      source: "Investopedia, Adam Hayes, June 12, 2019"
-      url: https://www.investopedia.com/terms/l/longtermcapital.asp
-      description: |
-        Due to Long Term Capital Management’s highly leveraged nature, coupled with a financial crisis in Russia (i.e., the default of government bonds), LTCM sustained massive losses and was in danger of defaulting on its own loans. This made it difficult for LTCM to cut its losses in its positions. LTCM held huge positions, totaling roughly 5% of the total global fixed-income market, and had borrowed massive amounts of money to finance these leveraged trades.
+      To save the U.S. banking system, the Federal Reserve Bank of New York President William McDonough convinced 14 banks to bail out LTCM. They spent $3.5 billion in return for a 90% ownership of the fund.
 
-        In September 1998, the fund, which continued to sustain losses, was bailed out with the help of the Federal Reserve. Then its creditors took over, and a systematic meltdown of the market was prevented.
+  - quote: 7
+    topic: "Long-Term Capital Management (LTCM)"
+    source: "Investopedia, Adam Hayes, June 12, 2019"
+    url: https://www.investopedia.com/terms/l/longtermcapital.asp
+    description: |
+      Due to Long Term Capital Management’s highly leveraged nature, coupled with a financial crisis in Russia (i.e., the default of government bonds), LTCM sustained massive losses and was in danger of defaulting on its own loans. This made it difficult for LTCM to cut its losses in its positions. LTCM held huge positions, totaling roughly 5% of the total global fixed-income market, and had borrowed massive amounts of money to finance these leveraged trades.
 
-    - quote: 8
-      topic: "The Epic Story Of How A 'Genius' Hedge Fund Almost Caused A Global Financial Meltdown"
-      source: "Business Insider,  Stephanie Yang, July 11,2014"
-      url: https://www.businessinsider.com/the-fall-of-long-term-capital-management-2014-7
-      description: |
-        In only a few weeks, Long-Term was facing $1 trillion in default risks. Meriwether tried to raise more money from investors to save their positions, but no one was willing to lend.
+      In September 1998, the fund, which continued to sustain losses, was bailed out with the help of the Federal Reserve. Then its creditors took over, and a systematic meltdown of the market was prevented.
 
-        If Long-Term went bankrupt, the entirety of Wall Street was facing exposure and huge losses. Finally, the Federal Reserve worked together with Wall Street's major banks to put together a $3.65 billion bailout package.
+  - quote: 8
+    topic: "The Epic Story Of How A 'Genius' Hedge Fund Almost Caused A Global Financial Meltdown"
+    source: "Business Insider,  Stephanie Yang, July 11,2014"
+    url: https://www.businessinsider.com/the-fall-of-long-term-capital-management-2014-7
+    description: |
+      In only a few weeks, Long-Term was facing $1 trillion in default risks. Meriwether tried to raise more money from investors to save their positions, but no one was willing to lend.
 
-    - quote: 9
-      topic: "Bailout of Long-Term Capital: A Bad Precedent?"
-      source: "The New York Times, Tyler Cowen, December 26,2008"
-      url: https://www.nytimes.com/2008/12/28/business/economy/28view.html
-      description: |
-        When Russia’s inability to pay its debts roiled global markets, the fund, saddled with high-leverage and off-balance-sheet obligations, was near collapse.
+      If Long-Term went bankrupt, the entirety of Wall Street was facing exposure and huge losses. Finally, the Federal Reserve worked together with Wall Street's major banks to put together a $3.65 billion bailout package.
 
-        At the time, it may have seemed that regulators did the right thing. The bailout did not require upfront money from the government, and the world avoided an even bigger financial crisis. 
+  - quote: 9
+    topic: "Bailout of Long-Term Capital: A Bad Precedent?"
+    source: "The New York Times, Tyler Cowen, December 26,2008"
+    url: https://www.nytimes.com/2008/12/28/business/economy/28view.html
+    description: |
+      When Russia’s inability to pay its debts roiled global markets, the fund, saddled with high-leverage and off-balance-sheet obligations, was near collapse.
 
-    - quote: 10
-      topic: "Long-Term Capital Management"
-      source: "Financial Scandals, Scoundrels & Crises, Ron Rimkus, APRIL 18, 2016"
-      url: https://www.econcrises.org/2016/04/18/long-term-capital-management/
-      description: |
-        LTCM’s failure decimated not only its clients’ wealth but also its principals’ wealth. The actions of LTCM’s managers and principals suggest that they considered themselves impervious to mistakes. All too painfully, they discovered they were wrong.
+      At the time, it may have seemed that regulators did the right thing. The bailout did not require upfront money from the government, and the world avoided an even bigger financial crisis.
 
-        Over the course of 1998, LTCM lost $4.8 billion.
-        In interest rate swaps and equity options combined, LTCM lost $2.9 billion. 
+  - quote: 10
+    topic: "Long-Term Capital Management"
+    source: "Financial Scandals, Scoundrels & Crises, Ron Rimkus, APRIL 18, 2016"
+    url: https://www.econcrises.org/2016/04/18/long-term-capital-management/
+    description: |
+      LTCM’s failure decimated not only its clients’ wealth but also its principals’ wealth. The actions of LTCM’s managers and principals suggest that they considered themselves impervious to mistakes. All too painfully, they discovered they were wrong.
 
-    - quote: 11
-      topic: "The Epic Story Of How A 'Genius' Hedge Fund Almost Caused A Global Financial Meltdown"
-      source: "BusinessInsider, Scoundrels & Crises, Ron Rimkus, APRIL 18, 2016"
-      url: https://www.businessinsider.com/the-fall-of-long-term-capital-management-2014-7#:~:text=The%20demise%20of%20the%20firm,its%20%244.7%20billion%20in%20capital.
-      description: |
-        But by 1998, that firm was primed to expose America's largest banks to more than $1 trillion in default risks. The demise of the firm, Long-Term Capital Management (LTCM), was swift and sudden. In less than one year, LTCM had lost $4.4 billion of its $4.7 billion in capital.
+      Over the course of 1998, LTCM lost $4.8 billion.
+      In interest rate swaps and equity options combined, LTCM lost $2.9 billion.
 
-        In desperate need of a $4 billion bailout, the crumbling firm was at the mercy of the banks it had once snubbed and manipulated.
- 
-    
+  - quote: 11
+    topic: "The Epic Story Of How A 'Genius' Hedge Fund Almost Caused A Global Financial Meltdown"
+    source: "BusinessInsider, Scoundrels & Crises, Ron Rimkus, APRIL 18, 2016"
+    url: https://www.businessinsider.com/the-fall-of-long-term-capital-management-2014-7#:~:text=The%20demise%20of%20the%20firm,its%20%244.7%20billion%20in%20capital.
+    description: |
+      But by 1998, that firm was primed to expose America's largest banks to more than $1 trillion in default risks. The demise of the firm, Long-Term Capital Management (LTCM), was swift and sudden. In less than one year, LTCM had lost $4.4 billion of its $4.7 billion in capital.
+
+      In desperate need of a $4 billion bailout, the crumbling firm was at the mercy of the banks it had once snubbed and manipulated.
+
 # {~C~} This section provides a summary of all useful resources, including those used to get data and quotes above. {~C~}
 resources:
-    - sites:
+  - sites:
       - https://www.econcrises.org/2016/04/18/long-term-capital-management/
-    
-    - books:
+
+  - books:
       - book: "When Genius Failed: The Rise and Fall of Long-Term Capital Management, Roger Lowenstein"
         author: Roger Lowenstein
         published: October 9, 2000
         url: https://www.amazon.com/gp/product/0375758259/
 
-    - articles:
+  - articles:
       - topic: "Long-Term Capital Management"
         source: "Wikipedia"
         url: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
@@ -230,7 +269,7 @@ years_covered:
   - end: ~C~2012 - or remove if the problem is ongoing~C~
   - key_year: ~C~2011 or this can be an array~C~
   - data_range:
-    - from: ~C~2008~C~
-    - to: ~C~2015~C~
+      - from: ~C~2008~C~
+      - to: ~C~2015~C~
 
 license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
