@@ -44,6 +44,7 @@ author:
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
   For the last 200+ years, the U.S. has experienced strong GDP growth annually. The rigged economy is about how the GDP is stolen so the appropriate amounts stopped going to the working class. 
+
   Here is what should be debated in "Share buyback" part of the proposed rigging of the economy:
 
   * GDP growth turns into: a) profits and b) normal share price growth.
@@ -59,7 +60,9 @@ describe_problem_area: |
   7) There can be more ways that the wealth transfer to the investor classes happens.
 
   It is important to look how the USA used to not do this. Did US congress sell out the American people and pass laws over the last 50 years to make share buy-back far better for investors?
+
   Look at Germany has laws against share-buy-back, and understand the ethics that they do that so the wealthy don't rig the economy. See if you view the ethics of their laws as needed to prevent the US wealthy investor class (and corporate execs) from stealing in a rigged economy way.
+  
   Do you consider US Congress to have committed the crime of stealing if they don't have the same laws as Germany (that prevents shared-buy-back rigged economy)?
 
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
@@ -79,15 +82,12 @@ reasoning: |
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
   reasoning: |
-    What percentage of the High Frequency Trading industry came from unethical 
-    front running stock trades (if any) or other forms of taking from other market investors
-    in a way that is unethical, or ripping them off in a rigged economy way.
+    What percentage of the High Frequency Trading industry came from unethical front running stock trades (if any) or other forms of taking from other market investors in a way that is unethical, or ripping them off in a rigged economy way.
   percent_of_industry_that_is_unethical: #{~C~}Enter Percent{~C~}
   how_summary_is_calculated: |
     # {~C~}This is just an example illustration.  It should be replaced by{~C~}
     # {~C~}the problem pospoals author with their reasoning.{~C~}
-    The Industry size below is multiplied by the percent to calculate the final summary,
-    which is the approximation of the amount that was unethically ripped off.
+    The Industry size below is multiplied by the percent to calculate the final summary, which is the approximation of the amount that was unethically ripped off.
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:

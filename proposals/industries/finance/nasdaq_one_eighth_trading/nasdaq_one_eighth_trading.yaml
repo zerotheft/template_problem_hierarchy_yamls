@@ -94,16 +94,16 @@ reasoning: |
   4) Do you consider it theft in a rigged economy where traders (or others at NASDAQ) transferred money in an unethical way, from unethically wide spreads?  If the claims of unethically wide spreads are true.
   5) Were law suits filed on this issue?  (Even if someone settled out of court with a confidential
      agreement, and the law suit was resolved)  Should citizens have had this law suit should have been a criminal case that government prosecutors should have brought? Were citizens betrayed by the elite by the elite chosing to have government prosecutors not bring a criminal trail against those  who are debated to have done anything unethical in this area (if they did)?
-   6) Any discussions that can relate to Estimated_pennies_stolen_per_share_on_trades_having_this_problem
-   7) Any discussions that can relate to Estimated_Percentage_Unethically_Taken_vs_Total_Trades
-   8) Is there any proof that this LACK-of-1/8th prices wasn't a problem on NYSE?
+  6) Any discussions that can relate to Estimated_pennies_stolen_per_share_on_trades_having_this_problem
+  7) Any discussions that can relate to Estimated_Percentage_Unethically_Taken_vs_Total_Trades
+  8) Is there any proof that this LACK-of-1/8th prices wasn't a problem on NYSE?
 
 # {~C~} The following are questions and suggestions you may want to use in building an estimate of the "size" of the problem. {~C~}
 # {~C~} Your reasoning should provide a strong case for how much is being ripped off through rigging of the economy. {~C~}
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
   - reasoning: |
-      Total_from_This_Area = (Amount_of_trades_during_all_years_on_NASDAQ / Average_Shares_Per_Trade) * Estimated_pennies_stolen_per_share_on_trades_having_this_problem
+      total_from_this_area = (amount_of_trades_during_all_years_on_NASDAQ / average_shares_per_trade) * estimated_pennies_stolen_per_share_on_trades_having_this_problem
 
   - total_from_this_area: # Average Shares per trade
 
@@ -197,6 +197,7 @@ quotes:
     url: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1994.tb04782.x"
     description: |
       The NASDAQ multiple dealer market is designed to produce narrow bid‐ask spreads through the competition for order flow among individual dealers. However, we find that odd‐eighth quotes are virtually nonexistent for 70 of 100 actively traded NASDAQ securities, including Apple Computer and Lotus Development. 
+
       The lack of odd‐eighth quotes cannot be explained by the negotiation hypothesis of Harris (1991), trading activity, or other variables thought to impact spreads. This result implies that the inside spread for a large number of NASDAQ stocks is at least $0.25 and raises the question of whether NASDAQ dealers implicitly collude to maintain wide spreads.
 
   - quote: 3
@@ -205,6 +206,7 @@ quotes:
     url: "https://web.stanford.edu/~wfsharpe/art/fer/fer95a.htm"
     description: |
       The Nasdaq Stock Market has recently come under intense scrutiny because of charges that some of its dealers have colluded to inflate the bid-ask spreads of Nasdaq-listed stocks. These charges of collusion were largely precipitated by a study by Professors William Christie and Paul Schultz, which was first reported in the press on May 26, 1994 and ultimately published in the December 1994 Journal of Finance. 
+
       Subsequent to this study, both the Department of Justice and the Securities and Exchange Commission began broad investigations of Nasdaq.
 
   - quote: 4
@@ -264,7 +266,9 @@ quotes:
     url: "https://www.nytimes.com/1997/12/25/business/30-firms-to-pay-900-million-in-investor-suit.html"
     description: |
       The plaintiffs had contended that between 1989 and 1994, a large portion of the stock trading done on the Nasdaq market was manipulated by brokers, who inflated the spreads -- the difference between the price at which stocks are bought and sold -- to reap higher trading profits.
+
       They did it on the buy side and they did it on the sell side,'' said Robert A. Skirnick, a lawyer for the plaintiffs. ''Whether you were buyer or a seller, you were damaged.
+
       For instance, if an investor asked to buy shares of a company at $20.125, a broker might return with shares bought at $20.25, saying the shares were unavailable at the lower price. The broker would then pocket the difference. In deals where hundreds of thousands of shares were traded, that spread of 12.5 cents could add up to a large sum of money.
 
   - quote: 12
@@ -309,6 +313,7 @@ quotes:
     url: "https://www.washingtonpost.com/archive/business/1994/07/27/nasdaq-investor-suits-allege-price-rigging/03fd7d4f-19e1-48b0-a5aa-e7f7851d832b/"
     description: |
       Triggered by research questioning the way prices are set on the Nasdaq stock market, more than a dozen class-action lawsuits have been filed accusing Nasdaq stockbrokers of rigging prices so they can make millions of dollars of extra profits from small investors.
+
       The lawsuits contend Nasdaq firms have conspired to round off most stock prices to the nearest quarter of a dollar rather than quoting prices in eighths of a dollar as the New York and American stock exchanges do.
 
   - quote: 18
@@ -317,6 +322,7 @@ quotes:
     url: "https://www.washingtonpost.com/archive/business/1994/07/27/nasdaq-investor-suits-allege-price-rigging/03fd7d4f-19e1-48b0-a5aa-e7f7851d832b/"
     description: |
       The lawsuits have the potential "to impact the way business is done" in the Nasdaq market, said Robert A. Skirnick, a lawyer for investors who have sued in New York and Chicago. "It may be that individual investors will not necessarily see more money," Skirnick said. 
+
       The lawsuit doesn't say how much investors are allegedly losing, but in a market that trades more than 200 million shares of stock a day, "we are talking about a sizable amount of money," he said.
 
   - quote: 19
@@ -367,8 +373,10 @@ quotes:
     url: "https://nypost.com/2015/03/25/us-stock-market-is-just-way-too-riggin-easy/"
     description: |
       There’s another kind of market rigging that is also going on. This is being done by companies themselves.
+
       Since corporate profits and revenues aren’t growing enough to justify current high stock prices, companies have been aggressively buying back massive quantities of their own shares.
       By doing this, companies reduce the number of their shares owned by the public. 
+
       This accounting trick boosts the calculation of profit-per-shares because the numerator of the equation (earnings) remains the same while the denominator (outstanding shares) is reduced.
 
   - quote: 26
@@ -377,8 +385,11 @@ quotes:
     url: "https://www.theguardian.com/commentisfree/2014/jun/22/wall-street-washington-stock-market-rigged-investors"
     description: |
       Rich, elite traders are making millions of dollars in bonuses by using super-fast computers to swoop into the stock market and conduct trades in milliseconds, faster than even most professionals and certainly faster than any Average Joe. The HFT industry – a collection of stock exchanges, hedge funds, banks and others that has actually been around for six years – collects billions of dollars in profits: the kind of money you just can't earn unless you elbow someone else out of the way. Numerous studies show that Flash Boys-style trades affect stock prices and increase fees for long-term investors. 
+
       The New York state attorney general even has a nickname for it – "Insider Trading 2.0" – and now  would-be investors are starting to realize, once again, just how much the decks are stacked against them.
+
       As Senator Elizabeth Warren noted at her Senate panel on Wednesday, one high-frequency trading firm, Virtu, made a profit on 1,237 out of 1,238 trading days. "You know, this isn't trading," Warren said. 
+
       "Traders have good days and bad days... but high-frequency traders have only good days."
 
   - quote: 27
@@ -400,7 +411,9 @@ quotes:
           Censure and Cease and Desist Order
           New York Stock Exchange, Inc., Respondent, and the
           President Obama's Order on Transparency and Open Government
+
       Dear Chairman Schapiro
+
       I believe that you and your fellow Commissioners have a sworn duty and obligation to make your decision as to the disposition ofthe remaining/surplus funds in the fair fund created by the SEC for the benefit of the victims of NYSE violations based upon the documented facts of the  NYSE Execution Fraud, and not based on documented NYSE false statements, false NYSE platitudes and representations, or on secretive and non transparent retroactive surveillance conducted by the NYSE. I believe your decision should not be based on potentially self serving recommendations of certain SEC staff members who may be more concerned about covering up their own actions in the fraud adjudication process conducted hand in hand with the NYSE itself, than on the fair distribution ofremaining funds.
 
   - quote: 28
@@ -409,6 +422,7 @@ quotes:
     url: "https://www.cbsnews.com/news/michael-lewis-stock-market-rigged-flash-boys-60-minutes/"
     description: |
       Back in 2008, Katsuyama was 30 years old and running the Royal Bank of Canada's stock desk in New York with 25 traders working for him. Every time one of them tried to buy a large block of stock for a client their order would only be partially filled and the price of the stock would go up. 
+
       It kept happening over and over again.
 
   - quote: 29
@@ -417,6 +431,7 @@ quotes:
     url: "https://www.cbsnews.com/news/michael-lewis-stock-market-rigged-flash-boys-60-minutes/"
     description: |
       Katsuyama suspected that the problem had something to do with plumbing, the way the trades were routed through fiber optic cables from his trading desk in lower Manhattan to the 13 public exchanges in northern  New Jersey. But no one would tell him exactly what happened to his orders once he hit the buy or sell button. 
+      
       So he put together a team of technical experts, traders and most importantly, an Irish telecom guy named Ronan Ryan, who was an expert on high-speed fiber optic networks.
 
   - quote: 30
