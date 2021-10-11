@@ -70,9 +70,7 @@ author:
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-  "It is high time that Congress declares savings and loan crooks public enemy No. 1", statement of Sen. John Heinz, R, PA.
-  S&L Bailout is the Savings and Loan bailouts that happened around 1989.
-  Capitalism without the theft means BAILOUTs do not have to happen.  This gives the massive size of the damage.
+  "It is high time that Congress declares savings and loan crooks public enemy No. 1", statement of Sen. John Heinz, R, PA. S&L Bailout is the Savings and Loan bailouts that happened around 1989. Capitalism without the theft means BAILOUTs do not have to happen.  This gives the massive size of the damage.
   BAILOUTS of Savings & Loan Crisis: $500,000,000,000
   COST TO RUN the USA GOV: 304,000,000,000 (in 1989)
 
@@ -83,15 +81,13 @@ describe_problem_area: |
   d) Social programs & welfare
   e) Paying interest on the US national debt
 
-  The Savings and Loan Crisis was the most significant bank collapse since the Great Depression of 1929 when it happened. 
-  By 1989, more than 1,000 of the nation's savings and loans had failed.
+  The Savings and Loan Crisis was the most significant bank collapse since the Great Depression of 1929 when it happened. By 1989, more than 1,000 of the nation's savings and loans had failed.
 
   The crisis cost $160,000,000,000. Taxpayers paid $132,000,000,000, and the S&L industry paid the rest. The Federal Savings and Loan Insurance Corporation paid $20,000,000,000 to depositors of failed S&Ls before it went bankrupt. More than 500 S&Ls were insured by state-run funds. Their failures cost $185,000,000 before they collapsed. 
 
   The crisis ended what had once been a secure source of home mortgages. It also destroyed the idea of state-run bank insurance funds.  
 
-  So, the question arise what caused this failures? Was there some fraud / scandal that triggered the crisis?
-  source: https://www.thebalance.com/savings-and-loans-crisis-causes-cost-3306035.
+  So, the question arise what caused this failures? Was there some fraud / scandal that triggered the crisis?  source: https://www.thebalance.com/savings-and-loans-crisis-causes-cost-3306035.
 
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
@@ -100,8 +96,7 @@ reasoning: |
   "THE BOOK" is "The Best way to Rob a Bank is to Own One" by William K. Black
   1) What is the total bailout amount on S&L Crisis? Who paid the bailout amount?
   2) What caused the savings and loan institution failures?
-  3) Did hundreds or thousands of people get convicted by the DoJ because of the Savings & Loan crisis?
-    "A more aggressive response followed the savings and loan crisis of the ’80s and early ’90s, when more than 1,000 bankers were convicted by the Justice Department."
+  3) Did hundreds or thousands of people get convicted by the DoJ because of the Savings & Loan crisis? "A more aggressive response followed the savings and loan crisis of the ’80s and early ’90s, when more than 1,000 bankers were convicted by the Justice Department."
     source: "https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/#:~:text=Savings%20%26%20Loan%20Crisis,convicted%20by%20the%20Justice%20Department.
   4) Did Citizens need to bail out the Savings & Loan crisis?
   5) Did citizens have to pay for an S&L Bailout? (This includes with Federal Reserve money printing)
@@ -110,7 +105,6 @@ reasoning: |
   8) Did THE BOOK claim S&L banks create blow-up commercial loans?  And were Asset Appraisal Firms used in an unethical way to generate wrong valuations?  Did was this done in an unethical way?  Did it cause financial damage to victims (like the US tax payers?)
   9) Did THE BOOK claim the US Congress sub-committee on Savings & Loans sell out the American people by allowing this to happen?
       Was what congress did unethical? Did congress heavily contribute to allowing this problem to get far bigger by not stopping it early?   
-
   10) Did THE BOOK claim that congress's S&L Subcommittee were warned when the problem was far smaller years earlier?  Did THE BOOK claim the congressional S&L subcommittee chose to not fix the problem?  Did THE BOOK claim the damage would have been a fraction of the damage if it was stopped earlier?
   11) Did THE BOOK claim any of these:  The Federal level of investigators of the S&L problems (like NCFIRRE) get stopped?  
     Was congress's S&L subcommittee responsible in this damage to the investigating firm?  Did they have their management team changed?  Did changing the management team stop the investigation or making in uneffective at stopping the problem early?
@@ -138,8 +132,8 @@ reasoning_on_size_of_problem:
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-  ? annual_incremental_estimated_losses_in_productive_capital_associated_with_the_s&l_crisis (1981-1992) #Capital Loss (Billions of 1990 dollars)
-  : source: "Congressional Budget Office"
+    annual_incremental_estimated_losses_in_productive_capital_associated_with_the_s&l_crisis (1981-1992): #Capital Loss (Billions of 1990 dollars):
+    source: "Congressional Budget Office"
     url: https://www.cbo.gov/sites/default/files/102nd-congress-1991-1992/reports/1992_01_theeconeffectsofthesavings.pdf
     note: "These estimates are based on CBO's projections of losses in failed thrifts through 1995. CEO assumes that losses in productive capital occurred three years before the measurement of losses in failed thrifts."
     capital_loss:
@@ -198,42 +192,42 @@ size_of_problem:
       1981: "current_dollar: $760 million, 1990_dollar: $1,106 million"
       1980: "current_dollar: $166 million, 1990_dollar: $264 million"
 
-  ? estimated_direct_and_indirect_costs_of_resolving_the_savings_and_loan_crisis_and_related_funding_sources
-  : source: https://www.gao.gov/assets/230/222902.pdf
-    estimated_direct_and_indirect_costs:
-      - direct_costs:
-          - resolution_trust_corporation: $87,900,000,000 ($87.9 billion)
-          - FSLIC_costs: $64,700,000,000 ($64.7 billion)
-          - supervisory_goodwill_claims: $0
-      - indirect_costs:
-          - tax_benefits_under_FSLIC_assistance_agreements: $7,500,000,000 ($7.5 billion)
-      - total_estimated_direct_and_indirect_costs: $160,100,000,000 ($160.1 billion)
+    estimated_direct_and_indirect_costs_of_resolving_the_savings_and_loan_crisis_and_related_funding_sources: 
+      source: https://www.gao.gov/assets/230/222902.pdf
+      estimated_direct_and_indirect_costs:
+        - direct_costs:
+            - resolution_trust_corporation: $87,900,000,000 ($87.9 billion)
+            - FSLIC_costs: $64,700,000,000 ($64.7 billion)
+            - supervisory_goodwill_claims: $0
+        - indirect_costs:
+            - tax_benefits_under_FSLIC_assistance_agreements: $7,500,000,000 ($7.5 billion)
+        - total_estimated_direct_and_indirect_costs: $160,100,000,000 ($160.1 billion)
 
-  known_and_estimated_interest_expense_related_to_the_savings_and_loan_crisis:
-    source: https://www.gao.gov/assets/230/222902.pdf
-    known_and_estimated_interest_expense:
-      - known_interest_expense:
-          - interest_expense_on_FICO_bonds: $23,800,000,000 ($23.8 billion)
-          - interest_expense_on_REFCORP_bonds: $88,000,000,000 ($88 billion)
-          - total_known_interest_expense_on_bonds: $111,800,000,000 ($111.8 billion)
-      - estimated_interest_expense:
-          - estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
-          - total_estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
+      known_and_estimated_interest_expense_related_to_the_savings_and_loan_crisis:
+        source: https://www.gao.gov/assets/230/222902.pdf
+        known_and_estimated_interest_expense:
+          - known_interest_expense:
+              - interest_expense_on_FICO_bonds: $23,800,000,000 ($23.8 billion)
+              - interest_expense_on_REFCORP_bonds: $88,000,000,000 ($88 billion)
+              - total_known_interest_expense_on_bonds: $111,800,000,000 ($111.8 billion)
+          - estimated_interest_expense:
+              - estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
+              - total_estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
 
-  cost_of_the_s&l_bailout_by_the_year_2000:
-    source: http://www.ncpathinktank.org/pdfs/st155.pdf
-    data:
-      - old_cases_expense(up_to_jan_1990): $68,000,000,000 ($68 billion)
-      - new_cases_expense(after_jan_1990): $124,000,000,000 ($124 billion)
-      - savings_assoc_insurance_fund: $8,800,000,000 ($8.8 billion)
-      - administrative_costs: $19,000,000,000 ($19 billion)
-      - lost_tax_revenue_from_FSLIC_deals: $9,000,000,000 ($9 billion)
-      - zero_coupon_bonds_to_repay_non_tresury_debt: $11,000,000,000 ($11 billion)
-      - interest_expense:
-          - tresury_interest: $95,800,000,000 ($95.8 billion)
-          - non_treasury_interest: $92,700,000,000 ($92.7 billion)
-          - interest_on_working_capital: $28,000,000,000 ($28 billion)
-      - total: $456,300,000,000 ($456.3 billion)
+    cost_of_the_s&l_bailout_by_the_year_2000:
+      source: http://www.ncpathinktank.org/pdfs/st155.pdf
+      data:
+        - old_cases_expense(up_to_jan_1990): $68,000,000,000 ($68 billion)
+        - new_cases_expense(after_jan_1990): $124,000,000,000 ($124 billion)
+        - savings_assoc_insurance_fund: $8,800,000,000 ($8.8 billion)
+        - administrative_costs: $19,000,000,000 ($19 billion)
+        - lost_tax_revenue_from_FSLIC_deals: $9,000,000,000 ($9 billion)
+        - zero_coupon_bonds_to_repay_non_tresury_debt: $11,000,000,000 ($11 billion)
+        - interest_expense:
+            - tresury_interest: $95,800,000,000 ($95.8 billion)
+            - non_treasury_interest: $92,700,000,000 ($92.7 billion)
+            - interest_on_working_capital: $28,000,000,000 ($28 billion)
+        - total: $456,300,000,000 ($456.3 billion)
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -670,4 +664,6 @@ years_covered:
       - from: 1945
       - to: 1998
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+  source: "CREATIVE COMMONS - CC BY 4.0"
+  url: "https://creativecommons.org/licenses/by/4.0/"

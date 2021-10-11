@@ -55,9 +55,13 @@ author:
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
   The modern day rigged economy hides in complexity and jargon, and Wall Street is a perfect example of this.
+
   Even the Federal Reserve uses the term "Quantitative Easing" instead of money printing in order to keep citizens in the dark.
+
   The problem with rigged economy stealing in Wall Street/Finance is that ONE ENGINE of their theft occurs for many years and is undetected until it blows up or is uncovered.
+
   Our approximation must include what we unethical actions are happening right now, since only later will they be uncovered.
+
   Here are examples in the finance industry:
   1) Share-buy-back: We must dig down deep to consider if this is unethical and stealing mass quantities of wealth in a rigged economy. Do execs haul away wealth in non-free market stock price run-ups through buy-backs?  Does this mean the money they take doesn't go to normal citizen's 401ks and IRA returns?
   2) Do High Frequency Trading firms steal by front-running-trades?  Was it theft by the rigged economy?  See the book "Flash Boys".
@@ -74,8 +78,10 @@ describe_problem_area: |
   8) Savings & Loan bail outs: Fraud real estate loans that blew up because if systematic rigged economy theft.
   9) Long-term Capital Management blow-up and bailout (1989).
   10) The LIBOR was rigged. This is a cross-borders issues. But people must consider if this was extreme theft and using the complexity of finance to hide it. It could represent theft for some number of years, until uncovered.
+
   There are far far more than can be listed here. Does this list show that there is a systemic problem?  Does Wall Streat/Finance steal for years and people don't know, until they blow up the economy or are caught?
-  Is the pattern of Wall Street/Finance successfully stealing in a hidden way for years so systematic that we must approxiate that a similar amount of theft is underway, and has been for many years now.  Can we approximate that such theft will continue until it, too, will later be uncovered?
+
+  Is the pattern of Wall Street/Finance successfully stealing in a hidden way for years so systematic that we must approxiate that a similar amount of theft is underway, and has been for many years now. Can we approximate that such theft will continue until it, too, will later be uncovered?
 
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
@@ -99,12 +105,9 @@ reasoning: |
 # {~C~} These are just examples and ideas to get you started.  You should delete them and build your own arguments. {~C~}
 reasoning_on_size_of_problem:
   - reasoning: |
-      ~~~~~~Antibiotics (like penicillin) have often been invented many decades ago.  They may be very
-      simple (penicillin came from mold). There should be high competition to causes
-      prices to race very low.
-      Approximate what PERCENT of the amount spent on Antibiotics (like penicillin) 
-      that would go away if competition is strong and the amount citizens spent came down in
-      this industry.
+      ~~~~~~Antibiotics (like penicillin) have often been invented many decades ago.  They may be very simple (penicillin came from mold). There should be high competition to causes prices to race very low.
+      Approximate what PERCENT of the amount spent on Antibiotics (like penicillin) that would go away if competition is strong and the amount citizens spent came down in this industry.
+      
   - percent_of_antibiotics_and_penicillin_that_is_Unethically_ripped_off:
   #- US_spends_on_antibiotics_and_penicillin_yearly:
   - how_summary_is_calculated: |
@@ -114,58 +117,58 @@ reasoning_on_size_of_problem:
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-  estimated_revenue_for_US_finance_and_insurance:
-    source: "https://www.census.gov/services/qss/historic_data.html"
-    note: data are adjusted for seasonal variation but not for price change, and estimates for finance and insurance was started listing from 4th quaterly of 2009.
-    estimated_revenue:
-      2019: $5,107,900,000,000 ($5.1 trillion)
-      2018: $4,879,100,000,000 ($4.9 trillion)
-      2017: $4,570,400,000,000 ($4.6 trillion)
-      2016: $4,570,400,000,000 ($4.6 trillion)
-      2015: $3,924,700,000,000 ($3.9 trillion)
-      2014: $3,705,900,000,000 ($3.7 trillion)
-      2013: $3,705,900,000,000 ($3.7 trillion)
-      2012: $3,461,300,000,000 ($3.5 trillion)
-      2011: $3,341,600,000,000 ($3.3 trillion)
-      2010: $3,252,800,000,000 ($3.3 trillion)
-      2009: $3,186,400,000,000 ($3.2 trillion) #estimated :4*$796,600,000,000  = $3,186,400,000,000
+    estimated_revenue_for_US_finance_and_insurance:
+      source: "https://www.census.gov/services/qss/historic_data.html"
+      note: "Data are adjusted for seasonal variation but not for price change, and estimates for finance and insurance was started listing from 4th quaterly of 2009."
+      estimated_revenue:
+        2019: $5,107,900,000,000 ($5.1 trillion)
+        2018: $4,879,100,000,000 ($4.9 trillion)
+        2017: $4,570,400,000,000 ($4.6 trillion)
+        2016: $4,570,400,000,000 ($4.6 trillion)
+        2015: $3,924,700,000,000 ($3.9 trillion)
+        2014: $3,705,900,000,000 ($3.7 trillion)
+        2013: $3,705,900,000,000 ($3.7 trillion)
+        2012: $3,461,300,000,000 ($3.5 trillion)
+        2011: $3,341,600,000,000 ($3.3 trillion)
+        2010: $3,252,800,000,000 ($3.3 trillion)
+        2009: $3,186,400,000,000 ($3.2 trillion) #estimated :4*$796,600,000,000  = $3,186,400,000,000
 
-  estimated_revenue_for_US_banking_finance_and_insurance:
-    source: "https://www.statista.com/study/15822/banking-finance-and-insurance-in-the-us/"
-    estimated_revenue:
-      2020: $4,738,000,000,000 ($4.7 trillion)
+    estimated_revenue_for_US_banking_finance_and_insurance:
+      source: "https://www.statista.com/study/15822/banking-finance-and-insurance-in-the-us/"
+      estimated_revenue:
+        2020: $4,738,000,000,000 ($4.7 trillion)
 
-  estimate_revenue_of_banking_and_finance_in_the_US:
-    source: "https://www.statista.com/study/15822/industry-report--banking-and-finance/"
-    estimated_revenue:
-      2019: $2,070,700,000,000 ($2.1 trillion)
+    estimate_revenue_of_banking_and_finance_in_the_US:
+      source: "https://www.statista.com/study/15822/industry-report--banking-and-finance/"
+      estimated_revenue:
+        2019: $2,070,700,000,000 ($2.1 trillion)
 
-  insurance_market_size_in_the_US_2009_-_2019:
-    source: "https://www.statista.com/statistics/1102802/insurance-market-size-usa/"
-    value_of_insurance_premiums_written_in_the_United_States_from_2009_to_2019:
-      2019: $1.32 trillion
-      2018: $1.22 trillion
-      2017: $1.15 trillion
-      2016: $1.13 trillion
-      2015: $1.16 trillion
-      2014: $1.15 trillion
-      2013: $1.04 trillion
-      2012: N/A
-      2011: $1.06 trillion
-      2010: $1 trillion
-      2009: $0.93 trillion
+    insurance_market_size_in_the_US_2009_-_2019:
+      source: "https://www.statista.com/statistics/1102802/insurance-market-size-usa/"
+      value_of_insurance_premiums_written_in_the_United_States_from_2009_to_2019:
+        2019: $1.32 trillion
+        2018: $1.22 trillion
+        2017: $1.15 trillion
+        2016: $1.13 trillion
+        2015: $1.16 trillion
+        2014: $1.15 trillion
+        2013: $1.04 trillion
+        2012: N/A
+        2011: $1.06 trillion
+        2010: $1 trillion
+        2009: $0.93 trillion
 
-  revenue_in_banking_finance_and_insurance:
-    source: "https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states"
-    revenue:
-      2019: $2,342,788,000,000 ($2.3 trillion)
-      2018: $1,720,068,000,000 ($1.7 trillion)
-      2017: $1,677,081,000,000 ($1.7 trillion)
-      2016: $1,572,443,000,000 ($1.6 trillion)
-      2015: $1,472,114,000,000 ($1.5 trillion)
-      2014: $1,429,246,000,000 ($1.4 trillion)
-      2013: $1,418,059,000,000 ($1.4 trillion)
-      2012: $1,327,712,000,000 ($1.3 trillion)
+    revenue_in_banking_finance_and_insurance:
+      source: "https://www.statista.com/outlook/9400/109/banking-finance-insurances/united-states"
+      revenue:
+        2019: $2,342,788,000,000 ($2.3 trillion)
+        2018: $1,720,068,000,000 ($1.7 trillion)
+        2017: $1,677,081,000,000 ($1.7 trillion)
+        2016: $1,572,443,000,000 ($1.6 trillion)
+        2015: $1,472,114,000,000 ($1.5 trillion)
+        2014: $1,429,246,000,000 ($1.4 trillion)
+        2013: $1,418,059,000,000 ($1.4 trillion)
+        2012: $1,327,712,000,000 ($1.3 trillion)
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -1157,4 +1160,6 @@ years_covered:
       - from: 2009
       - to: 2019
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"

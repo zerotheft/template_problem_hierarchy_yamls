@@ -147,7 +147,7 @@ size_of_problem:
       1982: 94,426,000 (94.4 million)
       1981: 94,587,000 (94.6 million) #https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-rates-and-tax-shares
 
-  gross_collection_by_type_of_tax,_fiscal_years_2010_-_2018:
+  gross_collection_by_type_of_tax,_fiscal_years_2010_to_2018:
     source: "https://www.irs.gov/pub/irs-soi/19dbfigure01.xlsx"
     note: Other includes employement, estate and gift, and excise tax forms
     gross_collection:
@@ -550,4 +550,6 @@ years_covered:
       - from: 1934
       - to: 2018
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+  source: "CREATIVE COMMONS - CC BY 4.0"
+  url: "https://creativecommons.org/licenses/by/4.0/"

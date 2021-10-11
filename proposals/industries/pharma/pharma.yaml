@@ -98,541 +98,541 @@ reasoning_on_size_of_problem:
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-  revenue_of_united_states_pharmaceutical_ industry: #Size of industry of US only
-    - year: 2019
-      industry: $490,000,000,000 ($490 billion)
-      source: "https://www.pharmapproach.com/15-astonishing-statistics-and-facts-about-u-s-pharmaceutical-industry/#:~:text=In%202019%2C%20the%20United%20States,of%20the%20global%20pharmaceutical%20market."
+    revenue_of_united_states_pharmaceutical_industry: #Size of industry of US only
+      - year: 2019
+        industry: $490,000,000,000 ($490 billion)
+        source: "https://www.pharmapproach.com/15-astonishing-statistics-and-facts-about-u-s-pharmaceutical-industry/#:~:text=In%202019%2C%20the%20United%20States,of%20the%20global%20pharmaceutical%20market."
 
-    - year: 2018
-      data:
-        - industry: $484,800,000,000 ($484.8 billion)
-          source: "https://www.pharmapproach.com/15-astonishing-statistics-and-facts-about-u-s-pharmaceutical-industry/#:~:text=In%202019%2C%20the%20United%20States,of%20the%20global%20pharmaceutical%20market."
+      - year: 2018
+        data:
+          - industry: $484,800,000,000 ($484.8 billion)
+            source: "https://www.pharmapproach.com/15-astonishing-statistics-and-facts-about-u-s-pharmaceutical-industry/#:~:text=In%202019%2C%20the%20United%20States,of%20the%20global%20pharmaceutical%20market."
 
-        - industry: $484,531,000,000 ($484.5 billion)
-          source: "https://www.statista.com/statistics/266469/revenues-of-the-top-10-global-pharmaceutical-markets/"
+          - industry: $484,531,000,000 ($484.5 billion)
+            source: "https://www.statista.com/statistics/266469/revenues-of-the-top-10-global-pharmaceutical-markets/"
 
-    - year: 2017
-      industry: $453,000,000,000 ($453 billion)
-      source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.8b00320#:~:text=4%20By%20far%2C%20the%20United,%2C%20Canada%2C%20and%20Australia)."
+      - year: 2017
+        industry: $453,000,000,000 ($453 billion)
+        source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.8b00320#:~:text=4%20By%20far%2C%20the%20United,%2C%20Canada%2C%20and%20Australia)."
 
-    - year: 2015
-      industry: $354,000,000,000 ($354 billion)
-      source: "https://www.pharmaceutical-technology.com/research-reports/researchreportreport-us-pharmaceutical-market-projected-to-grow-at-a-cagr-of-44-up-to-2020-5720032/#:~:text=The%20US%20pharmaceutical%20market%20is,to%20a%20report%20by%20GlobalData."
+      - year: 2015
+        industry: $354,000,000,000 ($354 billion)
+        source: "https://www.pharmaceutical-technology.com/research-reports/researchreportreport-us-pharmaceutical-market-projected-to-grow-at-a-cagr-of-44-up-to-2020-5720032/#:~:text=The%20US%20pharmaceutical%20market%20is,to%20a%20report%20by%20GlobalData."
 
-  U.S_pharmaceutical_industry_size(2001-2010):
-    source: "https://www.marketresearch.com/product/sample-6504528.pdf"
-    industry_size:
-      2010: $307,000,000,000 ($307 billion)
-      2009: $300,000,000,000 ($300 billion)
-      2008: $286,000,000,000 ($286 billion)
-      2007: $281,000,000,000 ($281 billion)
-      2006: $270,000,000,000 ($270 billion)
-      2005: $247,000,000,000 ($247 billion)
-      2004: $234,000,000,000 ($234 billion)
-      2003: $219,000,000,000 ($219 billion)
-      2002: $195,000,000,000 ($195 billion)
-      2001: $172,000,000,000 ($172 billion)
-
-  pharmaceutical_market:_worldwide_revenue_2000-2019:
-    - year: 2019
-      industry: $1,250,400,000,000 ($1.3 trillion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2018
-      industry: $1,204,800,000,000 ($1.2 trillion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2017
-      industry: $1,135,100,000,000 ($1.1 trillion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2016
-      industry: $1,115,700,000,000 ($1.1 trillion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2015
-      industry: $1,073,100,000,000 ($1.1 trillion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2014
-      industry: $1,063,600,000,000 ($1.1 trillion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2013
-      industry: $993,800,000,000 ($993.8 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2012
-      industry: $964,400,000,000 ($964.4 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2011
-      industry: $963,200,000,000 ($963.2 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2010
-      industry_size:
-        - industry: $888,200,000,000 ($888.2 billion)
-          source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-        - industry: $850,000,000,000 ($850 billion)
-          source: "https://www.marketresearch.com/product/sample-6504528.pdf"
-
-    - year: 2009
-      industry_size:
-        - industry: $830,600,000,000 ($830.6 billion)
-          source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-        - industry: $808,000,000,000 ($808 billion)
-          source: "https://www.marketresearch.com/product/sample-6504528.pdf"
-
-    - year: 2008
-      industry_size:
-        - industry: $799,000,000,000 ($799 billion)
-          source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-        - industry: $781,000,000,000 ($781 billion)
-          source: "https://www.marketresearch.com/product/sample-6504528.pdf"
-
-    - year: 2007
-      industry_size:
-        - industry: $726,400,000,000 ($726.4 billion)
-          source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-        - industry: $717,000,000,000 ($717 billion)
-          source: "https://www.marketresearch.com/product/sample-6504528.pdf"
-
-    - year: 2006
-      industry: $648,700,000,000 ($648.7 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2005
-      industry: $601,200,000,000 ($601.2 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2004
-      industry: $559,900,000,000 ($559.9.4 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2003
-      industry: $498,000,000,000 ($498 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2002
-      industry: $427,600,000,000 ($427 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2001
-      industry: $390,200,000,000 ($390.2 billion)
-      source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
-
-    - year: 2000
-      industry: $365,000,000,000 ($365 billion)
+    U.S_pharmaceutical_industry_size_from_2001_to_2010:
       source: "https://www.marketresearch.com/product/sample-6504528.pdf"
+      industry_size:
+        2010: $307,000,000,000 ($307 billion)
+        2009: $300,000,000,000 ($300 billion)
+        2008: $286,000,000,000 ($286 billion)
+        2007: $281,000,000,000 ($281 billion)
+        2006: $270,000,000,000 ($270 billion)
+        2005: $247,000,000,000 ($247 billion)
+        2004: $234,000,000,000 ($234 billion)
+        2003: $219,000,000,000 ($219 billion)
+        2002: $195,000,000,000 ($195 billion)
+        2001: $172,000,000,000 ($172 billion)
 
-  global_pharmaceutical_sales_from_2017_to_2019_by_region: #(in billion U.S. dollars)
-    - region: All #World Total
-      sales:
-        - year: 2019
-          sales: $1,033,000,000,000 ($1 trillion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+    pharmaceutical_market_worldwide_revenue_2000_to_2019:
+      - year: 2019
+        industry: $1,250,400,000,000 ($1.3 trillion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2018
-          pharmaceutical_sales:
-            - sales: $975,000,000,000 ($975 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2018
+        industry: $1,204,800,000,000 ($1.2 trillion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $998,223,000,000 ($998.2 billion)
-              source: "https://www.efpia.eu/media/412931/the-pharmaceutical-industry-in-figures-2019.pdf" #Estimated at ex-factory prices
+      - year: 2017
+        industry: $1,135,100,000,000 ($1.1 trillion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2017
-          pharmaceutical_sales:
-            - sales: $930,000,000,000 ($930 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2016
+        industry: $1,115,700,000,000 ($1.1 trillion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $996,000,000,000 ($996 billion) #They also took the data from statista  url: https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/
-              source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.8b00320#:~:text=1%E2%88%925%20For%20the%20United,discounts%20and%20rebates%20are%20applied."
+      - year: 2015
+        industry: $1,073,100,000,000 ($1.1 trillion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $934,800,000,000 ($934.8 billion)
-              source: "https://blog.marketresearch.com/the-growing-pharmaceuticals-market-expert-forecasts-and-analysis"
+      - year: 2014
+        industry: $1,063,600,000,000 ($1.1 trillion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2016
-          pharmaceutical_sales:
-            - sales: $967,000,000,000 ($967 billion)
-              source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.7b00253" #estimate
+      - year: 2013
+        industry: $993,800,000,000 ($993.8 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $968,000,000,000 ($968 billion) #They also took the data from statista  url: https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/
-              source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.8b00320#:~:text=1%E2%88%925%20For%20the%20United,discounts%20and%20rebates%20are%20applied."
+      - year: 2012
+        industry: $964,400,000,000 ($964.4 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2015
-          sales: $904,000,000,000 ($904 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+      - year: 2011
+        industry: $963,200,000,000 ($963.2 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2014
-          sales: $826,000,000,000 ($826 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+      - year: 2010
+        industry_size:
+          - industry: $888,200,000,000 ($888.2 billion)
+            source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2013
-          sales: $759,000,000,000 ($759 billion)
-          ource: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+          - industry: $850,000,000,000 ($850 billion)
+            source: "https://www.marketresearch.com/product/sample-6504528.pdf"
 
-    - region: United States
-      sales:
-        - year: 2019
-          pharmaceutical_sales:
-            - sales: $491,000,000,000 ($491 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2009
+        industry_size:
+          - industry: $830,600,000,000 ($830.6 billion)
+            source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $501,200,000,000 ($501.2 billion) #Notes: Prices are reported at the ex-manufacturer level (price when sold from manufacturer to wholesaler or direct to pharmacies).
-              source: "https://www.iqvia.com/-/media/iqvia/pdfs/canada/2019-trends/top10worldwidesales_en_19.pdf?la=en&hash=5B6D9922E053B42D9F2A1FD7A1883A87"
+          - industry: $808,000,000,000 ($808 billion)
+            source: "https://www.marketresearch.com/product/sample-6504528.pdf"
 
-        - year: 2018
-          pharmaceutical_sales:
-            - sales: $467,000,000,000  ($467 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2008
+        industry_size:
+          - industry: $799,000,000,000 ($799 billion)
+            source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $475,800,000,000 ($475.8 billion) #Notes: Prices are reported at the ex-manufacturer level (price when sold from manufacturer to wholesaler or direct to pharmacies).
-              source: "https://www.iqvia.com/-/media/iqvia/pdfs/canada/2018-trends/top10worldwidesales_en_18.pdf?la=en&hash=4F53F349B98F3D8D8477A791F03B93EC"
+          - industry: $781,000,000,000 ($781 billion)
+            source: "https://www.marketresearch.com/product/sample-6504528.pdf"
 
-        - year: 2017
-          pharmaceutical_sales:
-            - sales: $440,000,000,000 ($440 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2007
+        industry_size:
+          - industry: $726,400,000,000 ($726.4 billion)
+            source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-            - sales: $453,000,000,000 ($453 billion) #For the United States, the $453 billion in 2017 sales is reduced to ∼$338.1 billion after all discounts and rebates are applied.
-              source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
+          - industry: $717,000,000,000 ($717 billion)
+            source: "https://www.marketresearch.com/product/sample-6504528.pdf"
 
-        - year: 2016
-          sales: $446,000,000,000 ($446 billion)
-          source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.7b00253" #estimate
+      - year: 2006
+        industry: $648,700,000,000 ($648.7 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2015
-          sales: $413,000,000,000 ($413 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+      - year: 2005
+        industry: $601,200,000,000 ($601.2 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2014
-          sales: $369,000,000,000 ($369 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+      - year: 2004
+        industry: $559,900,000,000 ($559.9.4 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2013
-          sales: $328,000,000,000 ($328 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+      - year: 2003
+        industry: $498,000,000,000 ($498 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-    - region: Emerging Markets #China, Russia, Brazil and India
-      sales:
-        - year: 2019
-          sales: $232,000,000,000 ($232 billion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2002
+        industry: $427,600,000,000 ($427 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2018
-          sales: $211,000,000,000 ($211 billion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2001
+        industry: $390,200,000,000 ($390.2 billion)
+        source: "https://www.statista.com/statistics/263102/pharmaceutical-market-worldwide-revenue-since-2001/#:~:text=The%20global%20pharmaceutical%20market%20has,just%20390%20billion%20U.S.%20dollars."
 
-        - year: 2017
-          pharmaceutical_sales:
-            - sales: $198,000,000,000 ($198 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+      - year: 2000
+        industry: $365,000,000,000 ($365 billion)
+        source: "https://www.marketresearch.com/product/sample-6504528.pdf"
 
-            - sales: $216,000,000,000 ($216 billion)
-              source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
+    global_pharmaceutical_sales_from_2017_to_2019_by_region: #(in billion U.S. dollars)
+      - region: All #World Total
+        sales:
+          - year: 2019
+            sales: $1,033,000,000,000 ($1 trillion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-        - year: 2016
-          sales: $203,000,000,000 ($203 billion)
-          source: "https://www.statista.com/statistics/266547/total-value-of-world-pharmaceutical-market-by-submarket-since-2006/"
+          - year: 2018
+            pharmaceutical_sales:
+              - sales: $975,000,000,000 ($975 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-        - year: 2015
-          sales: $198,000,000,000 ($198 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+              - sales: $998,223,000,000 ($998.2 billion)
+                source: "https://www.efpia.eu/media/412931/the-pharmaceutical-industry-in-figures-2019.pdf" #Estimated at ex-factory prices
 
-        - year: 2014
-          sales: $179,000,000,000 ($179 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+          - year: 2017
+            pharmaceutical_sales:
+              - sales: $930,000,000,000 ($930 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-        - year: 2013
-          sales: $160,000,000,000 ($160 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+              - sales: $996,000,000,000 ($996 billion) #They also took the data from statista  url: https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/
+                source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.8b00320#:~:text=1%E2%88%925%20For%20the%20United,discounts%20and%20rebates%20are%20applied."
 
-    - region: Europe
-      data:
-        - year: 2019
-          sales: $195,000,000,000 ($195 billion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+              - sales: $934,800,000,000 ($934.8 billion)
+                source: "https://blog.marketresearch.com/the-growing-pharmaceuticals-market-expert-forecasts-and-analysis"
 
-        - year: 2018
-          sales: $185,000,000,000 ($185 billion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+          - year: 2016
+            pharmaceutical_sales:
+              - sales: $967,000,000,000 ($967 billion)
+                source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.7b00253" #estimate
 
-        - year: 2017
-          pharmaceutical_sales:
-            - sales: $177,000,000,000 ($177 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+              - sales: $968,000,000,000 ($968 billion) #They also took the data from statista  url: https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/
+                source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.8b00320#:~:text=1%E2%88%925%20For%20the%20United,discounts%20and%20rebates%20are%20applied."
 
-            - sales: $214,000,000,000 ($214 billion)
-              source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
+          - year: 2015
+            sales: $904,000,000,000 ($904 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-        - year: 2016
-          sales: $203,000,000,000 ($203 billion)
-          source: "https://www.statista.com/statistics/266547/total-value-of-world-pharmaceutical-market-by-submarket-since-2006/"
+          - year: 2014
+            sales: $826,000,000,000 ($826 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-        - year: 2015
-          sales: $194,000,000,000 ($194 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+          - year: 2013
+            sales: $759,000,000,000 ($759 billion)
+            ource: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-        - year: 2014
-          sales: $182,000,000,000 ($182 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+      - region: United States
+        sales:
+          - year: 2019
+            pharmaceutical_sales:
+              - sales: $491,000,000,000 ($491 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-        - year: 2013
-          sales: $177,000,000,000 ($177 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+              - sales: $501,200,000,000 ($501.2 billion) #Notes: Prices are reported at the ex-manufacturer level (price when sold from manufacturer to wholesaler or direct to pharmacies).
+                source: "https://www.iqvia.com/-/media/iqvia/pdfs/canada/2019-trends/top10worldwidesales_en_19.pdf?la=en&hash=5B6D9922E053B42D9F2A1FD7A1883A87"
 
-    - region: Established Rest of World
-      data:
-        - year: 2019
-          sales: $115,000,000,000 ($155 billion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+          - year: 2018
+            pharmaceutical_sales:
+              - sales: $467,000,000,000  ($467 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-        - year: 2018
-          sales: $112,000,000,000 ($112 billion)
-          source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+              - sales: $475,800,000,000 ($475.8 billion) #Notes: Prices are reported at the ex-manufacturer level (price when sold from manufacturer to wholesaler or direct to pharmacies).
+                source: "https://www.iqvia.com/-/media/iqvia/pdfs/canada/2018-trends/top10worldwidesales_en_18.pdf?la=en&hash=4F53F349B98F3D8D8477A791F03B93EC"
 
-        - year: 2017
-          pharmaceutical_sales:
-            - sales: $112,000,000,000 ($112 billion)
-              source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+          - year: 2017
+            pharmaceutical_sales:
+              - sales: $440,000,000,000 ($440 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-            - sales: $112,000,000,000 ($112 billion)
-              source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
+              - sales: $453,000,000,000 ($453 billion) #For the United States, the $453 billion in 2017 sales is reduced to ∼$338.1 billion after all discounts and rebates are applied.
+                source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
 
-        - year: 2016
-          sales: $116,000,000,000 ($116 billion)
-          source: "https://www.statista.com/statistics/266547/total-value-of-world-pharmaceutical-market-by-submarket-since-2006/"
+          - year: 2016
+            sales: $446,000,000,000 ($446 billion)
+            source: "https://pubs.acs.org/doi/pdfplus/10.1021/acschemneuro.7b00253" #estimate
 
-        - year: 2015
-          sales: $100,000,000,000 ($100 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+          - year: 2015
+            sales: $413,000,000,000 ($413 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-        - year: 2014
-          sales: $96,000,000,000 ($96 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+          - year: 2014
+            sales: $369,000,000,000 ($369 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-        - year: 2013
-          sales: $94,000,000,000 ($94 billion)
-          source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+          - year: 2013
+            sales: $328,000,000,000 ($328 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-  forecasted_size_of_industry: #USA
-    source: "https://www.globenewswire.com/news-release/2020/01/17/1972088/0/en/U-S-Pharmaceuticals-Industry-Analysis-and-Trends-2023.html"
-    industry_size:
-      2023: $685,450,000,000 ($685.5 billion)
+      - region: Emerging Markets #China, Russia, Brazil and India
+        sales:
+          - year: 2019
+            sales: $232,000,000,000 ($232 billion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-  projected_pharmaceutical_sales_in_north_america:
-    source: "https://www.statista.com/statistics/299694/world-pharmaceutical-sales-by-region-forecast/"
-    industry_size:
-      2023: $628,000,000,000 ($628 billion)
+          - year: 2018
+            sales: $211,000,000,000 ($211 billion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-  revenue_forecast_for_the_global_pharmaceutical_market:
-    source: "https://www.statista.com/statistics/817562/revenue-forecast-for-global-pharma-market/"
-    industry_size:
-      2022: $1,470,000,000,000 ($1.5 trillion)
+          - year: 2017
+            pharmaceutical_sales:
+              - sales: $198,000,000,000 ($198 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-  price_of_same_medicine_over_recent_years: #All_prices_are_of_january
-    source: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2734804"
-    prices:
-      Aranesp: "2017: $762, 2016: $724, 2015: $675, 2014: $652, 2013: $630, 2012: $592"
-      Androgel: "2017: $521, 2016: $479, 2015: $439, 2014: $386, 2013: $352, 2012: $321"
+              - sales: $216,000,000,000 ($216 billion)
+                source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
 
-  pharmaceutical_settlements_in_the_united_states:
-    source: "https://en.wikipedia.org/wiki/List_of_largest_pharmaceutical_settlements"
-    companies_and_amount(yearly):
-      2013: "Johnson & Johnson: $2,200,000,000 ($2.2 billion)"
-      2012: "GlaxoSmithKline: $3,000,000,000 ($3 billion), Abbott Laboratories: $1,500,000,000 ($1.5 billion), Amgen: $762,000,000 ($762 million)"
-      2010: "GlaxoSmithKline: $750,000,000 ($750 million), Allergan: $600,000,000 ($600 million), AstraZeneca: $520,000,000 ($520 million), Novartis: $423,000,000 ($423 million)"
-      2009: "Pfizer: $2,300,000,000 ($2.3 billion), Eli Lilly: $1,400,000,000 ($1.4 billion)"
-      2008: "Merck: $650,000,000 ($650 million), Cephalon: $425,000,000 ($425 million)"
-      2007: "Purdue Pharma: $601,000,000 ($601 million), Bristol-Myers Squibb: $515,000,000 ($515 million)"
-      2006: "Mylan: $465,000,000 ($465 million), Schering-Plough: $435,000,000 ($435 million)"
-      2005: "Serono: $704,000,000 ($704 million)"
-      2004: "Pfizer: $430,000,000 ($430 million), Schering-Plough: $345,000,000 ($345 million)"
-      2003: "AstraZeneca: $355,000,000 ($355 million)"
-      2002: "Schering-Plough: $500,000,000 ($500 million)"
-      2001: "TAP Pharmaceutical Products: $875,000,000 ($875 million)"
+          - year: 2016
+            sales: $203,000,000,000 ($203 billion)
+            source: "https://www.statista.com/statistics/266547/total-value-of-world-pharmaceutical-market-by-submarket-since-2006/"
 
-  pharmaceuticals_/_health_products_(lobbying,_2020):
-    source: "https://www.opensecrets.org/industries/lobbying.php?cycle=2020&ind=H04"
-    amount:
-      2020: $232,700,000 ($232 million)
-      2019: $298,780,000 ($298.8 million)
-      2018: $284,060,000 ($284.1 million)
-      2017: $277,880,000 ($277.9 million)
-      2016: $247,620,000 ($247.6 million)
-      2015: $240,610,000 ($240.6 million)
-      2014: $229,310,000 ($229.3 million)
-      2013: $227,280,000 ($227.3 million)
-      2012: $234,540,000 ($234.5 million)
-      2011: $239,450,000 ($239.5 million)
-      2010: $244,290,000 ($244.3 million)
-      2009: $270,500,000 ($270.5 million)
-      2008: $237,730,000 ($237.7 million)
-      2007: $226,730,000 ($226.7 million)
-      2006: $185,780,000 ($185.8 million)
-      2005: $167,010,000 ($167 million)
-      2004: $145,610,000 ($145.6 million)
-      2003: $129,780,000 ($129.8 million)
-      2002: $120,330,000 ($120.3 million)
-      2001: $100,350,000 ($100.4 million)
-      2000: $100,290,000 ($100.3 million)
-      1999: $84,830,000 ($84.8 million)
-      1998: $69,100,000 ($69.1.4 million)
+          - year: 2015
+            sales: $198,000,000,000 ($198 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-  some_lobbying_clients_2020,amount_upto_one_million_and_above:
-    source: "https://www.opensecrets.org/industries/lobbying.php?cycle=2020&in4d=H0"
-    company_and_amount:
-      pharmaceutical_research_&_manufacturers_of_america: $20,707,000 ($20.7 million)
-      biotechnology_innovation_organization: $9,380,000 ($9.4 million)
-      amgen_inc: $8,590,000 ($8.6 million)
-      roche_holdings: $8,510,000 ($8.5 million)
-      pfizer_inc: $8,490,000 ($8.5 million)
-      abbVie_inc: $6,420,000 ($6.4 million)
-      merck_&_co: $5,770,000 ($5.8 million)
-      gilead_sciences: $5,520,000 ($5.5 million)
-      novartis_AG: $5,440,000 ($5.4 million)
-      bayer_AG: $5,270,000 ($5.3 million)
-      pharmaceutical_care_management_assn: $4,919,614 ($4.9 million)
-      eli_lilly_&_co: $4,770,000 ($4.8 million)
-      bristol_myers_squibb: $4,300,000 ($4.3 million)
-      medtronic_inc: $4,232,000 ($4.2 million)
-      johnson_&_johnson: $4,120,000 ($4.1 million)
-      horizon_therapeutics: $4,000,000 ($4 million)
-      sanofi: $3,910,000 ($3.9 million)
-      takeda_pharmaceutical_co: $3,430,000 ($3.4 million)
-      glaxosmithkline: $3,020,000 ($3 million)
-      biogen: $3,000,000 ($3 million)
-      astrazeneca_plc: $2,790,000 ($2.8 million)
-      association_for_accessible_medicines: $2,730,000 ($2.7 million)
-      abbott_laboratories: $2,730,000 ($2.7 million)
-      advamed: $2,690,000 ($2.7 million)
-      alkermes_plc: $2,560,000 ($2.6 million)
-      ch_boehringer_sohn: $2,375,000 ($2.4 million)
-      otsuka_pharmaceutical: $2,170,000 ($2.2 million)
-      cardinal_health: $1,850,000 ($1.9 million)
-      mylan_inc: $1,700,000 ($1.7 million)
-      novo_nordisk: $1,590,000 ($1.6 million)
-      amerisourcebergen_corp: $1,510,000 ($1.5 million)
-      teva_pharmaceutical_industries: $1,510,000 ($1.5 million)
-      philips: $1,460,000 ($1.5 million)
-      baxter_international: $1,420,000 ($1.4 million)
-      merck_kgaa: $1,410,000 ($1.4 million)
-      mallinckrodt_pharmaceuticals: $1,370,000 ($1.3 million)
-      neurocrine_biosciences: $1,360,000 ($1.4 million)
-      astellas_pharma: $1,330,000 ($1.3 million)
-      akebia_therapeutics: $1,300,000 ($1.3 million)
-      smith_&_nephew: $1,300,000 ($1.3 million)
-      regeneron_pharmaceuticals: $1,170,000 ($1.2 million)
-      vertex_pharmaceuticals: $1,150,000 ($1.2 million)
-      omeros_corp: $1,147,500 ($1.1 million)
-      boston_scientific_corp: $1,140,000 ($1.1 million)
-      csl_ltd: $1,140,000 ($1.1 million)
-      becton_dickinson_&_co: $1,045,000 ($1 million)
+          - year: 2014
+            sales: $179,000,000,000 ($179 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-  #Pharmaceutical and medical device companies are required by law to release details of their payments to a variety of doctors
-  #and U.S. teaching hospitals for promotional talks, research and consulting, among other categories. (excluding research and ownership interests)
-  payments_in_2018:
-    source: "https://projects.propublica.org/docdollars/"
-    top_20_companies:
-      genentech_inc: $478,000,000 ($478 million)
-      zimmer_biomet_holdings_inc: $109,000,000 ($109 million)
-      stryker_corporation: $91,900,000 ($91 million)
-      boston_scientific_corporation: $82,200,000 ($82.2 million)
-      allergan_inc: $73,000,000 ($73 million)
-      arthrex_inc: $70,300,000 ($70.3 million)
-      medtronic_USA_inc: $66,000,000 ($66 million)
-      depuy_synthes_products_llc: $61,700,000 ($61.7 million)
-      pfizer_inc: $48,900,000 ($48.9 million)
-      astrazeneca_pharmaceuticals_lp: $45,000,000 ($45 million)
-      abbvie_inc: $42,900,000 ($42.9 million)
-      amgen_inc: $41,400,000 ($41.4 million)
-      intutitive_surgical_inc: $39,800,000 ($39.8 million)
-      medical_device_business_services_inc: $39,100,000 ($39.1 million)
-      gilead_sciences_inc: $38,600,000 ($38.6 million)
-      medtronic_vascular_inc: $37,900,000 ($37.9 million)
-      merck_sharp_&_dohme_corporation: $37,400,000 ($37.4 million)
-      genzyme_corporation: $35,200,000 ($35.2 million)
-      abboott_laboratories: $33,800,000 ($33.8 million)
-      novartis_pharmaceuticals_corporation: $32,100,000 ($32.1 million)
+          - year: 2013
+            sales: $160,000,000,000 ($160 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
 
-  highest-earning_doctors:
-    kevin_foley: "specialty: Neurological Surgery, location: MEMPHIS, TN, payment: $29,000,000 ($29 million)"
-    stephen_burkhart: "specialty: Orthopaedic Surgery, location: SAN ANTONIO, TX, payment: $25,900,000 ($25.9 million)"
-    tsontcho_ianchulev: "specialty: Ophthalmology, location:  SAN MATEO, CA, payment: $20,700,000 ($20.7 million)"
-    william_binder: "specialty: Plastic Surgery Within the Head and Neck, location: BEVERLY HILLS, CA, payment: $16,700,000 ($16.7 million)"
-    william_noyes: "specialty: Radiation Oncology, location: GRAND FORKS, ND, payment: $15,800,000 ($15.8 million)"
-    gail_lebovic: "specialty: Plastic and Reconstructive Surgery, location: DALLAS, TX, payment: $10,500,000 ($10.5 million)"
-    leo_hopkin: "specialty: Neurological Surgery, location: BUFFALO, NY, payment: $9,450,000 ($9.5 million)"
-    neal_elattrache: "specialty: Sports Medicine, location: LOS ANGELES, CA, payment: $7,810,000 ($7.8 million)"
-    charles_decook: "specialty: Family Medicine, location: CUMMING, GA, payment: $7,460,000 ($7.5 million)"
-    gary_carr: "specialty: Dentist, Endodontics, location: SAN DIEGO, CA, payment: $6,250,000 ($6.3 million)"
+      - region: Europe
+        data:
+          - year: 2019
+            sales: $195,000,000,000 ($195 billion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
 
-  payments_as_per_the_state:
-    california: $306,000,000 ($306 million)
-    texas: $188,000,000 ($188 million)
-    new_york: $179,000,000 ($179 million)
-    florida: $150,000,000 ($150 million)
-    pennsylvania: $97,600,000 ($97 million)
-    ohio: $86,100,000 ($86.1 million)
-    illinois: $80,900,000 ($80.9 million)
-    north_carolina: $74,100,000 ($74.1 million)
-    tennessee: $69,000,000 ($69 million)
-    massachusetts: $68,500,000 ($68.5 million)
-    georgia: $60,400,000 ($60.4 million)
-    michigan: $58,000,000 ($58 million)
-    srizona: $53,900,000 ($53.9 million)
-    colorado: $49,100,000 ($49.1 million)
-    maryland: $48,800,000 ($48.8 million)
-    washington: $48,000,000 ($48 million)
-    missouri: $46,700,000 ($46.7 million)
-    new_jersey: $42,300,000 ($42.3 million)
-    virginia: $42,200,000 ($42.2 million)
-    minnesota: $38,500,000 ($38.5 million)
-    indiana: $32,400,000 ($32.4 million)
-    connecticut: $27,300,000 ($27.3 million)
-    wisconsin: $24,900,000 ($24.9 million)
-    louisiana: $23,900,000 ($23.9 million)
-    kentucky: $23,700,000 ($23.7 million)
-    utah: $23,300,000 ($23.3 million)
-    alabama: $20,400,000 ($20.4 million)
-    south_carolina: $20,300,000 ($20.3 million)
-    north_dakota: $18,600,000 ($18.6 million)
-    nevada: $18,500,000 ($18.5 million)
-    district_of_columbia: $14,500,000 ($14.5 million)
-    oklahoma: $14,300,000 ($14.3 million)
-    oregon: $13,800,000 ($13.8 million)
-    iowa: $11,300,000 ($11.3 million)
-    kansas: $10,600,000 ($10.6 million)
-    mississippi: $9,990,000 ($10 million)
-    puerto_rico: $8,180,000 ($8.2 million)
-    arkansas: $7,280,000 ($7.3 million)
-    nebraska: $6,830,000 ($6.8 million)
-    rhode_island: $6,600,000 ($6.6 million)
-    west_virginia: $6,300,000 ($6.3 million)
-    idaho: $5,450,000 ($5.5 million)
-    new_hampshire: $5,150,000 ($5.2 million)
-    south_dakota: $5,120,000 ($5.1 million)
-    new_mexico: $5,080,000 ($5.1 million)
-    hawaii: $4,290,000 ($4.3 million)
-    delaware: $3,810,000 ($3.8 million)
-    maine: $3,060,000 ($3.1 million)
-    montana: $1,610,000 ($1.6 million)
-    vermont: $1,450,000 ($1.5 million)
-    alaska: $1,080,000 ($1.1 million)
-    wyoming: $1,020,000 ($1 million)
-    palau: $520,000
-    armed_forces_pacific: $57,415
-    armed_forces_europe: $33,097
-    guam: $13,425
-    virgin_islands: $10,159
-    armed_forces_americas: $1,215
-    northern_mariana_islands: $157
-    micronesia: $60
+          - year: 2018
+            sales: $185,000,000,000 ($185 billion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+
+          - year: 2017
+            pharmaceutical_sales:
+              - sales: $177,000,000,000 ($177 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+
+              - sales: $214,000,000,000 ($214 billion)
+                source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
+
+          - year: 2016
+            sales: $203,000,000,000 ($203 billion)
+            source: "https://www.statista.com/statistics/266547/total-value-of-world-pharmaceutical-market-by-submarket-since-2006/"
+
+          - year: 2015
+            sales: $194,000,000,000 ($194 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+
+          - year: 2014
+            sales: $182,000,000,000 ($182 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+
+          - year: 2013
+            sales: $177,000,000,000 ($177 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+
+      - region: Established Rest of World
+        data:
+          - year: 2019
+            sales: $115,000,000,000 ($155 billion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+
+          - year: 2018
+            sales: $112,000,000,000 ($112 billion)
+            source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+
+          - year: 2017
+            pharmaceutical_sales:
+              - sales: $112,000,000,000 ($112 billion)
+                source: "https://www.statista.com/statistics/272181/world-pharmaceutical-sales-by-region/" #Survey time period 2017 to Q3 2018 so 2019 data may be estimated
+
+              - sales: $112,000,000,000 ($112 billion)
+                source: "https://www.pharmaceuticalprocessingworld.com/north-america-projected-to-generate-635-billion-in-pharmaceutical-sales-by-2022/"
+
+          - year: 2016
+            sales: $116,000,000,000 ($116 billion)
+            source: "https://www.statista.com/statistics/266547/total-value-of-world-pharmaceutical-market-by-submarket-since-2006/"
+
+          - year: 2015
+            sales: $100,000,000,000 ($100 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+
+          - year: 2014
+            sales: $96,000,000,000 ($96 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+
+          - year: 2013
+            sales: $94,000,000,000 ($94 billion)
+            source: "https://www.keionline.org/23059" #This data is also from statista but the link given on this site redirects to 2017 to 2019 data. Some data may be estimated
+
+    forecasted_size_of_industry: #USA
+      source: "https://www.globenewswire.com/news-release/2020/01/17/1972088/0/en/U-S-Pharmaceuticals-Industry-Analysis-and-Trends-2023.html"
+      industry_size:
+        2023: $685,450,000,000 ($685.5 billion)
+
+    projected_pharmaceutical_sales_in_north_america:
+      source: "https://www.statista.com/statistics/299694/world-pharmaceutical-sales-by-region-forecast/"
+      industry_size:
+        2023: $628,000,000,000 ($628 billion)
+
+    revenue_forecast_for_the_global_pharmaceutical_market:
+      source: "https://www.statista.com/statistics/817562/revenue-forecast-for-global-pharma-market/"
+      industry_size:
+        2022: $1,470,000,000,000 ($1.5 trillion)
+
+    price_of_same_medicine_over_recent_years: #All_prices_are_of_january
+      source: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2734804"
+      prices:
+        Aranesp: "2017: $762, 2016: $724, 2015: $675, 2014: $652, 2013: $630, 2012: $592"
+        Androgel: "2017: $521, 2016: $479, 2015: $439, 2014: $386, 2013: $352, 2012: $321"
+
+    pharmaceutical_settlements_in_the_united_states:
+      source: "https://en.wikipedia.org/wiki/List_of_largest_pharmaceutical_settlements"
+      companies_and_amount(yearly):
+        2013: "Johnson & Johnson: $2,200,000,000 ($2.2 billion)"
+        2012: "GlaxoSmithKline: $3,000,000,000 ($3 billion), Abbott Laboratories: $1,500,000,000 ($1.5 billion), Amgen: $762,000,000 ($762 million)"
+        2010: "GlaxoSmithKline: $750,000,000 ($750 million), Allergan: $600,000,000 ($600 million), AstraZeneca: $520,000,000 ($520 million), Novartis: $423,000,000 ($423 million)"
+        2009: "Pfizer: $2,300,000,000 ($2.3 billion), Eli Lilly: $1,400,000,000 ($1.4 billion)"
+        2008: "Merck: $650,000,000 ($650 million), Cephalon: $425,000,000 ($425 million)"
+        2007: "Purdue Pharma: $601,000,000 ($601 million), Bristol-Myers Squibb: $515,000,000 ($515 million)"
+        2006: "Mylan: $465,000,000 ($465 million), Schering-Plough: $435,000,000 ($435 million)"
+        2005: "Serono: $704,000,000 ($704 million)"
+        2004: "Pfizer: $430,000,000 ($430 million), Schering-Plough: $345,000,000 ($345 million)"
+        2003: "AstraZeneca: $355,000,000 ($355 million)"
+        2002: "Schering-Plough: $500,000,000 ($500 million)"
+        2001: "TAP Pharmaceutical Products: $875,000,000 ($875 million)"
+
+    pharmaceuticals_/_health_products_(lobbying,_2020):
+      source: "https://www.opensecrets.org/industries/lobbying.php?cycle=2020&ind=H04"
+      amount:
+        2020: $232,700,000 ($232 million)
+        2019: $298,780,000 ($298.8 million)
+        2018: $284,060,000 ($284.1 million)
+        2017: $277,880,000 ($277.9 million)
+        2016: $247,620,000 ($247.6 million)
+        2015: $240,610,000 ($240.6 million)
+        2014: $229,310,000 ($229.3 million)
+        2013: $227,280,000 ($227.3 million)
+        2012: $234,540,000 ($234.5 million)
+        2011: $239,450,000 ($239.5 million)
+        2010: $244,290,000 ($244.3 million)
+        2009: $270,500,000 ($270.5 million)
+        2008: $237,730,000 ($237.7 million)
+        2007: $226,730,000 ($226.7 million)
+        2006: $185,780,000 ($185.8 million)
+        2005: $167,010,000 ($167 million)
+        2004: $145,610,000 ($145.6 million)
+        2003: $129,780,000 ($129.8 million)
+        2002: $120,330,000 ($120.3 million)
+        2001: $100,350,000 ($100.4 million)
+        2000: $100,290,000 ($100.3 million)
+        1999: $84,830,000 ($84.8 million)
+        1998: $69,100,000 ($69.1.4 million)
+
+    some_lobbying_clients_2020,amount_upto_one_million_and_above:
+      source: "https://www.opensecrets.org/industries/lobbying.php?cycle=2020&in4d=H0"
+      company_and_amount:
+        pharmaceutical_research_&_manufacturers_of_america: $20,707,000 ($20.7 million)
+        biotechnology_innovation_organization: $9,380,000 ($9.4 million)
+        amgen_inc: $8,590,000 ($8.6 million)
+        roche_holdings: $8,510,000 ($8.5 million)
+        pfizer_inc: $8,490,000 ($8.5 million)
+        abbVie_inc: $6,420,000 ($6.4 million)
+        merck_&_co: $5,770,000 ($5.8 million)
+        gilead_sciences: $5,520,000 ($5.5 million)
+        novartis_AG: $5,440,000 ($5.4 million)
+        bayer_AG: $5,270,000 ($5.3 million)
+        pharmaceutical_care_management_assn: $4,919,614 ($4.9 million)
+        eli_lilly_&_co: $4,770,000 ($4.8 million)
+        bristol_myers_squibb: $4,300,000 ($4.3 million)
+        medtronic_inc: $4,232,000 ($4.2 million)
+        johnson_&_johnson: $4,120,000 ($4.1 million)
+        horizon_therapeutics: $4,000,000 ($4 million)
+        sanofi: $3,910,000 ($3.9 million)
+        takeda_pharmaceutical_co: $3,430,000 ($3.4 million)
+        glaxosmithkline: $3,020,000 ($3 million)
+        biogen: $3,000,000 ($3 million)
+        astrazeneca_plc: $2,790,000 ($2.8 million)
+        association_for_accessible_medicines: $2,730,000 ($2.7 million)
+        abbott_laboratories: $2,730,000 ($2.7 million)
+        advamed: $2,690,000 ($2.7 million)
+        alkermes_plc: $2,560,000 ($2.6 million)
+        ch_boehringer_sohn: $2,375,000 ($2.4 million)
+        otsuka_pharmaceutical: $2,170,000 ($2.2 million)
+        cardinal_health: $1,850,000 ($1.9 million)
+        mylan_inc: $1,700,000 ($1.7 million)
+        novo_nordisk: $1,590,000 ($1.6 million)
+        amerisourcebergen_corp: $1,510,000 ($1.5 million)
+        teva_pharmaceutical_industries: $1,510,000 ($1.5 million)
+        philips: $1,460,000 ($1.5 million)
+        baxter_international: $1,420,000 ($1.4 million)
+        merck_kgaa: $1,410,000 ($1.4 million)
+        mallinckrodt_pharmaceuticals: $1,370,000 ($1.3 million)
+        neurocrine_biosciences: $1,360,000 ($1.4 million)
+        astellas_pharma: $1,330,000 ($1.3 million)
+        akebia_therapeutics: $1,300,000 ($1.3 million)
+        smith_&_nephew: $1,300,000 ($1.3 million)
+        regeneron_pharmaceuticals: $1,170,000 ($1.2 million)
+        vertex_pharmaceuticals: $1,150,000 ($1.2 million)
+        omeros_corp: $1,147,500 ($1.1 million)
+        boston_scientific_corp: $1,140,000 ($1.1 million)
+        csl_ltd: $1,140,000 ($1.1 million)
+        becton_dickinson_&_co: $1,045,000 ($1 million)
+
+    #Pharmaceutical and medical device companies are required by law to release details of their payments to a variety of doctors
+    #and U.S. teaching hospitals for promotional talks, research and consulting, among other categories. (excluding research and ownership interests)
+    payments_in_2018:
+      source: "https://projects.propublica.org/docdollars/"
+      top_20_companies:
+        genentech_inc: $478,000,000 ($478 million)
+        zimmer_biomet_holdings_inc: $109,000,000 ($109 million)
+        stryker_corporation: $91,900,000 ($91 million)
+        boston_scientific_corporation: $82,200,000 ($82.2 million)
+        allergan_inc: $73,000,000 ($73 million)
+        arthrex_inc: $70,300,000 ($70.3 million)
+        medtronic_USA_inc: $66,000,000 ($66 million)
+        depuy_synthes_products_llc: $61,700,000 ($61.7 million)
+        pfizer_inc: $48,900,000 ($48.9 million)
+        astrazeneca_pharmaceuticals_lp: $45,000,000 ($45 million)
+        abbvie_inc: $42,900,000 ($42.9 million)
+        amgen_inc: $41,400,000 ($41.4 million)
+        intutitive_surgical_inc: $39,800,000 ($39.8 million)
+        medical_device_business_services_inc: $39,100,000 ($39.1 million)
+        gilead_sciences_inc: $38,600,000 ($38.6 million)
+        medtronic_vascular_inc: $37,900,000 ($37.9 million)
+        merck_sharp_&_dohme_corporation: $37,400,000 ($37.4 million)
+        genzyme_corporation: $35,200,000 ($35.2 million)
+        abboott_laboratories: $33,800,000 ($33.8 million)
+        novartis_pharmaceuticals_corporation: $32,100,000 ($32.1 million)
+
+    highest-earning_doctors:
+      kevin_foley: "specialty: Neurological Surgery, location: MEMPHIS, TN, payment: $29,000,000 ($29 million)"
+      stephen_burkhart: "specialty: Orthopaedic Surgery, location: SAN ANTONIO, TX, payment: $25,900,000 ($25.9 million)"
+      tsontcho_ianchulev: "specialty: Ophthalmology, location:  SAN MATEO, CA, payment: $20,700,000 ($20.7 million)"
+      william_binder: "specialty: Plastic Surgery Within the Head and Neck, location: BEVERLY HILLS, CA, payment: $16,700,000 ($16.7 million)"
+      william_noyes: "specialty: Radiation Oncology, location: GRAND FORKS, ND, payment: $15,800,000 ($15.8 million)"
+      gail_lebovic: "specialty: Plastic and Reconstructive Surgery, location: DALLAS, TX, payment: $10,500,000 ($10.5 million)"
+      leo_hopkin: "specialty: Neurological Surgery, location: BUFFALO, NY, payment: $9,450,000 ($9.5 million)"
+      neal_elattrache: "specialty: Sports Medicine, location: LOS ANGELES, CA, payment: $7,810,000 ($7.8 million)"
+      charles_decook: "specialty: Family Medicine, location: CUMMING, GA, payment: $7,460,000 ($7.5 million)"
+      gary_carr: "specialty: Dentist, Endodontics, location: SAN DIEGO, CA, payment: $6,250,000 ($6.3 million)"
+
+    payments_as_per_the_state:
+      california: $306,000,000 ($306 million)
+      texas: $188,000,000 ($188 million)
+      new_york: $179,000,000 ($179 million)
+      florida: $150,000,000 ($150 million)
+      pennsylvania: $97,600,000 ($97 million)
+      ohio: $86,100,000 ($86.1 million)
+      illinois: $80,900,000 ($80.9 million)
+      north_carolina: $74,100,000 ($74.1 million)
+      tennessee: $69,000,000 ($69 million)
+      massachusetts: $68,500,000 ($68.5 million)
+      georgia: $60,400,000 ($60.4 million)
+      michigan: $58,000,000 ($58 million)
+      srizona: $53,900,000 ($53.9 million)
+      colorado: $49,100,000 ($49.1 million)
+      maryland: $48,800,000 ($48.8 million)
+      washington: $48,000,000 ($48 million)
+      missouri: $46,700,000 ($46.7 million)
+      new_jersey: $42,300,000 ($42.3 million)
+      virginia: $42,200,000 ($42.2 million)
+      minnesota: $38,500,000 ($38.5 million)
+      indiana: $32,400,000 ($32.4 million)
+      connecticut: $27,300,000 ($27.3 million)
+      wisconsin: $24,900,000 ($24.9 million)
+      louisiana: $23,900,000 ($23.9 million)
+      kentucky: $23,700,000 ($23.7 million)
+      utah: $23,300,000 ($23.3 million)
+      alabama: $20,400,000 ($20.4 million)
+      south_carolina: $20,300,000 ($20.3 million)
+      north_dakota: $18,600,000 ($18.6 million)
+      nevada: $18,500,000 ($18.5 million)
+      district_of_columbia: $14,500,000 ($14.5 million)
+      oklahoma: $14,300,000 ($14.3 million)
+      oregon: $13,800,000 ($13.8 million)
+      iowa: $11,300,000 ($11.3 million)
+      kansas: $10,600,000 ($10.6 million)
+      mississippi: $9,990,000 ($10 million)
+      puerto_rico: $8,180,000 ($8.2 million)
+      arkansas: $7,280,000 ($7.3 million)
+      nebraska: $6,830,000 ($6.8 million)
+      rhode_island: $6,600,000 ($6.6 million)
+      west_virginia: $6,300,000 ($6.3 million)
+      idaho: $5,450,000 ($5.5 million)
+      new_hampshire: $5,150,000 ($5.2 million)
+      south_dakota: $5,120,000 ($5.1 million)
+      new_mexico: $5,080,000 ($5.1 million)
+      hawaii: $4,290,000 ($4.3 million)
+      delaware: $3,810,000 ($3.8 million)
+      maine: $3,060,000 ($3.1 million)
+      montana: $1,610,000 ($1.6 million)
+      vermont: $1,450,000 ($1.5 million)
+      alaska: $1,080,000 ($1.1 million)
+      wyoming: $1,020,000 ($1 million)
+      palau: $520,000
+      armed_forces_pacific: $57,415
+      armed_forces_europe: $33,097
+      guam: $13,425
+      virgin_islands: $10,159
+      armed_forces_americas: $1,215
+      northern_mariana_islands: $157
+      micronesia: $60
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -1242,4 +1242,6 @@ years_covered:
       - from: 1998
       - to: 2020
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"

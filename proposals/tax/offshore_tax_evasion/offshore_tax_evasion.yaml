@@ -106,15 +106,12 @@ reasoning: |
 # {~C~}the problem pospoals author with their reasoning.{~C~}
 reasoning_on_size_of_problem:
   reasoning: |
-    What percentage of the High Frequency Trading industry came from unethical 
-    front running stock trades (if any) or other forms of taking from other market investors
-    in a way that is unethical, or ripping them off in a rigged economy way.
+    What percentage of the High Frequency Trading industry came from unethical front running stock trades (if any) or other forms of taking from other market investors in a way that is unethical, or ripping them off in a rigged economy way.
   percent_of_industry_that_is_unethical: #Enter Percent
   how_summary_is_calculated: |
     # {~C~}This is just an example illustration.  It should be replaced by{~C~}
     # {~C~}the problem pospoals author with their reasoning.{~C~}
-    The Industry size below is multiplied by the percent to calculate the final summary,
-    which is the approximation of the amount that was unethically ripped off.
+    The Industry size below is multiplied by the percent to calculate the final summary, which is the approximation of the amount that was unethically ripped off.
 
 # Here is the reasoning that the Prosposed Problem author makes.
 # {~C~}This is just an example illustration.  It should be replaced by{~C~}
@@ -332,4 +329,6 @@ companies_referred_to_in_Problem:
     - Netflix
     - Microsoft
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+  source: "CREATIVE COMMONS - CC BY 4.0"
+  url: "https://creativecommons.org/licenses/by/4.0/"
