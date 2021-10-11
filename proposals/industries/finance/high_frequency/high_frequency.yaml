@@ -80,19 +80,19 @@ reasoning_on_size_of_problem:
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-  high_frequency_trading_in_the_US:
-    source: https://www.ibisworld.com/industry-statistics/market-size/high-frequency-trading-united-states/
-    market_size:
-      2020: $6369.5 million ($6.4 billion)
-      2019: $5050.7 million ($5.1 billion)
-      2018: $4404.1 million ($4.4 billion)
-      2017: $4391.6 million ($4.4 billion)
-      2016: $5680.4 million ($5.7 billion)
-      2015: $6107.5 million ($6.1 billion)
-      2014: $5619 million ($5.6 billion)
-      2013: $5655.8 million ($5.6 billion)
-      2012: $9338.5 million ($9.3 billion)
-      2011: $22554.5 million ($22.6 billion)
+    high_frequency_trading_in_the_US:
+      source: https://www.ibisworld.com/industry-statistics/market-size/high-frequency-trading-united-states/
+      market_size:
+        2020: $6369.5 million ($6.4 billion)
+        2019: $5050.7 million ($5.1 billion)
+        2018: $4404.1 million ($4.4 billion)
+        2017: $4391.6 million ($4.4 billion)
+        2016: $5680.4 million ($5.7 billion)
+        2015: $6107.5 million ($6.1 billion)
+        2014: $5619 million ($5.6 billion)
+        2013: $5655.8 million ($5.6 billion)
+        2012: $9338.5 million ($9.3 billion)
+        2011: $22554.5 million ($22.6 billion)
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -249,4 +249,6 @@ years_covered:
       - from: 2011
       - to: 2020
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"

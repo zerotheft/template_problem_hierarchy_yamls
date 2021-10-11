@@ -145,11 +145,11 @@ quotes:
       description: |
         High-frequency trading relies on algorithms, and professor Jonathan Macey of the Yale School of Management labels some of them parasitic.
 
-         Macey said while it might be small amounts of money on individual trades, “there [are] so many trades that it adds up into the billions of dollars.”
+        Macey said while it might be small amounts of money on individual trades, “there [are] so many trades that it adds up into the billions of dollars.”
 
-         Katsuyama said HFT technologies are rigging the market in a way that means the system as a whole is “benefiting fewer people.”
+        Katsuyama said HFT technologies are rigging the market in a way that means the system as a whole is “benefiting fewer people.”
 
-         To Katsuyama, the bigger problem isn’t the technology — it’s the way in which it’s being used. Fifty to 60 percent of the market is classified as high-frequency trading, “so the majority of the stock market are now machines [that] really don’t even understand the fundamentals of a company.” The algorithms are built to trade based upon the reactions of other traders, which he said is “a significant problem.”
+        To Katsuyama, the bigger problem isn’t the technology — it’s the way in which it’s being used. Fifty to 60 percent of the market is classified as high-frequency trading, “so the majority of the stock market are now machines [that] really don’t even understand the fundamentals of a company.” The algorithms are built to trade based upon the reactions of other traders, which he said is “a significant problem.”
 
     - quote: 10
       topic: "'The market is rigged' - Michael Lewis"
@@ -225,4 +225,6 @@ years_covered:
       - from: 2011
       - to: 2020
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"

@@ -736,4 +736,6 @@ companies_referred_to_in_problem:
     - Microsoft
     - Amazon
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+  source: "CREATIVE COMMONS - CC BY 4.0"
+  url: "https://creativecommons.org/licenses/by/4.0/"

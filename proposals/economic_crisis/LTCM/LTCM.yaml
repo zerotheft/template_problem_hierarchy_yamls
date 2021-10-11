@@ -92,27 +92,27 @@ reasoning_on_size_of_problem:
 
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
-  breakdown_of_$4.8_billion_lost_by_LTCM_over_the_course_of_1998:
-    source: https://www.econcrises.org/2016/04/18/long-term-capital-management/
-    breakdown_amount:
-      swaps: $1.6 billion
-      equity_and_volatility: $1.3 billion
-      Russia_and_other_emerging_markets: $430 million
-      directional_trade_in_developed_countries: $371 million
-      equity_pairs: $286 million
-      yield_curve_arbitrage: $215 million
-      s&p_500_stocks: $203 million
-      junk_bonds_arbitrage: $100 million
-      merger_arbitrage: no substancial losses
+    breakdown_of_$4.8_billion_lost_by_LTCM_over_the_course_of_1998:
+      source: https://www.econcrises.org/2016/04/18/long-term-capital-management/
+      breakdown_amount:
+        swaps: $1.6 billion
+        equity_and_volatility: $1.3 billion
+        Russia_and_other_emerging_markets: $430 million
+        directional_trade_in_developed_countries: $371 million
+        equity_pairs: $286 million
+        yield_curve_arbitrage: $215 million
+        s&p_500_stocks: $203 million
+        junk_bonds_arbitrage: $100 million
+        merger_arbitrage: no substancial losses
 
-  major_contributors_in_LTCM_bailout:
-    source: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
-    details: "Seeing no options left, the Federal Reserve Bank of New York organized a bailout of $3.625 billion by the major creditors to avoid a wider collapse in the financial markets.The principal negotiator for LTCM was general counsel James G. Rickards"
-    instituitions_with_contributed_amount:
-      bankers_trust, barclays, chase, credit_suisse_first_boston, deutsche_Bank, goldman_sachs, merrill_lynch, J.P.Morgan, morgan_stanley, salomon_smith_barney, UBS: $300 million
-      société_générale: $125 million
-      paribas_and_lehman_brothers: $100 million
-      bear_stearns_and_crédit_agricole: Declined to participate
+    major_contributors_in_LTCM_bailout:
+      source: https://en.wikipedia.org/wiki/Long-Term_Capital_Management
+      details: "Seeing no options left, the Federal Reserve Bank of New York organized a bailout of $3.625 billion by the major creditors to avoid a wider collapse in the financial markets.The principal negotiator for LTCM was general counsel James G. Rickards"
+      instituitions_with_contributed_amount:
+        bankers_trust, barclays, chase, credit_suisse_first_boston, deutsche_Bank, goldman_sachs, merrill_lynch, J.P.Morgan, morgan_stanley, salomon_smith_barney, UBS: $300 million
+        société_générale: $125 million
+        paribas_and_lehman_brothers: $100 million
+        bear_stearns_and_crédit_agricole: Declined to participate
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -265,11 +265,13 @@ resources:
 # {~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
 # {~C~} It can also list the key year (or years) of the problem.
 years_covered:
-  - start: ~C~2005 - or remove if there was no known start year of the problem~C~
-  - end: ~C~2012 - or remove if the problem is ongoing~C~
-  - key_year: ~C~2011 or this can be an array~C~
-  - data_range:
-      - from: ~C~2008~C~
-      - to: ~C~2015~C~
+    - start: ~C~2005 - or remove if there was no known start year of the problem~C~
+    - end: ~C~2012 - or remove if the problem is ongoing~C~
+    - key_year: ~C~2011 or this can be an array~C~
+    - data_range:
+        - from: ~C~2008~C~
+        - to: ~C~2015~C~
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"

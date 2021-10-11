@@ -8,6 +8,7 @@
 summary_country: USA
 hierarchy: tax/corp_tax_evasion
 title: citizens Ripped off by possible~~~~~~ non-market rates when stocks are bought/sold by them
+
 stolen_2021: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 stolen_2020: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 stolen_2019: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
@@ -70,6 +71,7 @@ stolen_1963: ~C~Enter Dollar amount ripped off in rigged economy on this issue y
 stolen_1962: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 stolen_1961: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
 stolen_1960: ~C~Enter Dollar amount ripped off in rigged economy on this issue yr~C~
+
 author:
   name: ~C~anonymous~C~
   email: ~C~anonymous@example.com~C~
@@ -95,7 +97,7 @@ reasoning: |
   6) Do you consider it a crime of THEFT if corporations carry out tricks to do tax evasion (or instead something you consider on unethically not paying taxes)? Especially if a USA worker would
     go to jail if they did the same with not paying taxes on their salary?
   7) If a USA worker lived in the US, worked in the US, but had a bank account in Irland.  If they had their employer auto-deposite their paycheck to their Iriland bank, they would be put in jail for tax exavsion when they didn't pay taxes. Ethically, this is the tax evasion corporations carry out (after looking past their excuses). The decision for the voter is it theft then corporations do the kind of tax behavior that would send a USA worker to jail if they did it.
-  8) USA workers/citizens pay 88.9% of US Gov taxes.  All corporations and businesses only pay 7.2%.  This is even worse when large corporations are the one that can do tax evasions so the businesses that pay taxes are small businesses. These are in 2018 numbers. Source: https://usafacts.org/data/topics/government-finances/revenue/
+  8) USA workers/citizens pay 88.9% of US Gov taxes.  All corporations and businesses only pay 7.2%.  This is even worse when large corporations are the one that can do tax evasions so the businesses that pay taxes are small businesses. These are in 2018 numbers. Source: "https://usafacts.org/data/topics/government-finances/revenue/
     USA Total revenue/taxes are $4,873 billion (2018).  Corp income taxes are $349 billion (7.2%).
     US Workers pay 88.9% or $4,334 billion from: a) Income tax, b) sales tax, c) Property tax and d) Payroll taxes.
     In 1920, corporations paid most taxes. This has been shifted to citizens by a sell out government.
@@ -679,7 +681,7 @@ resources:
 
       - topic: "IRS tried to get tough against Microsoft."
         source: "propublica, Paul Kiel, January 22, 2020"
-        url: "https://www.propublica.org/article  /the-irs-decided-to-get-tough-against-microsoft-microsoft-got-tougher"
+        url: "https://www.propublica.org/article/the-irs-decided-to-get-tough-against-microsoft-microsoft-got-tougher"
 
 #{~C~} This section should be an array of the years most covered by the problem and backed up by the data provided. {~C~}
 #{~C~} It can also list the key year (or years) of the problem.
@@ -689,7 +691,8 @@ years_covered:
       - to: 2020
 
 companies_referred_to_in_Problem:
-  source: "https://en.wikipedia.org/wiki/Companies_of_the_United_States_with_untaxed_profits (List of Companies with Untaxed Profit section)" #and many others mentioned above..
+  source: "Wikipedia, List of Companies with Untaxed Profit section"
+  url: "https://en.wikipedia.org/wiki/Companies_of_the_United_States_with_untaxed_profits" #and many others mentioned above..
   companies:
     - Apple
     - CitiGroup
@@ -700,4 +703,6 @@ companies_referred_to_in_Problem:
     - Amazon
     - NetFlix # https://www.theguardian.com/media/2019/feb/10/netflix-income-tax-2018-didnt-pay
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+  source: "CREATIVE COMMONS - CC BY 4.0"
+  url: "https://creativecommons.org/licenses/by/4.0/"

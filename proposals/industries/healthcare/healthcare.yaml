@@ -109,612 +109,612 @@ reasoning_on_size_of_problem:
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
   #How much is spent by US Citizens on medical costs?
-  ? national_health_expenditures;_aggregate_and_per_capita_amounts:_calendar_years_1960_2018
-  : source:
+    national_health_expenditures;_aggregate_and_per_capita_amounts:_calendar_years_1960_2018: 
+      source:
       - https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below
       - https://www.cdc.gov/nchs/hus/contents2018.htm?search=Health_expenditures
-    yearly_health_expenditures_and_per_capita_amount:
-      2018: "national_health_expenditure: $3,649,400,000,000 ($3.6 Trillion), per_capita_amount: $11,172"
-      2017: "national_health_expenditure: $3,487,300,000,000 ($3.5 Trillion) ,per_capita_amount: $10,742"
-      2016: "national_health_expenditure: $3,347,400,000,000 ($3.3 Trillion) ,per_capita_amount: $10,379"
-      2015: "national_health_expenditure: $3,199,600,000,000 ($3.2 Trillion) ,per_capita_amount: $9,995"
-      2014: "national_health_expenditure: $3,025,400,000,000 ($3.0 Trillion) ,per_capita_amount: $9,518"
-      2013: "national_health_expenditure: $2,875,000,000,000 ($2.9 Trillion) ,per_capita_amount: $9,113"
-      2012: "national_health_expenditure: $2,791,100,000,000 ($2.8 Trillion) ,per_capita_amount: $8,908"
-      2011: "national_health_expenditure: $2,682,600,000,000 ($2.6 Trillion) ,per_capita_amount: $8,625"
-      2010: "national_health_expenditure: $2,593,200,000,000 ($2.6 Trillion) ,per_capita_amount: $8,394"
-      2009: "national_health_expenditure: $2,491,800,000,000 ($2.5 Trillion) ,per_capita_amount: $8,131"
-      2008: "national_health_expenditure: $2,397,100,000,000 ($2.4 Trillion) ,per_capita_amount: $7,890"
-      2007: "national_health_expenditure: $2,294,400,000,000 ($2.3 Trillion) ,per_capita_amount: $7,624"
-      2006: "national_health_expenditure: $2,156,200,000,000 ($2.2 Trillion) ,per_capita_amount: $7,232"
-      2005: "national_health_expenditure: $2,023,800,000,000 ($2.0 Trillion) ,per_capita_amount: $6,854"
-      2004: "national_health_expenditure: $1,895,800,000,000 ($1.9 Trillion) ,per_capita_amount: $6,479"
-      2003: "national_health_expenditure: $1,767,600,000,000 ($1.8 Trillion) ,per_capita_amount: $6,097"
-      2002: "national_health_expenditure: $1,628,700,000,000 ($1.6 Trillion) ,per_capita_amount: $5,666"
-      2001: "national_health_expenditure: $1,486,200,000,000 ($1.5 Trillion) ,per_capita_amount: $5,218"
-      2000: "national_health_expenditure: $1,369,200,000,000 ($1.4 Trillion) ,per_capita_amount: $4,855"
-      1995: "national_health_expenditure: $1,021,600,000,000 ($1.0 Trillion) ,per_capita_amount: $3,806"
-      1990: "national_health_expenditure: $721,400,000,000 ($721.4 Billion) ,per_capita_amount: $2,843"
-      1985: "national_health_expenditure: $442,900,000,000 ($442.9 Billion) ,per_capita_amount: $1,833"
-      1980: "national_health_expenditure: $255,300,000,000 ($255.3 Billion) ,per_capita_amount: $1,108"
-      1975: "national_health_expenditure: $133,300,000,000 ($133.3 Billion) ,per_capita_amount: $605"
-      1970: "national_health_expenditure: $74,600,000,000 ($74.6 Billion), per_capita_amount: $355"
-      1965: "national_health_expenditure: $41,900,000,000 ($41.9 Billion), per_capita_amount: $209"
-      1960: "national_health_expenditure: $27,200,000,000 ($27.2 Billion), per_capita_amount: $146"
+      yearly_health_expenditures_and_per_capita_amount:
+        2018: "national_health_expenditure: $3,649,400,000,000 ($3.6 Trillion), per_capita_amount: $11,172"
+        2017: "national_health_expenditure: $3,487,300,000,000 ($3.5 Trillion) ,per_capita_amount: $10,742"
+        2016: "national_health_expenditure: $3,347,400,000,000 ($3.3 Trillion) ,per_capita_amount: $10,379"
+        2015: "national_health_expenditure: $3,199,600,000,000 ($3.2 Trillion) ,per_capita_amount: $9,995"
+        2014: "national_health_expenditure: $3,025,400,000,000 ($3.0 Trillion) ,per_capita_amount: $9,518"
+        2013: "national_health_expenditure: $2,875,000,000,000 ($2.9 Trillion) ,per_capita_amount: $9,113"
+        2012: "national_health_expenditure: $2,791,100,000,000 ($2.8 Trillion) ,per_capita_amount: $8,908"
+        2011: "national_health_expenditure: $2,682,600,000,000 ($2.6 Trillion) ,per_capita_amount: $8,625"
+        2010: "national_health_expenditure: $2,593,200,000,000 ($2.6 Trillion) ,per_capita_amount: $8,394"
+        2009: "national_health_expenditure: $2,491,800,000,000 ($2.5 Trillion) ,per_capita_amount: $8,131"
+        2008: "national_health_expenditure: $2,397,100,000,000 ($2.4 Trillion) ,per_capita_amount: $7,890"
+        2007: "national_health_expenditure: $2,294,400,000,000 ($2.3 Trillion) ,per_capita_amount: $7,624"
+        2006: "national_health_expenditure: $2,156,200,000,000 ($2.2 Trillion) ,per_capita_amount: $7,232"
+        2005: "national_health_expenditure: $2,023,800,000,000 ($2.0 Trillion) ,per_capita_amount: $6,854"
+        2004: "national_health_expenditure: $1,895,800,000,000 ($1.9 Trillion) ,per_capita_amount: $6,479"
+        2003: "national_health_expenditure: $1,767,600,000,000 ($1.8 Trillion) ,per_capita_amount: $6,097"
+        2002: "national_health_expenditure: $1,628,700,000,000 ($1.6 Trillion) ,per_capita_amount: $5,666"
+        2001: "national_health_expenditure: $1,486,200,000,000 ($1.5 Trillion) ,per_capita_amount: $5,218"
+        2000: "national_health_expenditure: $1,369,200,000,000 ($1.4 Trillion) ,per_capita_amount: $4,855"
+        1995: "national_health_expenditure: $1,021,600,000,000 ($1.0 Trillion) ,per_capita_amount: $3,806"
+        1990: "national_health_expenditure: $721,400,000,000 ($721.4 Billion) ,per_capita_amount: $2,843"
+        1985: "national_health_expenditure: $442,900,000,000 ($442.9 Billion) ,per_capita_amount: $1,833"
+        1980: "national_health_expenditure: $255,300,000,000 ($255.3 Billion) ,per_capita_amount: $1,108"
+        1975: "national_health_expenditure: $133,300,000,000 ($133.3 Billion) ,per_capita_amount: $605"
+        1970: "national_health_expenditure: $74,600,000,000 ($74.6 Billion), per_capita_amount: $355"
+        1965: "national_health_expenditure: $41,900,000,000 ($41.9 Billion), per_capita_amount: $209"
+        1960: "national_health_expenditure: $27,200,000,000 ($27.2 Billion), per_capita_amount: $146"
 
   #We want numbers that they spend on MEDICAL INSURANCE
-  amount_spend_on_health_insurance_1960_to_2018:
-    source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
-    amount:
-      2018: $ 2,728,950,000,000 ($ 2.7 Trillion)
-      2017: $ 2,592,332,000,000 ($ 2.5 Trillion)
-      2016: $ 2,487,483,000,000 ($ 2.4 Trillion)
-      2015: $ 2,373,400,000,000 ($ 2.3 Trillion)
-      2014: $ 2,223,027,000,000 ($ 2.2 Trillion)
-      2013: $ 2,079,180,000,000 ($ 2.0 Trillion)
-      2012: $ 2,015,814,000,000 ($ 2.0 Trillion)
-      2011: $ 1,942,105,000,000 ($ 1.9 Trillion)
-      2010: $ 1,871,239,000,000 ($ 1.9 Trillion)
-      2009: $ 1,792,324,000,000 ($ 1.8 Trillion)
-      2008: $ 1,693,476,000,000 ($ 1.7 Trillion)
-      2007: $ 1,607,910,000,000 ($ 1.6 Trillion)
-      2006: $ 1,517,037,000,000 ($ 1.5 Trillion)
-      2005: $ 1,414,036,000,000 ($ 1.4 Trillion)
-      2004: $ 1,320,082,000,000 ($ 1.3 Trillion)
-      2003: $ 1,221,811,000,000 ($ 1.2 Trillion)
-      2002: $ 1,121,575,000,000 ($ 1.1 Trillion)
-      2001: $ 1,014,436,000,000 ($ 1.0 Trillion)
-      2000: $ 919,001,000,000 ($ 919.0 Billion)
-      1999: $ 845,619,000,000 ($ 845.6 Billion)
-      1998: $ 792,113,000,000 ($ 792.1 Billion)
-      1997: $ 758,323,000,000 ($ 758.3 Billion)
-      1996: $ 722,123,000,000 ($ 722.1 Billion)
-      1995: $ 681,479,000,000 ($ 681.5 Billion)
-      1994: $ 636,746,000,000 ($ 636.7 Billion)
-      1993: $ 593,278,000,000 ($ 593.3 Billion)
-      1992: $ 543,122,000,000 ($ 543.1 Billion)
-      1991: $ 492,308,000,000 ($ 492.3 Billion)
-      1990: $ 439,113,000,000 ($ 439.1 Billion)
-      1989: $ 387,271,000,000 ($ 387.3 Billion)
-      1988: $ 338,282,000,000 ($ 338.3 Billion)
-      1987: $ 300,035,000,000 ($ 300.0 Billion)
-      1986: $ 274,699,000,000 ($ 274.7 Billion)
-      1985: $ 259,273,000,000 ($ 259.3 Billion)
-      1984: $ 237,405,000,000 ($ 237.4 Billion)
-      1983: $ 212,741,000,000 ($ 212.7 Billion)
-      1982: $ 190,651,000,000 ($ 190.7 Billion)
-      1981: $ 167,730,000,000 ($ 197.7 Billion)
-      1980: $ 142,333,000,000 ($ 142.3 Billion)
-      1979: $ 122,739,000,000 ($ 122.7 Billion)
-      1978: $ 106,582,000,000 ($ 106.6 Billion)
-      1977: $ 93,115,000,000 ($ 93.1 Billion)
-      1976: $ 79,068,000,000 ($ 79.0 Billion)
-      1975: $ 66,330,000,000 ($ 66.3 Billion)
-      1974: $ 55,956,000,000 ($ 55.9 Billion)
-      1973: $ 48,027,000,000 ($ 48.0 Billion)
-      1972: $ 42,617,000,000 ($ 42.6 Billion)
-      1971: $ 36,727,000,000 ($ 36.7 Billion)
-      1970: $ 31,763,000,000 ($ 31.8 Billion)
-      1969: $ 27,565,000,000 ($ 27.6 Billion)
-      1968: $ 24,379,000,000 ($ 24.4 Billion)
-      1967: $ 21,109,000,000 ($ 21.1 Billion)
-      1966: $ 15,673,000,000 ($ 15.7 Billion)
-      1965: $ 12,023,000,000 ($ 12.0 Billion)
-      1964: $ 10,971,000,000 ($ 10.9 Billion)
-      1963: $ 9,892,000,000 ($ 9.9 Billion)
-      1962: $ 8,999,000,000 ($ 9.0 Billion)
-      1961: $ 8,236,000,000 ($ 8.2 Billion)
-      1960: $ 7,497,000,000 ($ 7.5 Billion)
-
-  people_covered_by_health_insurance_from_1987_to_2018:
-    source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
-    people_covered_by_health_insurance:
-      2018: 345,900,000
-      2017: 345,200,000
-      2016: 342,400,000
-      2015: 337,800,000
-      2014: 326,400,000
-      2013: 314,600,000
-      2012: 312,100,000
-      2011: 305,100,000
-      2010: 301,600,000
-      2009: 299,900,000
-      2008: 299,800,000
-      2007: 298,100,000
-      2006: 296,500,000
-      2005: 295,400,000
-      2004: 292,300,000
-      2003: 290,600,000
-      2002: 289,200,000
-      2001: 284,300,000
-      2000: 280,500,000
-      1999: 273,200,000
-      1998: 270,200,000
-      1997: 267,400,000
-      1996: 266,200,000
-      1995: 263,200,000
-      1994: 260,300,000
-      1993: 255,500,000
-      1992: 251,800,000
-      1991: 249,600,000
-      1990: 246,400,000
-      1989: 245,100,000
-      1988: 241,300,000
-      1987: 241,200,000
-
-  #Amount spent by the US on Medicare and Medicaid
-  amount_spend_on_medicare_and_medicaid:
-    source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
-    yearwise_expenditure_on_medicare_and_medicaid:
-      2018: "medicare: $750,182,000,000 ($750.2 Billion), medicaid: $597,387,000,000 ($597.4 Billion)"
-      2017: "medicare: $705,123,000,000 ($705.1 Billion), medicaid: $580,111,000,000 ($580.1 Billion)"
-      2016: "medicare: $676,772,000,000 ($676.8 Billion), medicaid: $565,380,000,000 ($565.4 Billion)"
-      2015: "medicare: $648,783,000,000 ($648.8 Billion), medicaid: $542,628,000,000 ($542.6 Billion)"
-      2014: "medicare: $618,549,000,000 ($618.5 Billion), medicaid: $497,767,000,000 ($497.8 Billion)"
-      2013: "medicare: $588,928,000,000 ($588.9 Billion), medicaid: $445,204,000,000 ($445.2 Billion)"
-      2012: "medicare: $568,477,000,000 ($568.5 Billion), medicaid: $422,904,000,000 ($422.9 Billion)"
-      2011: "medicare: $544,781,000,000 ($544.8 Billion), medicaid: $406,727,000,000 ($406.7 Billion)"
-      2010: "medicare: $519,783,000,000 ($519.8 Billion), medicaid: $397,410,000,000 ($397.4 Billion)"
-      2009: "medicare: $498,859,000,000 ($498.9 Billion), medicaid: $374,734,000,000 ($374.7 Billion)"
-      2008: "medicare: $466,971,000,000 ($466.9 Billion), medicaid: $344,423,000,000 ($344.4 Billion)"
-      2007: "medicare: $432,751,000,000 ($432.7 Billion), medicaid: $325,850,000,000 ($325.9 Billion)"
-      2006: "medicare: $403,690,000,000 ($403.7 Billion), medicaid: $306,680,000,000 ($306.7 Billion)"
-      2005: "medicare: $339,762,000,000 ($339.8 Billion), medicaid: $309,351,000,000 ($309.4 Billion)"
-      2004: "medicare: $311,122,000,000 ($311.1 Billion), medicaid: $290,743,000,000 ($290.7 Billion)"
-      2003: "medicare: $282,668,000,000 ($282.7 Billion), medicaid: $268,963,000,000 ($268.9 Billion)"
-      2002: "medicare: $265,381,000,000 ($265.4 Billion), medicaid: $248,100,000,000 ($248.1 Billion)"
-      2001: "medicare: $247,686,000,000 ($247.7 Billion), medicaid: $224,132,000,000 ($224.1 Billion)"
-      2000: "medicare: $224,829,000,000 ($224.8 Billion), medicaid: $200,383,000,000 ($200.4 Billion)"
-      1995: "medicare: $184,393,000,000 ($184.4 Billion), medicaid: $144,862,000,000 ($144.9 Billion)"
-      1990: "medicare: $110,182,000,000 ($110.2 Billion), medicaid: $73,661,000,000 ($73.7 Billion)"
-      1985: "medicare: $71,829,000,000 ($71.8 Billion), medicaid: $40,937,000,000 ($40.9 Billion)"
-      1980: "medicare: $37,387,000,000 ($37.4 Billion), medicaid: $26,032,000,000 ($26.0 Billion)"
-      1975: "medicare: $16,336,000,000 ($16.3 Billion), medicaid: $13,446,000,000 ($13.4 Billion)"
-      1970: "medicare: $7,672,000,000 ($7.7 Billion), medicaid: $5,290,000,000 ($5.3 Billion)"
-      1966: "medicare: $1,842,000,000 ($1.8 Billion), medicaid: $1,304,000,000 ($1.3 Billion)"
-
-  people_covered_by_medicare_and_medicaid_from_1987_to_2018:
-    source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
-    yearly_people_covered_by_medicare_and_medicaid:
-      2018: "medicare: 58,700,000 (58.7 million), medicaid: 72,800,000 (72.8 million)"
-      2017: "medicare: 57,200,000 (57.2 million), medicaid: 72,100,000 (72.1 million)"
-      2016: "medicare: 55,800,000 (55.8 million), medicaid: 71,100,000 (71.1 million)"
-      2015: "medicare: 54,300,000 (54.3 million), medicaid: 69,300,000 (69.3 million)"
-      2014: "medicare: 52,800,000 (52.8 million), medicaid: 65,600,000 (65.6 million)"
-      2013: "medicare: 51,300,000 (51.3 million), medicaid: 59,100,000 (59.1 million)"
-      2012: "medicare: 49,700,000 (49.7 million), medicaid: 58,100,000 (58.1 million)"
-      2011: "medicare: 47,700,000 (47.7 million), medicaid: 56,200,000 (56.2 million)"
-      2010: "medicare: 46,600,000 (46.6 million), medicaid: 54,000,000 (54 million)"
-      2009: "medicare: 45,500,000 (45.5 million), medicaid: 50,900,000 (50.9 million)"
-      2008: "medicare: 44,400,000 (44.4 million), medicaid: 47,200,000 (47.2 million)"
-      2007: "medicare: 43,300,000 (43.3 million), medicaid: 45,600,000 (45.6 million)"
-      2006: "medicare: 42,400,000 (42.4 million), medicaid: 45,600,000 (45.6 million)"
-      2005: "medicare: 41,500,000 (41.5 million), medicaid: 45,800,000 (45.8 million)"
-      2004: "medicare: 40,800,000 (40.8 million), medicaid: 44,500,000 (44.5 million)"
-      2003: "medicare: 40,200,000 (40.2 million), medicaid: 43,000,000 (43 million)"
-      2002: "medicare: 39,600,000 (39.6 million), medicaid: 40,400,000 (40.4 million)"
-      2001: "medicare: 39,100,000 (39.1 million), medicaid: 36,800,000 (36.8 million)"
-      2000: "medicare: 38,800,000 (38.8 million), medicaid: 34,100,000 (34.1 million)"
-      1999: "medicare: 38,300,000 (38.3 million), medicaid: 32,200,000 (32.2 million)"
-      1998: "medicare: 38,000,000 (38 million), medicaid: 31,400,000 (31.4 million)"
-      1997: "medicare: 37,600,000 (37.6 million), medicaid: 31,800,000 (31.8 million)"
-      1996: "medicare: 37,300,000 (37.3 million), medicaid: 32,200,000 (32.2 million)"
-      1995: "medicare: 36,800,000 (36.8 million), medicaid: 32,300,000 (32.3 million)"
-      1994: "medicare: 36,200,000 (36.2 million), medicaid: 31,700,000 (31.7 million)"
-      1993: "medicare: 35,600,000 (35.6 million), medicaid: 30,500,000 (30.5 million)"
-      1992: "medicare: 34,900,000 (34.9 million), medicaid: 28,500,000 (28.5 million)"
-      1991: "medicare: 34,200,000 (34.2 million), medicaid: 25,900,000 (25.9 million)"
-      1990: "medicare: 33,500,000 (33.5 million), medicaid: 22,800,000 (22.8 million)"
-      1989: "medicare: 32,900,000 (32.9 million), medicaid: 20,800,000 (20.8 million)"
-      1988: "medicare: 32,300,000 (32.3 million), medicaid: 20,000,000 (20 million)"
-      1987: "medicare: 31,700,000 (31.7 million), medicaid: 20,000,000 (20 million)"
-
-  #We need to see how much is spent OUTSIDE of insurance. Including "out of pocket".
-  amount_spend_by_united_states_outside_of_insurance:
-    source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
-    amount:
-      2018: $ 375,610,000,000 ($ 375.6 Billion)
-      2017: $ 365,209,000,000 ($ 365.2 Billion)
-      2016: $ 357,217,000,000 ($ 357.2 Billion)
-      2015: $ 341,706,000,000 ($ 341.7 Billion)
-      2014: $ 331,766,000,000 ($ 331.8 Billion)
-      2013: $ 326,864,000,000 ($ 326.9 Billion)
-      2012: $ 319,236,000,000 ($ 319.2 Billion)
-      2011: $ 310,434,000,000 ($ 310.4 Billion)
-      2010: $ 300,223,000,000 ($ 300.2 Billion)
-      2009: $ 294,167,000,000 ($ 294.2 Billion)
-      2008: $ 295,573,000,000 ($ 295.6 Billion)
-      2007: $ 290,381,000,000 ($ 290.4 Billion)
-      2006: $ 273,611,000,000 ($ 273.6 Billion)
-      2005: $ 263,816,000,000 ($ 263.8 Billion)
-      2004: $ 248,495,000,000 ($ 248.5 Billion)
-      2003: $ 235,636,000,000 ($ 235.6 Billion)
-      2002: $ 219,274,000,000 ($ 219.3 Billion)
-      2001: $ 206,200,000,000 ($ 206.2 Billion)
-      2000: $ 198,886,000,000 ($ 198.9 Billion)
-      1999: $ 187,575,000,000 ($ 187.6 Billion)
-      1998: $ 176,811,000,000 ($ 176.8 Billion)
-      1997: $ 161,371,000,000 ($ 161.4 Billion)
-      1996: $ 150,353,000,000 ($ 150.4 Billion)
-      1995: $ 144,816,000,000 ($ 144.8 Billion)
-      1994: $ 142,035,000,000 ($ 142.0 Billion)
-      1993: $ 144,098,000,000 ($ 144.0 Billion)
-      1992: $ 143,178,000,000 ($ 143.2 Billion)
-      1991: $ 140,815,000,000 ($ 140.8 Billion)
-      1990: $ 137,882,000,000 ($ 137.9 Billion)
-      1989: $ 126,651,000,000 ($ 126.7 Billion)
-      1988: $ 120,217,000,000 ($ 120.2 Billion)
-      1987: $ 109,652,000,000 ($ 109.7 Billion)
-      1986: $ 103,610,000,000 ($ 103.6 Billion)
-      1985: $ 95,640,000,000 ($ 95.6 Billion)
-      1984: $ 86,500,000,000 ($ 86.5 Billion)
-      1983: $ 78,619,000,000 ($ 78.6 Billion)
-      1982: $ 72,450,000,000 ($ 72.5 Billion)
-      1981: $ 65,355,000,000 ($ 65.4 Billion)
-      1980: $ 58,146,000,000 ($ 58.1 Billion)
-      1979: $ 52,312,000,000 ($ 52.3 Billion)
-      1978: $ 48,016,000,000 ($ 48.0 Billion)
-      1977: $ 44,853,000,000 ($ 44.9 Billion)
-      1976: $ 40,647,000,000 ($ 40.7 Billion)
-      1975: $ 37,262,000,000 ($ 37.3 Billion)
-      1974: $ 34,373,000,000 ($ 34.4 Billion)
-      1973: $ 31,625,000,000 ($ 31.6 Billion)
-      1972: $ 28,646,000,000 ($ 28.6 Billion)
-      1971: $ 26,312,000,000 ($ 26.3 Billion)
-      1970: $ 24,953,000,000 ($ 24.9 Billion)
-      1969: $ 22,601,000,000 ($ 22.6 Billion)
-      1968: $ 20,500,000,000 ($ 20.5 Billion)
-      1967: $ 18,537,000,000 ($ 18.5 Billion)
-      1966: $ 18,594,000,000 ($ 18.6 Billion)
-      1965: $ 18,209,000,000 ($ 18.2 Billion)
-      1964: $ 16,928,000,000 ($ 16.9 Billion)
-      1963: $ 15,311,000,000 ($ 15.3 Billion)
-      1962: $ 14,255,000,000 ($ 14.3 Billion)
-      1961: $ 13,357,000,000 ($ 13.4 Billion)
-      1960: $ 12,949,000,000 ($ 12.9 Billion)
-
-  ? mean_nominal_monthly_earnings_of_employees_(earnings_includes_total_of_both_male_and_female,_united_states_dollar_currency,occupation(ISCO-08)-2._professionals)
-  : source:
-      - https://www.ilo.org/shinyapps/bulkexplorer55/?lang=en&segment=indicator&id=EAR_XEES_SEX_OCU_NB_A
-      - https://www.ilo.org/shinyapps/bulkexplorer55/?lang=en&segment=indicator&id=EAR_4MTH_SEX_OCU_CUR_NB_A
-    mean_nominal_monthly_earnings_of_employees:
-      united_states: "2019: $5847.65, 2017: $5508.32, 2016: $5412.1, 2014: $5135.04, 2013: $5114.04, 2011: $4920.09, 2010: $4839.42, 2008: $4710.95, 2007: $4564.52, 2005: $4285.07, 2004: $4149.03, 2002: $3952.26, 2001: $3847.28"
-
-      albania: "2019: $643.8, 2018: $628.66, 2017: $556.65, 2016: $520.59, 2015: $532.46"
-
-      angola: "2011: $1446.2"
-
-      argentina: "2019: $694.76, 2018: $848.3, 2017: $1115.95, 2014: $1014.67, 2013: $1160.84, 2012: $1112.24, 2011: $1014.95, 2010: $836.63, 2009: $742.15, 2008: $720.22, 2006: $452.18, 2005: $391.64, 2004: $344.19"
-
-      armenia: "2018: $255.77, 2017: $241.04, 2016: $220.06, 2015: $230.37, 2014: $249.19, 2013: $244.46"
-
-      aruba: "2010: $2862.01"
-
-      australia: "2016: $198931.61, 2014: $6042.84"
-
-      austria: "2017: $4489.35, 2015: $4215.04, 2014: $5375.11, 2013: $4941.93, 2012: $4902.75, 2011: $5141.88, 2010: $5105.33, 2009: $5773"
-
-      bangladesh: "2016: $272.35, 2017: $261.1"
-
-      belgium: "2016: $4913.54, 2015: $4908.49, 2014: $5862.67, 2013: $5740.13, 2011: $5876.84, 2009: $5676.76"
-
-      belize: "2019: $1410, 2018: $1333.73, 2017: $1095.95, 2016: $1049.66, 2015: $1029.53, 2014: $940.13"
-
-      bolivia: "2018: $638.58, 2017: $604.97, 2016: $575.72, 2014: $527.45, 2013: $498.94, 2012: $452.41, 2011: $413.7, 2009: $350.43, 2008: $373.19, 2007: $348.34, 2006: $311.7, 2005: $258.09"
-
-      bosnia_and_herzegovina: "2019: $641.07, 2018: $642.37, 2017: $579.88, 2016: $559.79, 2015: $605.4, 2014: $703.63, 2013: $697.21, 2012: $648.04, 2011: $708.75, 2010: $696.4"
+    amount_spend_on_health_insurance_1960_to_2018:
+      source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
+      amount:
+        2018: $ 2,728,950,000,000 ($ 2.7 Trillion)
+        2017: $ 2,592,332,000,000 ($ 2.5 Trillion)
+        2016: $ 2,487,483,000,000 ($ 2.4 Trillion)
+        2015: $ 2,373,400,000,000 ($ 2.3 Trillion)
+        2014: $ 2,223,027,000,000 ($ 2.2 Trillion)
+        2013: $ 2,079,180,000,000 ($ 2.0 Trillion)
+        2012: $ 2,015,814,000,000 ($ 2.0 Trillion)
+        2011: $ 1,942,105,000,000 ($ 1.9 Trillion)
+        2010: $ 1,871,239,000,000 ($ 1.9 Trillion)
+        2009: $ 1,792,324,000,000 ($ 1.8 Trillion)
+        2008: $ 1,693,476,000,000 ($ 1.7 Trillion)
+        2007: $ 1,607,910,000,000 ($ 1.6 Trillion)
+        2006: $ 1,517,037,000,000 ($ 1.5 Trillion)
+        2005: $ 1,414,036,000,000 ($ 1.4 Trillion)
+        2004: $ 1,320,082,000,000 ($ 1.3 Trillion)
+        2003: $ 1,221,811,000,000 ($ 1.2 Trillion)
+        2002: $ 1,121,575,000,000 ($ 1.1 Trillion)
+        2001: $ 1,014,436,000,000 ($ 1.0 Trillion)
+        2000: $ 919,001,000,000 ($ 919.0 Billion)
+        1999: $ 845,619,000,000 ($ 845.6 Billion)
+        1998: $ 792,113,000,000 ($ 792.1 Billion)
+        1997: $ 758,323,000,000 ($ 758.3 Billion)
+        1996: $ 722,123,000,000 ($ 722.1 Billion)
+        1995: $ 681,479,000,000 ($ 681.5 Billion)
+        1994: $ 636,746,000,000 ($ 636.7 Billion)
+        1993: $ 593,278,000,000 ($ 593.3 Billion)
+        1992: $ 543,122,000,000 ($ 543.1 Billion)
+        1991: $ 492,308,000,000 ($ 492.3 Billion)
+        1990: $ 439,113,000,000 ($ 439.1 Billion)
+        1989: $ 387,271,000,000 ($ 387.3 Billion)
+        1988: $ 338,282,000,000 ($ 338.3 Billion)
+        1987: $ 300,035,000,000 ($ 300.0 Billion)
+        1986: $ 274,699,000,000 ($ 274.7 Billion)
+        1985: $ 259,273,000,000 ($ 259.3 Billion)
+        1984: $ 237,405,000,000 ($ 237.4 Billion)
+        1983: $ 212,741,000,000 ($ 212.7 Billion)
+        1982: $ 190,651,000,000 ($ 190.7 Billion)
+        1981: $ 167,730,000,000 ($ 197.7 Billion)
+        1980: $ 142,333,000,000 ($ 142.3 Billion)
+        1979: $ 122,739,000,000 ($ 122.7 Billion)
+        1978: $ 106,582,000,000 ($ 106.6 Billion)
+        1977: $ 93,115,000,000 ($ 93.1 Billion)
+        1976: $ 79,068,000,000 ($ 79.0 Billion)
+        1975: $ 66,330,000,000 ($ 66.3 Billion)
+        1974: $ 55,956,000,000 ($ 55.9 Billion)
+        1973: $ 48,027,000,000 ($ 48.0 Billion)
+        1972: $ 42,617,000,000 ($ 42.6 Billion)
+        1971: $ 36,727,000,000 ($ 36.7 Billion)
+        1970: $ 31,763,000,000 ($ 31.8 Billion)
+        1969: $ 27,565,000,000 ($ 27.6 Billion)
+        1968: $ 24,379,000,000 ($ 24.4 Billion)
+        1967: $ 21,109,000,000 ($ 21.1 Billion)
+        1966: $ 15,673,000,000 ($ 15.7 Billion)
+        1965: $ 12,023,000,000 ($ 12.0 Billion)
+        1964: $ 10,971,000,000 ($ 10.9 Billion)
+        1963: $ 9,892,000,000 ($ 9.9 Billion)
+        1962: $ 8,999,000,000 ($ 9.0 Billion)
+        1961: $ 8,236,000,000 ($ 8.2 Billion)
+        1960: $ 7,497,000,000 ($ 7.5 Billion)
+
+    people_covered_by_health_insurance_from_1987_to_2018:
+      source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
+      people_covered_by_health_insurance:
+        2018: 345,900,000
+        2017: 345,200,000
+        2016: 342,400,000
+        2015: 337,800,000
+        2014: 326,400,000
+        2013: 314,600,000
+        2012: 312,100,000
+        2011: 305,100,000
+        2010: 301,600,000
+        2009: 299,900,000
+        2008: 299,800,000
+        2007: 298,100,000
+        2006: 296,500,000
+        2005: 295,400,000
+        2004: 292,300,000
+        2003: 290,600,000
+        2002: 289,200,000
+        2001: 284,300,000
+        2000: 280,500,000
+        1999: 273,200,000
+        1998: 270,200,000
+        1997: 267,400,000
+        1996: 266,200,000
+        1995: 263,200,000
+        1994: 260,300,000
+        1993: 255,500,000
+        1992: 251,800,000
+        1991: 249,600,000
+        1990: 246,400,000
+        1989: 245,100,000
+        1988: 241,300,000
+        1987: 241,200,000
+
+    #Amount spent by the US on Medicare and Medicaid
+    amount_spend_on_medicare_and_medicaid:
+      source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
+      yearwise_expenditure_on_medicare_and_medicaid:
+        2018: "medicare: $750,182,000,000 ($750.2 Billion), medicaid: $597,387,000,000 ($597.4 Billion)"
+        2017: "medicare: $705,123,000,000 ($705.1 Billion), medicaid: $580,111,000,000 ($580.1 Billion)"
+        2016: "medicare: $676,772,000,000 ($676.8 Billion), medicaid: $565,380,000,000 ($565.4 Billion)"
+        2015: "medicare: $648,783,000,000 ($648.8 Billion), medicaid: $542,628,000,000 ($542.6 Billion)"
+        2014: "medicare: $618,549,000,000 ($618.5 Billion), medicaid: $497,767,000,000 ($497.8 Billion)"
+        2013: "medicare: $588,928,000,000 ($588.9 Billion), medicaid: $445,204,000,000 ($445.2 Billion)"
+        2012: "medicare: $568,477,000,000 ($568.5 Billion), medicaid: $422,904,000,000 ($422.9 Billion)"
+        2011: "medicare: $544,781,000,000 ($544.8 Billion), medicaid: $406,727,000,000 ($406.7 Billion)"
+        2010: "medicare: $519,783,000,000 ($519.8 Billion), medicaid: $397,410,000,000 ($397.4 Billion)"
+        2009: "medicare: $498,859,000,000 ($498.9 Billion), medicaid: $374,734,000,000 ($374.7 Billion)"
+        2008: "medicare: $466,971,000,000 ($466.9 Billion), medicaid: $344,423,000,000 ($344.4 Billion)"
+        2007: "medicare: $432,751,000,000 ($432.7 Billion), medicaid: $325,850,000,000 ($325.9 Billion)"
+        2006: "medicare: $403,690,000,000 ($403.7 Billion), medicaid: $306,680,000,000 ($306.7 Billion)"
+        2005: "medicare: $339,762,000,000 ($339.8 Billion), medicaid: $309,351,000,000 ($309.4 Billion)"
+        2004: "medicare: $311,122,000,000 ($311.1 Billion), medicaid: $290,743,000,000 ($290.7 Billion)"
+        2003: "medicare: $282,668,000,000 ($282.7 Billion), medicaid: $268,963,000,000 ($268.9 Billion)"
+        2002: "medicare: $265,381,000,000 ($265.4 Billion), medicaid: $248,100,000,000 ($248.1 Billion)"
+        2001: "medicare: $247,686,000,000 ($247.7 Billion), medicaid: $224,132,000,000 ($224.1 Billion)"
+        2000: "medicare: $224,829,000,000 ($224.8 Billion), medicaid: $200,383,000,000 ($200.4 Billion)"
+        1995: "medicare: $184,393,000,000 ($184.4 Billion), medicaid: $144,862,000,000 ($144.9 Billion)"
+        1990: "medicare: $110,182,000,000 ($110.2 Billion), medicaid: $73,661,000,000 ($73.7 Billion)"
+        1985: "medicare: $71,829,000,000 ($71.8 Billion), medicaid: $40,937,000,000 ($40.9 Billion)"
+        1980: "medicare: $37,387,000,000 ($37.4 Billion), medicaid: $26,032,000,000 ($26.0 Billion)"
+        1975: "medicare: $16,336,000,000 ($16.3 Billion), medicaid: $13,446,000,000 ($13.4 Billion)"
+        1970: "medicare: $7,672,000,000 ($7.7 Billion), medicaid: $5,290,000,000 ($5.3 Billion)"
+        1966: "medicare: $1,842,000,000 ($1.8 Billion), medicaid: $1,304,000,000 ($1.3 Billion)"
+
+    people_covered_by_medicare_and_medicaid_from_1987_to_2018:
+      source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
+      yearly_people_covered_by_medicare_and_medicaid:
+        2018: "medicare: 58,700,000 (58.7 million), medicaid: 72,800,000 (72.8 million)"
+        2017: "medicare: 57,200,000 (57.2 million), medicaid: 72,100,000 (72.1 million)"
+        2016: "medicare: 55,800,000 (55.8 million), medicaid: 71,100,000 (71.1 million)"
+        2015: "medicare: 54,300,000 (54.3 million), medicaid: 69,300,000 (69.3 million)"
+        2014: "medicare: 52,800,000 (52.8 million), medicaid: 65,600,000 (65.6 million)"
+        2013: "medicare: 51,300,000 (51.3 million), medicaid: 59,100,000 (59.1 million)"
+        2012: "medicare: 49,700,000 (49.7 million), medicaid: 58,100,000 (58.1 million)"
+        2011: "medicare: 47,700,000 (47.7 million), medicaid: 56,200,000 (56.2 million)"
+        2010: "medicare: 46,600,000 (46.6 million), medicaid: 54,000,000 (54 million)"
+        2009: "medicare: 45,500,000 (45.5 million), medicaid: 50,900,000 (50.9 million)"
+        2008: "medicare: 44,400,000 (44.4 million), medicaid: 47,200,000 (47.2 million)"
+        2007: "medicare: 43,300,000 (43.3 million), medicaid: 45,600,000 (45.6 million)"
+        2006: "medicare: 42,400,000 (42.4 million), medicaid: 45,600,000 (45.6 million)"
+        2005: "medicare: 41,500,000 (41.5 million), medicaid: 45,800,000 (45.8 million)"
+        2004: "medicare: 40,800,000 (40.8 million), medicaid: 44,500,000 (44.5 million)"
+        2003: "medicare: 40,200,000 (40.2 million), medicaid: 43,000,000 (43 million)"
+        2002: "medicare: 39,600,000 (39.6 million), medicaid: 40,400,000 (40.4 million)"
+        2001: "medicare: 39,100,000 (39.1 million), medicaid: 36,800,000 (36.8 million)"
+        2000: "medicare: 38,800,000 (38.8 million), medicaid: 34,100,000 (34.1 million)"
+        1999: "medicare: 38,300,000 (38.3 million), medicaid: 32,200,000 (32.2 million)"
+        1998: "medicare: 38,000,000 (38 million), medicaid: 31,400,000 (31.4 million)"
+        1997: "medicare: 37,600,000 (37.6 million), medicaid: 31,800,000 (31.8 million)"
+        1996: "medicare: 37,300,000 (37.3 million), medicaid: 32,200,000 (32.2 million)"
+        1995: "medicare: 36,800,000 (36.8 million), medicaid: 32,300,000 (32.3 million)"
+        1994: "medicare: 36,200,000 (36.2 million), medicaid: 31,700,000 (31.7 million)"
+        1993: "medicare: 35,600,000 (35.6 million), medicaid: 30,500,000 (30.5 million)"
+        1992: "medicare: 34,900,000 (34.9 million), medicaid: 28,500,000 (28.5 million)"
+        1991: "medicare: 34,200,000 (34.2 million), medicaid: 25,900,000 (25.9 million)"
+        1990: "medicare: 33,500,000 (33.5 million), medicaid: 22,800,000 (22.8 million)"
+        1989: "medicare: 32,900,000 (32.9 million), medicaid: 20,800,000 (20.8 million)"
+        1988: "medicare: 32,300,000 (32.3 million), medicaid: 20,000,000 (20 million)"
+        1987: "medicare: 31,700,000 (31.7 million), medicaid: 20,000,000 (20 million)"
+
+    #We need to see how much is spent OUTSIDE of insurance. Including "out of pocket".
+    amount_spend_by_united_states_outside_of_insurance:
+      source: "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical#:~:text=U.S.%20health%20care%20spending%20grew,For%20additional%20information%2C%20see%20below."
+      amount:
+        2018: $ 375,610,000,000 ($ 375.6 Billion)
+        2017: $ 365,209,000,000 ($ 365.2 Billion)
+        2016: $ 357,217,000,000 ($ 357.2 Billion)
+        2015: $ 341,706,000,000 ($ 341.7 Billion)
+        2014: $ 331,766,000,000 ($ 331.8 Billion)
+        2013: $ 326,864,000,000 ($ 326.9 Billion)
+        2012: $ 319,236,000,000 ($ 319.2 Billion)
+        2011: $ 310,434,000,000 ($ 310.4 Billion)
+        2010: $ 300,223,000,000 ($ 300.2 Billion)
+        2009: $ 294,167,000,000 ($ 294.2 Billion)
+        2008: $ 295,573,000,000 ($ 295.6 Billion)
+        2007: $ 290,381,000,000 ($ 290.4 Billion)
+        2006: $ 273,611,000,000 ($ 273.6 Billion)
+        2005: $ 263,816,000,000 ($ 263.8 Billion)
+        2004: $ 248,495,000,000 ($ 248.5 Billion)
+        2003: $ 235,636,000,000 ($ 235.6 Billion)
+        2002: $ 219,274,000,000 ($ 219.3 Billion)
+        2001: $ 206,200,000,000 ($ 206.2 Billion)
+        2000: $ 198,886,000,000 ($ 198.9 Billion)
+        1999: $ 187,575,000,000 ($ 187.6 Billion)
+        1998: $ 176,811,000,000 ($ 176.8 Billion)
+        1997: $ 161,371,000,000 ($ 161.4 Billion)
+        1996: $ 150,353,000,000 ($ 150.4 Billion)
+        1995: $ 144,816,000,000 ($ 144.8 Billion)
+        1994: $ 142,035,000,000 ($ 142.0 Billion)
+        1993: $ 144,098,000,000 ($ 144.0 Billion)
+        1992: $ 143,178,000,000 ($ 143.2 Billion)
+        1991: $ 140,815,000,000 ($ 140.8 Billion)
+        1990: $ 137,882,000,000 ($ 137.9 Billion)
+        1989: $ 126,651,000,000 ($ 126.7 Billion)
+        1988: $ 120,217,000,000 ($ 120.2 Billion)
+        1987: $ 109,652,000,000 ($ 109.7 Billion)
+        1986: $ 103,610,000,000 ($ 103.6 Billion)
+        1985: $ 95,640,000,000 ($ 95.6 Billion)
+        1984: $ 86,500,000,000 ($ 86.5 Billion)
+        1983: $ 78,619,000,000 ($ 78.6 Billion)
+        1982: $ 72,450,000,000 ($ 72.5 Billion)
+        1981: $ 65,355,000,000 ($ 65.4 Billion)
+        1980: $ 58,146,000,000 ($ 58.1 Billion)
+        1979: $ 52,312,000,000 ($ 52.3 Billion)
+        1978: $ 48,016,000,000 ($ 48.0 Billion)
+        1977: $ 44,853,000,000 ($ 44.9 Billion)
+        1976: $ 40,647,000,000 ($ 40.7 Billion)
+        1975: $ 37,262,000,000 ($ 37.3 Billion)
+        1974: $ 34,373,000,000 ($ 34.4 Billion)
+        1973: $ 31,625,000,000 ($ 31.6 Billion)
+        1972: $ 28,646,000,000 ($ 28.6 Billion)
+        1971: $ 26,312,000,000 ($ 26.3 Billion)
+        1970: $ 24,953,000,000 ($ 24.9 Billion)
+        1969: $ 22,601,000,000 ($ 22.6 Billion)
+        1968: $ 20,500,000,000 ($ 20.5 Billion)
+        1967: $ 18,537,000,000 ($ 18.5 Billion)
+        1966: $ 18,594,000,000 ($ 18.6 Billion)
+        1965: $ 18,209,000,000 ($ 18.2 Billion)
+        1964: $ 16,928,000,000 ($ 16.9 Billion)
+        1963: $ 15,311,000,000 ($ 15.3 Billion)
+        1962: $ 14,255,000,000 ($ 14.3 Billion)
+        1961: $ 13,357,000,000 ($ 13.4 Billion)
+        1960: $ 12,949,000,000 ($ 12.9 Billion)
+
+    mean_nominal_monthly_earnings_of_employees_(earnings_includes_total_of_both_male_and_female,_united_states_dollar_currency,occupation(ISCO-08)-2._professionals): 
+      source:
+        - https://www.ilo.org/shinyapps/bulkexplorer55/?lang=en&segment=indicator&id=EAR_XEES_SEX_OCU_NB_A
+        - https://www.ilo.org/shinyapps/bulkexplorer55/?lang=en&segment=indicator&id=EAR_4MTH_SEX_OCU_CUR_NB_A
+      mean_nominal_monthly_earnings_of_employees:
+        united_states: "2019: $5847.65, 2017: $5508.32, 2016: $5412.1, 2014: $5135.04, 2013: $5114.04, 2011: $4920.09, 2010: $4839.42, 2008: $4710.95, 2007: $4564.52, 2005: $4285.07, 2004: $4149.03, 2002: $3952.26, 2001: $3847.28"
+
+        albania: "2019: $643.8, 2018: $628.66, 2017: $556.65, 2016: $520.59, 2015: $532.46"
+
+        angola: "2011: $1446.2"
+
+        argentina: "2019: $694.76, 2018: $848.3, 2017: $1115.95, 2014: $1014.67, 2013: $1160.84, 2012: $1112.24, 2011: $1014.95, 2010: $836.63, 2009: $742.15, 2008: $720.22, 2006: $452.18, 2005: $391.64, 2004: $344.19"
+
+        armenia: "2018: $255.77, 2017: $241.04, 2016: $220.06, 2015: $230.37, 2014: $249.19, 2013: $244.46"
+
+        aruba: "2010: $2862.01"
+
+        australia: "2016: $198931.61, 2014: $6042.84"
+
+        austria: "2017: $4489.35, 2015: $4215.04, 2014: $5375.11, 2013: $4941.93, 2012: $4902.75, 2011: $5141.88, 2010: $5105.33, 2009: $5773"
+
+        bangladesh: "2016: $272.35, 2017: $261.1"
+
+        belgium: "2016: $4913.54, 2015: $4908.49, 2014: $5862.67, 2013: $5740.13, 2011: $5876.84, 2009: $5676.76"
+
+        belize: "2019: $1410, 2018: $1333.73, 2017: $1095.95, 2016: $1049.66, 2015: $1029.53, 2014: $940.13"
+
+        bolivia: "2018: $638.58, 2017: $604.97, 2016: $575.72, 2014: $527.45, 2013: $498.94, 2012: $452.41, 2011: $413.7, 2009: $350.43, 2008: $373.19, 2007: $348.34, 2006: $311.7, 2005: $258.09"
+
+        bosnia_and_herzegovina: "2019: $641.07, 2018: $642.37, 2017: $579.88, 2016: $559.79, 2015: $605.4, 2014: $703.63, 2013: $697.21, 2012: $648.04, 2011: $708.75, 2010: $696.4"
 
-      botswana: "2019: $1287.16"
+        botswana: "2019: $1287.16"
 
-      brazil: "2019: $1268.56, 2018: $1308.52, 2017: $1424.28, 2016: $1237.97, 2015: $1138.95, 2014: $1499.85, 2013: $1485.5, 2012: $1538.3"
+        brazil: "2019: $1268.56, 2018: $1308.52, 2017: $1424.28, 2016: $1237.97, 2015: $1138.95, 2014: $1499.85, 2013: $1485.5, 2012: $1538.3"
 
-      brunei_darussalam: "2014: $2742.9"
+        brunei_darussalam: "2014: $2742.9"
 
-      bulgaria: "2018: $1037.39, 2017: $894.86, 2016: $803.15, 2015: $744.73, 2014: $838.43, 2013: $796.03, 2011: $743.71, 2010: $702.59, 2009: $712.31"
+        bulgaria: "2018: $1037.39, 2017: $894.86, 2016: $803.15, 2015: $744.73, 2014: $838.43, 2013: $796.03, 2011: $743.71, 2010: $702.59, 2009: $712.31"
 
-      burkina_faso: "2018: $314.41"
+        burkina_faso: "2018: $314.41"
 
-      cambodia: "2016: $261.31, 2015: $236.15, 2014: $197.27, 2013: $179.68, 2012: $129.33, 2011: $151.28, 2010: $136.47, 2009: $121.27, 2008: $141.4, 2007: $138.05"
+        cambodia: "2016: $261.31, 2015: $236.15, 2014: $197.27, 2013: $179.68, 2012: $129.33, 2011: $151.28, 2010: $136.47, 2009: $121.27, 2008: $141.4, 2007: $138.05"
 
-      cameroon: "2014: $416.47"
+        cameroon: "2014: $416.47"
 
-      cape_verde: "2015: $537.74"
+        cape_verde: "2015: $537.74"
 
-      chad: "2018: $302.52"
+        chad: "2018: $302.52"
 
-      chile: "2017: $1984.32"
+        chile: "2017: $1984.32"
 
-      colombia: "2009:$0.85, 2008:$0.88"
+        colombia: "2009:$0.85, 2008:$0.88"
 
-      comoros: "2014: $279.12, 2004: $348"
+        comoros: "2014: $279.12, 2004: $348"
 
-      democratic_republic_of_the_congo: "2012: $126.53"
+        democratic_republic_of_the_congo: "2012: $126.53"
 
-      costa_rica: "2019: $2172.29, 2018: $170.73, 2017: $2054.31, 2016: $1470.56, 2015: $1593.21, 2014: $1920.65, 2013: $2090.57, 2012: $1860.76, 2011: $1796.12"
+        costa_rica: "2019: $2172.29, 2018: $170.73, 2017: $2054.31, 2016: $1470.56, 2015: $1593.21, 2014: $1920.65, 2013: $2090.57, 2012: $1860.76, 2011: $1796.12"
 
-      côte_d_ivoire: "2017: $465.48"
+        côte_d_ivoire: "2017: $465.48"
 
-      croatia: "2014: $1938.01"
+        croatia: "2014: $1938.01"
 
-      curaçao: "2018: $2153.29"
+        curaçao: "2018: $2153.29"
 
-      cyprus: "2014: $3529.83, 2010: $3979.8"
+        cyprus: "2014: $3529.83, 2010: $3979.8"
 
-      czechia: "2018: $2180.5, 2017: $1883.7, 2016: $1675.78, 2015: $1604.63, 2014: $1836.2, 2013: $1900.45, 2012: $1873.83, 2011: $2010.24"
+        czechia: "2018: $2180.5, 2017: $1883.7, 2016: $1675.78, 2015: $1604.63, 2014: $1836.2, 2013: $1900.45, 2012: $1873.83, 2011: $2010.24"
 
-      denmark: "2014: $6663.56"
+        denmark: "2014: $6663.56"
 
-      dominican_republic: "2019: $447.87, 2018: $531.4, 2017: $413.07, 2016: $405.74, 2015: $516.72"
+        dominican_republic: "2019: $447.87, 2018: $531.4, 2017: $413.07, 2016: $405.74, 2015: $516.72"
 
-      ecuador: "2013: $793.84, 2014: $879.59, 2015: $886.64, 2016: $891.5, 2017: $903.63, 2018: $935.68, 2019: $918.14"
+        ecuador: "2013: $793.84, 2014: $879.59, 2015: $886.64, 2016: $891.5, 2017: $903.63, 2018: $935.68, 2019: $918.14"
 
-      egypt: "2018: $132.3, 2016: $443.56, 2015: $269.53, 2010: $146.42, 2009: $13.83"
+        egypt: "2018: $132.3, 2016: $443.56, 2015: $269.53, 2010: $146.42, 2009: $13.83"
 
-      el_salvador: "2019: $652.21, 2018: $608.59, 2017: $657.45, 2016: $580.8, 2015: $649.39, 2014: $666.42, 2013: $605.37"
+        el_salvador: "2019: $652.21, 2018: $608.59, 2017: $657.45, 2016: $580.8, 2015: $649.39, 2014: $666.42, 2013: $605.37"
 
-      estonia: "2014: $1785.51, 2010: $1423.82"
+        estonia: "2014: $1785.51, 2010: $1423.82"
 
-      eswatini: "2016: $527.41"
+        eswatini: "2016: $527.41"
 
-      ethiopia: "2013: $111.18"
+        ethiopia: "2013: $111.18"
 
-      fiji: "2016: $884.85, 2011: $996.61"
+        fiji: "2016: $884.85, 2011: $996.61"
 
-      finland: "2019: $4678.28, 2018: $4873.8, 2017: $4653.16, 2015: $4561.21, 2014: $5416.3, 2013: $5360.28, 2011: $5336.76, 2010: $5078.82, 2009: $5277.86"
+        finland: "2019: $4678.28, 2018: $4873.8, 2017: $4653.16, 2015: $4561.21, 2014: $5416.3, 2013: $5360.28, 2011: $5336.76, 2010: $5078.82, 2009: $5277.86"
 
-      france: "2014: $4817.14, 2010: $4744.74"
+        france: "2014: $4817.14, 2010: $4744.74"
 
-      gambia: "2012: $146.43"
+        gambia: "2012: $146.43"
 
-      germany: "2014: $6131.03, 2010: $5740.35"
+        germany: "2014: $6131.03, 2010: $5740.35"
 
-      ghana: "2015: $276.24, 2013: $510.98"
+        ghana: "2015: $276.24, 2013: $510.98"
 
-      greece: "2018: $1303.18, 2017: $1231.01, 2016: $1197.89, 2015: $1173.31, 2014: $2575.96, 2013: $1471, 2012: $1454.59, 2011: $1783.22, 2010: $2935.14"
+        greece: "2018: $1303.18, 2017: $1231.01, 2016: $1197.89, 2015: $1173.31, 2014: $2575.96, 2013: $1471, 2012: $1454.59, 2011: $1783.22, 2010: $2935.14"
 
-      guatemala: "2018: $699.81, 2012: $545.14, 2011: $439.29, 2010: $463.38"
+        guatemala: "2018: $699.81, 2012: $545.14, 2011: $439.29, 2010: $463.38"
 
-      guyana: "2018: $482.89"
+        guyana: "2018: $482.89"
 
-      honduras: "2019: $638.92, 2018: $632.73, 2017: $618.07, 2016: $648.11, 2015: $687.58"
+        honduras: "2019: $638.92, 2018: $632.73, 2017: $618.07, 2016: $648.11, 2015: $687.58"
 
-      hong_kong(china): "2016: $5153.15, 2015: $4902.12, 2014: $4694.3, 2013: $4589.99, 2012: $4512.39, 2011: $4111"
+        hong_kong(china): "2016: $5153.15, 2015: $4902.12, 2014: $4694.3, 2013: $4589.99, 2012: $4512.39, 2011: $4111"
 
-      hungary: "2016: $1371.75, 2015: $1367.38, 2014: $1548.59, 2013: $1516.91, 2012: $1433.08, 2011: $1619.58, 2010: $1562.93"
+        hungary: "2016: $1371.75, 2015: $1367.38, 2014: $1548.59, 2013: $1516.91, 2012: $1433.08, 2011: $1619.58, 2010: $1562.93"
 
-      iceland: "2018: $7331.47, 2017: $7113.47, 2016: $5835.53, 2015: $4980.34, 2014: $5189.81"
+        iceland: "2018: $7331.47, 2017: $7113.47, 2016: $5835.53, 2015: $4980.34, 2014: $5189.81"
 
-      indonesia: "2019: $235.1, 2017: $253.99"
+        indonesia: "2019: $235.1, 2017: $253.99"
 
-      ireland: "2014: $6868.35, 2010: $6142.05"
+        ireland: "2014: $6868.35, 2010: $6142.05"
 
-      israel: "2018: $4328.57, 2016: $3603.37, 2015: $3554.31, 2014: $3857.54, 2013: $3636.91, 2012: $3763.45"
+        israel: "2018: $4328.57, 2016: $3603.37, 2015: $3554.31, 2014: $3857.54, 2013: $3636.91, 2012: $3763.45"
 
-      italy: "2014: $4224.63, 2010: $4244.94"
+        italy: "2014: $4224.63, 2010: $4244.94"
 
-      jordan: "2019: $625.03, 2018: $634.84, 2017: $707.72, 2016: $876.06"
+        jordan: "2019: $625.03, 2018: $634.84, 2017: $707.72, 2016: $876.06"
 
-      kazakhstan: "2017: $502.15, 2015: $656.43, 2010: $527.36, 2009: $484.99"
+        kazakhstan: "2017: $502.15, 2015: $656.43, 2010: $527.36, 2009: $484.99"
 
-      kenya: "2006: $363.24"
+        kenya: "2006: $363.24"
 
-      republic_of_korea: "2018: $3716.49, 2017: $3505.76, 2016: $3341.85, 2015: $3340.83, 2014: $3474.96"
+        republic_of_korea: "2018: $3716.49, 2017: $3505.76, 2016: $3341.85, 2015: $3340.83, 2014: $3474.96"
 
-      lao_people's_democratic_republic: "2017: $283.49, 2010: $148.57"
+        lao_people's_democratic_republic: "2017: $283.49, 2010: $148.57"
 
-      latvia: "2014: $1320.53, 2010: $1068.53"
+        latvia: "2014: $1320.53, 2010: $1068.53"
 
-      lebanon: "2019: $1102.52"
+        lebanon: "2019: $1102.52"
 
-      liberia: "2014: $115.07, 2012: $85.72, 2010: $4.09"
+        liberia: "2014: $115.07, 2012: $85.72, 2010: $4.09"
 
-      lithuania: "2018: $1402.27"
+        lithuania: "2018: $1402.27"
 
-      luxembourg: "2018: $5616.53, 2014: $7676.08, 2010: $6913.61"
+        luxembourg: "2018: $5616.53, 2014: $7676.08, 2010: $6913.61"
 
-      madagascar: "2015: $88.74"
+        madagascar: "2015: $88.74"
 
-      malawi: "2013: $134.55"
+        malawi: "2013: $134.55"
 
-      malaysia: "2018: $1344.19, 2017: $1182.2, 2016: $1151.31, 2015: $1211.88, 2014: $1344.7, 2013: $1306.29, 2012: $1236.08, 2011: $1138.89"
+        malaysia: "2018: $1344.19, 2017: $1182.2, 2016: $1151.31, 2015: $1211.88, 2014: $1344.7, 2013: $1306.29, 2012: $1236.08, 2011: $1138.89"
 
-      maldives: "2016: $835.65"
+        maldives: "2016: $835.65"
 
-      mali: "2014: $281.86, 2013: $159.1"
+        mali: "2014: $281.86, 2013: $159.1"
 
-      malta: "2014: $2823.06, 2010: $2241.79"
+        malta: "2014: $2823.06, 2010: $2241.79"
 
-      mauritius: "2018: $1051.28, 2017: $1053.4, 2016: $1003.17, 2015: $990.47, 2014: $1146.53, 2013: $986.67, 2012: $967.65, 2011: $927.21"
+        mauritius: "2018: $1051.28, 2017: $1053.4, 2016: $1003.17, 2015: $990.47, 2014: $1146.53, 2013: $986.67, 2012: $967.65, 2011: $927.21"
 
-      mexico: "2019: $585.35, 2018: $563.71, 2017: $552.14, 2016: $549.91, 2015: $633.28, 2014: $720.71, 2013: $751.98"
+        mexico: "2019: $585.35, 2018: $563.71, 2017: $552.14, 2016: $549.91, 2015: $633.28, 2014: $720.71, 2013: $751.98"
 
-      republic_of_moldova: "2018: $245.8"
+        republic_of_moldova: "2018: $245.8"
 
-      mongolia: "2019: $504.93, 2018: $460.35, 2017: $431.88, 2016: $451.87, 2015: $464.14, 2014: $490.19, 2012: $493.62, 2011: $381.82"
+        mongolia: "2019: $504.93, 2018: $460.35, 2017: $431.88, 2016: $451.87, 2015: $464.14, 2014: $490.19, 2012: $493.62, 2011: $381.82"
 
-      montenegro: "2014: $1308.57"
+        montenegro: "2014: $1308.57"
 
-      myanmar: "2015: $142.81"
+        myanmar: "2015: $142.81"
 
-      nepal: "2017: $201.56"
+        nepal: "2017: $201.56"
 
-      netherlands: "2010: $5039.05, 2014: $5157.24"
+        netherlands: "2010: $5039.05, 2014: $5157.24"
 
-      north_macedonia: "2010: $865.32, 2014: $901.61"
+        north_macedonia: "2010: $865.32, 2014: $901.61"
 
-      norway: "2019: $6163.64, 2018: $6438.36, 2017: $6148.7, 2015: $6696.29, 2014: $8362.87, 2013: $8714.89, 2012: $8526, 2011: $8546.54, 2010: $7594.1, 2009: $7060.69"
+        norway: "2019: $6163.64, 2018: $6438.36, 2017: $6148.7, 2015: $6696.29, 2014: $8362.87, 2013: $8714.89, 2012: $8526, 2011: $8546.54, 2010: $7594.1, 2009: $7060.69"
 
-      pakistan: "2018: $260.64, 2017: $300.45, 2016: $255.89, 2015: $261.42, 2014: $248.66, 2013: $207.44"
+        pakistan: "2018: $260.64, 2017: $300.45, 2016: $255.89, 2015: $261.42, 2014: $248.66, 2013: $207.44"
 
-      palau: "2000: $1149.63"
+        palau: "2000: $1149.63"
 
-      panama: "2019: $1575.1, 2018: $1455.06, 2017: $1518.85, 2016: $1342.7, 2015: $1268.53, 2014: $1159.38, 2013: $1148.5, 2012: $1121.53, 2011: $1031.27"
+        panama: "2019: $1575.1, 2018: $1455.06, 2017: $1518.85, 2016: $1342.7, 2015: $1268.53, 2014: $1159.38, 2013: $1148.5, 2012: $1121.53, 2011: $1031.27"
 
-      paraguay: "2019: $620.21, 2018: $666.68, 2017: $666.94, 2016: $622.53, 2015: $618.74, 2014: $745.13, 2013: $688.35, 2012: $632.49, 2011: $631.83, 2010: $467.29, 2009: $438.29, 2008: $447.26, 2007: $350.26, 2006: $313.71, 2005: $247.87, 2004: $218.51, 2003: $233.88, 2002: $216.84"
+        paraguay: "2019: $620.21, 2018: $666.68, 2017: $666.94, 2016: $622.53, 2015: $618.74, 2014: $745.13, 2013: $688.35, 2012: $632.49, 2011: $631.83, 2010: $467.29, 2009: $438.29, 2008: $447.26, 2007: $350.26, 2006: $313.71, 2005: $247.87, 2004: $218.51, 2003: $233.88, 2002: $216.84"
 
-      philippines: "2019: $566.38, 2018: $519.97, 2017: $521.64, 2006: $307.05"
+        philippines: "2019: $566.38, 2018: $519.97, 2017: $521.64, 2006: $307.05"
 
-      poland: "2016: $1355.13, 2014: $1598.65, 2010: $1435.12"
+        poland: "2016: $1355.13, 2014: $1598.65, 2010: $1435.12"
 
-      portugal: "2018: $1567.13, 2017: $1453.9, 2016: $1404.66, 2015: $1413.52, 2014: $2707.48, 2013: $2404.45, 2012: $1771.72, 2011: $1934.82, 2010: $2892.71, 2009: $1993.14, 2008: $2110.53, 2007: $1983.08"
+        portugal: "2018: $1567.13, 2017: $1453.9, 2016: $1404.66, 2015: $1413.52, 2014: $2707.48, 2013: $2404.45, 2012: $1771.72, 2011: $1934.82, 2010: $2892.71, 2009: $1993.14, 2008: $2110.53, 2007: $1983.08"
 
-      qatar: "2012: $5697.25, 2011: $4927.75, 2009: $4171.98"
+        qatar: "2012: $5697.25, 2011: $4927.75, 2009: $4171.98"
 
-      réunion: "2012:$6464.99"
+        réunion: "2012:$6464.99"
 
-      romania: "2014:$1026.82"
+        romania: "2014:$1026.82"
 
-      russian_federation: "2019: $754.55, 2017: $743.21, 2015: $607.56, 2009: $633.86"
+        russian_federation: "2019: $754.55, 2017: $743.21, 2015: $607.56, 2009: $633.86"
 
-      rwanda: "2017: $235.84, 2014: $341.03"
+        rwanda: "2017: $235.84, 2014: $341.03"
 
-      samoa: "2017: $698.03, 2012: $720.83"
+        samoa: "2017: $698.03, 2012: $720.83"
 
-      saudi_arabia: "2014: $2889.33"
+        saudi_arabia: "2014: $2889.33"
 
-      serbia: "2019: $547.18, 2018: $542.27, 2017: $480.14, 2016: $458.22, 2015: $458.61, 2014: $1053.16"
+        serbia: "2019: $547.18, 2018: $542.27, 2017: $480.14, 2016: $458.22, 2015: $458.61, 2014: $1053.16"
 
-      singapore: "2019: $5503.76, 2018: $5444.67, 2017: $5232, 2016: $5045.8, 2015: $4964.27, 2014: $4996.65, 2013: $4866.94, 2012: $4560.38, 2011: $4403.01"
+        singapore: "2019: $5503.76, 2018: $5444.67, 2017: $5232, 2016: $5045.8, 2015: $4964.27, 2014: $4996.65, 2013: $4866.94, 2012: $4560.38, 2011: $4403.01"
 
-      slovakia: "2019: $1736.3, 2018: $1717.65, 2017: $1565.7, 2016: $1451.15, 2015: $1393.55, 2014: $1599.44, 2013: $1499.45, 2012: $1392.71, 2011: $1506.1, 2010: $1423.82, 2009: $1449.18"
+        slovakia: "2019: $1736.3, 2018: $1717.65, 2017: $1565.7, 2016: $1451.15, 2015: $1393.55, 2014: $1599.44, 2013: $1499.45, 2012: $1392.71, 2011: $1506.1, 2010: $1423.82, 2009: $1449.18"
 
-      slovenia: "2018: $2885.07, 2017: $2533.87, 2016: $2603.44, 2015: $2567.41, 2014: $2970.53, 2011: $3251.61, 2010: $2955.02, 2009: $3351.66"
+        slovenia: "2018: $2885.07, 2017: $2533.87, 2016: $2603.44, 2015: $2567.41, 2014: $2970.53, 2011: $3251.61, 2010: $2955.02, 2009: $3351.66"
 
-      south_africa: "2019: $1522.66, 2018: $1511.27, 2013: $2696.81, 2012: $2368.46, 2011: $2286.14"
+        south_africa: "2019: $1522.66, 2018: $1511.27, 2013: $2696.81, 2012: $2368.46, 2011: $2286.14"
 
-      spain: "2018: $3395.24, 2017: $3187.96, 2016: $3160.71, 2015: $3205.75, 2014: $3794.9, 2013: $3728.04, 2012: $3595.35, 2011: $3895.01"
+        spain: "2018: $3395.24, 2017: $3187.96, 2016: $3160.71, 2015: $3205.75, 2014: $3794.9, 2013: $3728.04, 2012: $3595.35, 2011: $3895.01"
 
-      sri_lanka: "2018: $287.49, 2017: $296.97, 2016: $306.71, 2015: $294.64, 2014: $234.07, 2013: $234.41"
+        sri_lanka: "2018: $287.49, 2017: $296.97, 2016: $306.71, 2015: $294.64, 2014: $234.07, 2013: $234.41"
 
-      sweden: "2018: $4693.69, 2017: $4643.89, 2016: $4496.62, 2015: $4457.7, 2014: $5425.47"
+        sweden: "2018: $4693.69, 2017: $4643.89, 2016: $4496.62, 2015: $4457.7, 2014: $5425.47"
 
-      switzerland: "2015: $7316.92, 2014: $10216.66"
+        switzerland: "2015: $7316.92, 2014: $10216.66"
 
-      tajikistan: "2009: $82.53"
+        tajikistan: "2009: $82.53"
 
-      united_republic_of_tanzania: "2014: $553.5"
+        united_republic_of_tanzania: "2014: $553.5"
 
-      thailand: "2019: $945.26, 2018: $896.74, 2017: $854.27, 2016: $818.78, 2015: $629.63, 2014: $867.37, 2012: $741.43, 2011: $751.74"
+        thailand: "2019: $945.26, 2018: $896.74, 2017: $854.27, 2016: $818.78, 2015: $629.63, 2014: $867.37, 2012: $741.43, 2011: $751.74"
 
-      timor-leste: "2016: $293.16, 2013: $1005.02, 2010: $205.15"
+        timor-leste: "2016: $293.16, 2013: $1005.02, 2010: $205.15"
 
-      togo: "2017: $273.21, 2015: $524.36, 2014: $573.83, 2011: $346.56"
+        togo: "2017: $273.21, 2015: $524.36, 2014: $573.83, 2011: $346.56"
 
-      tonga: "2018: $591.64"
+        tonga: "2018: $591.64"
 
-      turkey: "2018: $1226.02, 2014: $2083.58, 2010: $1785.28"
+        turkey: "2018: $1226.02, 2014: $2083.58, 2010: $1785.28"
 
-      uganda: "2017: $116.3, 2012: $170.18"
+        uganda: "2017: $116.3, 2012: $170.18"
 
-      ukraine: "2016: $216.7"
+        ukraine: "2016: $216.7"
 
-      united_arab_emirates: "2009: $3727.35"
+        united_arab_emirates: "2009: $3727.35"
 
-      united_kingdom: "2019: $4217.27, 2018: $4329.37, 2017: $4072.19, 2016: $4184.25, 2015: $4658.19, 2013: $4694.68, 2012: $4708.97, 2011: $4755.34"
+        united_kingdom: "2019: $4217.27, 2018: $4329.37, 2017: $4072.19, 2016: $4184.25, 2015: $4658.19, 2013: $4694.68, 2012: $4708.97, 2011: $4755.34"
 
-      uruguay: " 2019: $1497.56, 2018: $1599.56, 2017: $1615.35, 2016: $1244.64, 2015: $1394.05, 2014: $1499.5, 2013: $1501.67, 2012: $1341.32, 2011: $1305.99"
+        uruguay: " 2019: $1497.56, 2018: $1599.56, 2017: $1615.35, 2016: $1244.64, 2015: $1394.05, 2014: $1499.5, 2013: $1501.67, 2012: $1341.32, 2011: $1305.99"
 
-      vanuatu: "2010: $563.09"
+        vanuatu: "2010: $563.09"
 
-      viet_nam: "2019: $396.17, 2018: $357.37, 2017: $339.98, 2016: $369.56, 2015: $351.89, 2014: $311.7, 2013: $299.39, 2012: $278.22, 2011: $225.83, 2010: $205.75, 2009: $49.39"
+        viet_nam: "2019: $396.17, 2018: $357.37, 2017: $339.98, 2016: $369.56, 2015: $351.89, 2014: $311.7, 2013: $299.39, 2012: $278.22, 2011: $225.83, 2010: $205.75, 2009: $49.39"
 
-      yemen: "2010 : $304.27"
+        yemen: "2010 : $304.27"
 
-      zambia: "2017: $735.86"
+        zambia: "2017: $735.86"
 
-  average_hip_replacement_cost:
-    source: "https://www.investopedia.com/articles/personal-finance/072116/us-healthcare-costs-compared-other-countries.asp"
-    average_cost:
-      united_states: $29,067
-      australia: $19,484
-      switzerland: $17,112
-      united_kingdom: $16,335
-      spain: $6,757
+    average_hip_replacement_cost:
+      source: "https://www.investopedia.com/articles/personal-finance/072116/us-healthcare-costs-compared-other-countries.asp"
+      average_cost:
+        united_states: $29,067
+        australia: $19,484
+        switzerland: $17,112
+        united_kingdom: $16,335
+        spain: $6,757
 
-  average_prices_of_magnetic_resonance_imaging_(MRI)_in_2017:
-    source: "https://www.statista.com/statistics/312020/price-of-mri-diagnostics-by-country/"
-    average_prices:
-      united_states: $1,430
-      united_arab_emirates: $450
-      united_kingdom: $450
-      switzerland: $310
-      netherlands: $190
+    average_prices_of_magnetic_resonance_imaging_(MRI)_in_2017:
+      source: "https://www.statista.com/statistics/312020/price-of-mri-diagnostics-by-country/"
+      average_prices:
+        united_states: $1,430
+        united_arab_emirates: $450
+        united_kingdom: $450
+        switzerland: $310
+        netherlands: $190
 
-  ? comparision_between_united_states_and_other_countries_on_healthcare_spending_based_on_percentage(%)_of_GDP
-  : source: "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/us-health-care-global-perspective-2019#:~:text=Data%3A%20OECD%20Health%20Statistics%202019.&text=In%202018%2C%20the%20U.S.%20spent,%2C%20Switzerland%2C%20spent%2012.2%20percent."
-    yearly_comparison_of_gdp(%)_with_US_and_other_countries:
-      2018: "United States: 16.9, Switzerland: 12.2, Germany: 11.2, France: 11.2, Sweden: 11, Canada: 10.7, Norway: 10.2, Netherlands: 9.9, United Kingdom: 9.8, Australia: 9.3, New Zealand: 9.3"
-      2017: "United States: 17.1, Switzerland: 12.3, Germany: 11.2, France: 11.3, Sweden: 11, Canada: 10.7, Norway: 10.4, Netherlands: 10.1, United Kingdom: 9.6, Australia: 9.2, New Zealand: 9.1"
-      2016: "United States: 17.121, Switzerland: 12.221, Germany: 11.131, France: 11.508, Sweden: 10.976, Canada: 10.82, Norway: 10.519, Netherlands: 10.301, United Kingdom: 9.699, Australia: 9.196, New Zealand: 9.292"
-      2015: "United States: 16.749, Switzerland: 11.884, Germany: 11.088, France: 11.459, Sweden: 11.004, Canada: 10.584, Norway: 10.109, Netherlands: 10.324, United Kingdom: 9.687, Australia: 9.315, New Zealand: 9.328"
-      2014: "United States: 16.443, Switzerland: 11.494, Germany: 10.96, France: 11.571, Sweden: 11.13, Canada: 10.121, Norway: 9.328, Netherlands: 10.567, United Kingdom: 9.757, Australia: 9.038, New Zealand: 9.424"
-      2013: "United States: 16.257, Switzerland: 11.314, Germany: 10.932, France: 11.436, Sweden: 11.089, Canada: 10.287, Norway: 8.917, Netherlands: 10.584, United Kingdom: 9.766, Australia: 8.759, New Zealand: 9.366"
-      2012: "United States: 16.32, Switzerland: 11.05, Germany: 10.77, France: 11.31, Sweden: 10.92, Canada: 10.40, Norway: 8.76, Netherlands: 10.53, United Kingdom: 8.28, Australia: 8.67, New Zealand: 9.652"
-      2011: "United States: 16.35, Switzerland: 10.769, Germany: 10.721, France: 11.203, Sweden: 10.666, Canada: 10.403, Norway: 8.779, Netherlands: 10.234, United Kingdom: 8.376, Australia: 8.542, New Zealand: 9.51"
-      2010: "United States: 16.382, Switzerland: 10.699, Germany: 11.005, France: 11.239, Sweden: 8.477, Canada: 10.728, Norway: 8.898: Netherlands: 10.155, United Kingdom: 8.434, Australia: 8.431, New Zealand: 9.588"
-      2009: "United States: 16.31, Switzerland: 10.809, Germany: 11.14, France: 11.301, Sweden: 8.935, Canada: 10.756, Norway: 9.064, Netherlands: 9.993, United Kingdom: 8.482, Australia: 8.563, New Zealand: 9.624"
-      2008: "United States: 15.301, Switzerland: 10.151, Germany: 10.157, France: 10.514, Sweden: 8.303, Canada: 9.639, Norway: 7.956, Netherlands: 9.277, United Kingdom: 7.646, Australia: 8.256, New Zealand: 9.114"
-      2007: "United States: 14.926, Switzerland: 10.016, Germany: 9.971, France: 10.335, Sweden: 8.064, Canada: 9.476, Norway: 8.048, Netherlands: 9.053, United Kingdom: 7.406, Australia: 8.068, New Zealand: 8.321"
-      2006: "United States: 14.703, Switzerland: 10.214, Germany: 10.117, France: 10.398, Sweden: 8.151, Canada: 9.375, Norway: 7.916, Netherlands: 9.081, United Kingdom: 7.308, Australia: 7.989, New Zealand: 8.633"
-      2005: "United States: 14.606, Switzerland: 10.822, Germany: 10.228, France: 10.215, Sweden: 8.268, Canada: 9.035, Norway: 8.333, Netherlands: 9.097, United Kingdom: 7.175, Australia: 7.99, New Zealand: 8.273"
-      2004: "United States: 14.61, Switzerland: 11.004, Germany: 10.08, France: 10.164, Sweden: 8.252, Canada: 9.066, Norway: 8.826, Netherlands: 9.111, United Kingdom: 7.036, Australia: 8.109, New Zealand: 7.901"
-      2003: "United States: 14.522, Switzerland: 10.936, Germany: 10.338, France: 10.083, Sweden: 8.453, Canada: 9.011, Norway: 9.219, Netherlands: 9.057, United Kingdom: 6.833, Australia: 7.904, New Zealand: 7.722"
-      2002: "United States: 14.007, Switzerland: 10.641, Germany: 10.117, France: 10.022, Sweden: 8.349, Canada: 8.857, Norway: 9.005, Netherlands: 8.649, United Kingdom: 6.568, Australia: 7.893, New Zealand: 7.9"
-      2001: "United States: 13.219, Switzerland: 10.231, Germany: 9.872, France: 9.706, Sweden: 8.022, Canada: 8.625, Norway: 8.021, Netherlands: 8.059, United Kingdom: 6.311, Australia: 7.696, New Zealand: 7.579"
-      2000: "United States: 12.542, Switzerland: 9.844, Germany: 9.837, France: 9.584, Sweden: 7.402, Canada: 8.248, Norway: 7.709, Netherlands: 7.707, United Kingdom: 5.972, Australia: 7.614, New Zealand: 7.47"
-      1990: "United States: 11.304, Switzerland: 7.852, Germany: 8.031, France: 7.997, Sweden: 7.248, Canada: 8.364, Norway: 7.075, Netherlands: 6.992, United Kingdom: 5.09, Australia: 6.48, New Zealand: 6.664"
-      1980: "United States: 8.241, Switzerland: 6.631, Germany: 8.098, France: 6.759, Sweden: 7.827, Canada: 6.536, Norway: 5.41, Netherlands: 6.514, United Kingdom: 5.063, Australia: 5.83, New Zealand: 5.762"
+    comparision_between_united_states_and_other_countries_on_healthcare_spending_based_on_percentage(%)_of_GDP: 
+      source: "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/us-health-care-global-perspective-2019#:~:text=Data%3A%20OECD%20Health%20Statistics%202019.&text=In%202018%2C%20the%20U.S.%20spent,%2C%20Switzerland%2C%20spent%2012.2%20percent."
+      yearly_comparison_of_gdp(%)_with_US_and_other_countries:
+        2018: "United States: 16.9, Switzerland: 12.2, Germany: 11.2, France: 11.2, Sweden: 11, Canada: 10.7, Norway: 10.2, Netherlands: 9.9, United Kingdom: 9.8, Australia: 9.3, New Zealand: 9.3"
+        2017: "United States: 17.1, Switzerland: 12.3, Germany: 11.2, France: 11.3, Sweden: 11, Canada: 10.7, Norway: 10.4, Netherlands: 10.1, United Kingdom: 9.6, Australia: 9.2, New Zealand: 9.1"
+        2016: "United States: 17.121, Switzerland: 12.221, Germany: 11.131, France: 11.508, Sweden: 10.976, Canada: 10.82, Norway: 10.519, Netherlands: 10.301, United Kingdom: 9.699, Australia: 9.196, New Zealand: 9.292"
+        2015: "United States: 16.749, Switzerland: 11.884, Germany: 11.088, France: 11.459, Sweden: 11.004, Canada: 10.584, Norway: 10.109, Netherlands: 10.324, United Kingdom: 9.687, Australia: 9.315, New Zealand: 9.328"
+        2014: "United States: 16.443, Switzerland: 11.494, Germany: 10.96, France: 11.571, Sweden: 11.13, Canada: 10.121, Norway: 9.328, Netherlands: 10.567, United Kingdom: 9.757, Australia: 9.038, New Zealand: 9.424"
+        2013: "United States: 16.257, Switzerland: 11.314, Germany: 10.932, France: 11.436, Sweden: 11.089, Canada: 10.287, Norway: 8.917, Netherlands: 10.584, United Kingdom: 9.766, Australia: 8.759, New Zealand: 9.366"
+        2012: "United States: 16.32, Switzerland: 11.05, Germany: 10.77, France: 11.31, Sweden: 10.92, Canada: 10.40, Norway: 8.76, Netherlands: 10.53, United Kingdom: 8.28, Australia: 8.67, New Zealand: 9.652"
+        2011: "United States: 16.35, Switzerland: 10.769, Germany: 10.721, France: 11.203, Sweden: 10.666, Canada: 10.403, Norway: 8.779, Netherlands: 10.234, United Kingdom: 8.376, Australia: 8.542, New Zealand: 9.51"
+        2010: "United States: 16.382, Switzerland: 10.699, Germany: 11.005, France: 11.239, Sweden: 8.477, Canada: 10.728, Norway: 8.898: Netherlands: 10.155, United Kingdom: 8.434, Australia: 8.431, New Zealand: 9.588"
+        2009: "United States: 16.31, Switzerland: 10.809, Germany: 11.14, France: 11.301, Sweden: 8.935, Canada: 10.756, Norway: 9.064, Netherlands: 9.993, United Kingdom: 8.482, Australia: 8.563, New Zealand: 9.624"
+        2008: "United States: 15.301, Switzerland: 10.151, Germany: 10.157, France: 10.514, Sweden: 8.303, Canada: 9.639, Norway: 7.956, Netherlands: 9.277, United Kingdom: 7.646, Australia: 8.256, New Zealand: 9.114"
+        2007: "United States: 14.926, Switzerland: 10.016, Germany: 9.971, France: 10.335, Sweden: 8.064, Canada: 9.476, Norway: 8.048, Netherlands: 9.053, United Kingdom: 7.406, Australia: 8.068, New Zealand: 8.321"
+        2006: "United States: 14.703, Switzerland: 10.214, Germany: 10.117, France: 10.398, Sweden: 8.151, Canada: 9.375, Norway: 7.916, Netherlands: 9.081, United Kingdom: 7.308, Australia: 7.989, New Zealand: 8.633"
+        2005: "United States: 14.606, Switzerland: 10.822, Germany: 10.228, France: 10.215, Sweden: 8.268, Canada: 9.035, Norway: 8.333, Netherlands: 9.097, United Kingdom: 7.175, Australia: 7.99, New Zealand: 8.273"
+        2004: "United States: 14.61, Switzerland: 11.004, Germany: 10.08, France: 10.164, Sweden: 8.252, Canada: 9.066, Norway: 8.826, Netherlands: 9.111, United Kingdom: 7.036, Australia: 8.109, New Zealand: 7.901"
+        2003: "United States: 14.522, Switzerland: 10.936, Germany: 10.338, France: 10.083, Sweden: 8.453, Canada: 9.011, Norway: 9.219, Netherlands: 9.057, United Kingdom: 6.833, Australia: 7.904, New Zealand: 7.722"
+        2002: "United States: 14.007, Switzerland: 10.641, Germany: 10.117, France: 10.022, Sweden: 8.349, Canada: 8.857, Norway: 9.005, Netherlands: 8.649, United Kingdom: 6.568, Australia: 7.893, New Zealand: 7.9"
+        2001: "United States: 13.219, Switzerland: 10.231, Germany: 9.872, France: 9.706, Sweden: 8.022, Canada: 8.625, Norway: 8.021, Netherlands: 8.059, United Kingdom: 6.311, Australia: 7.696, New Zealand: 7.579"
+        2000: "United States: 12.542, Switzerland: 9.844, Germany: 9.837, France: 9.584, Sweden: 7.402, Canada: 8.248, Norway: 7.709, Netherlands: 7.707, United Kingdom: 5.972, Australia: 7.614, New Zealand: 7.47"
+        1990: "United States: 11.304, Switzerland: 7.852, Germany: 8.031, France: 7.997, Sweden: 7.248, Canada: 8.364, Norway: 7.075, Netherlands: 6.992, United Kingdom: 5.09, Australia: 6.48, New Zealand: 6.664"
+        1980: "United States: 8.241, Switzerland: 6.631, Germany: 8.098, France: 6.759, Sweden: 7.827, Canada: 6.536, Norway: 5.41, Netherlands: 6.514, United Kingdom: 5.063, Australia: 5.83, New Zealand: 5.762"
 
-  ? data_reflect_current_expenditures_on_health_per_capita,_adjusted_using_US$_purchasing_power_parities_(PPPs),_for_2018_or_the_most_recent_year
-  : source: "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/us-health-care-global-perspective-2019#:~:text=Data%3A%20OECD%20Health%20Statistics%202019.&text=In%202018%2C%20the%20U.S.%20spent,%2C%20Switzerland%2C%20spent%2012.2%20percent."
-    data_related_to_countries:
-      united_states: "public_spending: $4,993, private_spending: $4,092, out_of_pocket_spending: $1,122"
-      new_zealand: "public_spending: $3,108, private_spending: $309, out_of_pocket_spending: $506"
-      united_kingdom: "public_spending: $3,107, private_spending: $207, out_of_pocket_spending: $629"
-      australia: "public_spending: $3,132, private_spending: $597, out_of_pocket_spending: $837"
-      france: "public_spending: $4,111, private_spending: $357, out_of_pocket_spending: $463"
-      netherlands: "public_spending: $4,343, private_spending: $376, out_of_pocket_spending: $570"
-      sweden: "public_spending: $4,569, private_spending: $71, out_of_pocket_spending: $807"
-      germany: "public_spending: $5,056, private_spending: $192, out_of_pocket_spending: $738"
-      norway: "public_spending: $5,289, private_spending: $21, out_of_pocket_spending: $877"
-      switzerland: "public_spending: $4,545, private_spending: $533, out_of_pocket_spending: $2,069"
+    data_reflect_current_expenditures_on_health_per_capita,_adjusted_using_US$_purchasing_power_parities_(PPPs),_for_2018_or_the_most_recent_year: 
+      source: "https://www.commonwealthfund.org/publications/issue-briefs/2020/jan/us-health-care-global-perspective-2019#:~:text=Data%3A%20OECD%20Health%20Statistics%202019.&text=In%202018%2C%20the%20U.S.%20spent,%2C%20Switzerland%2C%20spent%2012.2%20percent."
+      data_related_to_countries:
+        united_states: "public_spending: $4,993, private_spending: $4,092, out_of_pocket_spending: $1,122"
+        new_zealand: "public_spending: $3,108, private_spending: $309, out_of_pocket_spending: $506"
+        united_kingdom: "public_spending: $3,107, private_spending: $207, out_of_pocket_spending: $629"
+        australia: "public_spending: $3,132, private_spending: $597, out_of_pocket_spending: $837"
+        france: "public_spending: $4,111, private_spending: $357, out_of_pocket_spending: $463"
+        netherlands: "public_spending: $4,343, private_spending: $376, out_of_pocket_spending: $570"
+        sweden: "public_spending: $4,569, private_spending: $71, out_of_pocket_spending: $807"
+        germany: "public_spending: $5,056, private_spending: $192, out_of_pocket_spending: $738"
+        norway: "public_spending: $5,289, private_spending: $21, out_of_pocket_spending: $877"
+        switzerland: "public_spending: $4,545, private_spending: $533, out_of_pocket_spending: $2,069"
 
-  current_health_expenditure_per_capita_(current_US$):
-    source: "https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?end=2018&most_recent_value_desc=true&start=2014&view=chart"
-    per_capita_healthcare_spending:
-      united_states: "2018: $10,623.8, 2017: $10,209.6, 2016: $9,877.9, 2015: $9,491.1, 2014: $9,023.6, 2013: $8,599.5, $8,399.2, 2011: $8,130.8, 2010: $7,930.2, 2009: $7,681.2, 2008: $7,410.7, 2007: $7,172.2, 2006: $6,821.1, 2005: $6,454.7, 2004: $6,103.6, 2003: $5,741.3, 2002: $5,332.5, 2001: $4,914.9, 2000: $4,564.5"
+    current_health_expenditure_per_capita_(current_US$):
+      source: "https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?end=2018&most_recent_value_desc=true&start=2014&view=chart"
+      per_capita_healthcare_spending:
+        united_states: "2018: $10,623.8, 2017: $10,209.6, 2016: $9,877.9, 2015: $9,491.1, 2014: $9,023.6, 2013: $8,599.5, $8,399.2, 2011: $8,130.8, 2010: $7,930.2, 2009: $7,681.2, 2008: $7,410.7, 2007: $7,172.2, 2006: $6,821.1, 2005: $6,454.7, 2004: $6,103.6, 2003: $5,741.3, 2002: $5,332.5, 2001: $4,914.9, 2000: $4,564.5"
 
-      australia: "2018: $5,425.3, 2017: $5,308.8, 2016: $4,971.6, 2015: $4,860.4, 2014: $5,607.9, 2013: $5,814.0, 2012: $6,025.3, 2011: $5,861.7, 2010: $4,945.0, 2009: $3,995.3, 2008: $4,090.8, 2007: $3,799.7, 2006: $3,184.8, 2005: $3,013.1, 2004: $2,767.1, 2003: $2,249.3, 2002: $1,770.5, 2001: $1,564.2, 2000: $1,638.8"
+        australia: "2018: $5,425.3, 2017: $5,308.8, 2016: $4,971.6, 2015: $4,860.4, 2014: $5,607.9, 2013: $5,814.0, 2012: $6,025.3, 2011: $5,861.7, 2010: $4,945.0, 2009: $3,995.3, 2008: $4,090.8, 2007: $3,799.7, 2006: $3,184.8, 2005: $3,013.1, 2004: $2,767.1, 2003: $2,249.3, 2002: $1,770.5, 2001: $1,564.2, 2000: $1,638.8"
 
-      austria: "2018: $5,326.4, 2017: $4,938.0, 2016: $4,709.9, 2015: $4,612.8, 2014: $5,393.6, 2013: $5,235.3, 2012: $4,966.1, 2011: $5,167.8, 2010: $4,800.8, 2009: $4,929.0, 2008: $5,057.8, 2007: $4,478.8, 2006: $3,883.0, 2005: $3,710.4, 2004: $3,594.7, 2003: $3,091.2, 2002: $2,497.9, 2001: $2,282.5, 2000: $2,269.1"
+        austria: "2018: $5,326.4, 2017: $4,938.0, 2016: $4,709.9, 2015: $4,612.8, 2014: $5,393.6, 2013: $5,235.3, 2012: $4,966.1, 2011: $5,167.8, 2010: $4,800.8, 2009: $4,929.0, 2008: $5,057.8, 2007: $4,478.8, 2006: $3,883.0, 2005: $3,710.4, 2004: $3,594.7, 2003: $3,091.2, 2002: $2,497.9, 2001: $2,282.5, 2000: $2,269.1"
 
-      belgium: "2018: $4,912.7, 2017: $4,618.2, 2016: $4,328.8, 2015: $4,290.0, 2014: $4,999.2, 2013: $4,947.9, 2012: $4,706.6, 2011: $4,943.8, 2010: $4,545.0, 2009: $4,653.9, 2008: $4,671.6, 2007: $4,078.6, 2006: $3,558.5, 2005: $3,420.1, 2004: $3,326.5, 2003: $2,828.2, 2002: $2,084.7, 2001: $1,879.9, 2000: $1,849.9"
+        belgium: "2018: $4,912.7, 2017: $4,618.2, 2016: $4,328.8, 2015: $4,290.0, 2014: $4,999.2, 2013: $4,947.9, 2012: $4,706.6, 2011: $4,943.8, 2010: $4,545.0, 2009: $4,653.9, 2008: $4,671.6, 2007: $4,078.6, 2006: $3,558.5, 2005: $3,420.1, 2004: $3,326.5, 2003: $2,828.2, 2002: $2,084.7, 2001: $1,879.9, 2000: $1,849.9"
 
-      canada: "2018: $4,994.9, 2017: $4,845.6, 2016: $4,610.9, 2015: $4,615.6, 2014: $5,189.8, 2013: $5,409.8, 2012: $5,460.0, 2011: $5,355.7, 2010: $5,048.3, 2009: $4,357.2, 2008: $4,459.9,2007: $4,199.3, 2006: $3,778.3, 2005: $3,296.5, 2004: $2,925.1, 2003: $2,562.9, 2002: $2,159.3, 2001: $2,063.9, 2000: $2,007.9"
+        canada: "2018: $4,994.9, 2017: $4,845.6, 2016: $4,610.9, 2015: $4,615.6, 2014: $5,189.8, 2013: $5,409.8, 2012: $5,460.0, 2011: $5,355.7, 2010: $5,048.3, 2009: $4,357.2, 2008: $4,459.9,2007: $4,199.3, 2006: $3,778.3, 2005: $3,296.5, 2004: $2,925.1, 2003: $2,562.9, 2002: $2,159.3, 2001: $2,063.9, 2000: $2,007.9"
 
-      denmark: "2018: $6,216.8, 2017: $5,800.2, 2016: $5,565.6, 2015: $5,469.3, 2014: $6,380.8, 2013: $6,236.6, 2012: $6,003.8, 2011: $6,281.0, 2010: $6,011.5, 2009: $6,221.7, 2008: $6,137.8,2007: $5,468.4, 2006: $4,778.9, 2005: $4,442.8, 2004: $4,194.9, 2003: $3,607.0, 2002: $2,895.8, 2001: $2,602.6, 2000: $2,496.0"
+        denmark: "2018: $6,216.8, 2017: $5,800.2, 2016: $5,565.6, 2015: $5,469.3, 2014: $6,380.8, 2013: $6,236.6, 2012: $6,003.8, 2011: $6,281.0, 2010: $6,011.5, 2009: $6,221.7, 2008: $6,137.8,2007: $5,468.4, 2006: $4,778.9, 2005: $4,442.8, 2004: $4,194.9, 2003: $3,607.0, 2002: $2,895.8, 2001: $2,602.6, 2000: $2,496.0"
 
-      france: "2018: $4,690.1, 2017: $4,424.5, 2016: $4,268.2, 2015: $4,208.4, 2014: $4,998.7, 2013: $4,901.9, 2012: $4,651.1, 2011: $4,939.3, 2010: $4,598.3, 2009: $4,741.4, 2008: $4,812.5,2007: $4,318.7, 2006: $3,814.3, 2005: $3,575.0, 2004: $3,458.6, 2003: $3,006.3, 2002: $2,449.8, 2001: $2,192.7, 2000: $2,161.9"
+        france: "2018: $4,690.1, 2017: $4,424.5, 2016: $4,268.2, 2015: $4,208.4, 2014: $4,998.7, 2013: $4,901.9, 2012: $4,651.1, 2011: $4,939.3, 2010: $4,598.3, 2009: $4,741.4, 2008: $4,812.5,2007: $4,318.7, 2006: $3,814.3, 2005: $3,575.0, 2004: $3,458.6, 2003: $3,006.3, 2002: $2,449.8, 2001: $2,192.7, 2000: $2,161.9"
 
-      germany: "2018: $5,472.2, 2017: $5,052.7, 2016: $4,742.0, 2015: $4,622.2, 2014: $5,304.3, 2013: $5,096.8, 2012: $4,762.8, 2011: $5,036.5, 2010: $4,611.8, 2009: $4,674.8, 2008: $4,669.6, 2007: $4,182.8, 2006: $3,697.9, 2005: $3,558.2, 2004: $3,459.8, 2003: $3,152.8, 2002: $2,567.5, 2001: $2,346.6, 2000: $2,344.4"
+        germany: "2018: $5,472.2, 2017: $5,052.7, 2016: $4,742.0, 2015: $4,622.2, 2014: $5,304.3, 2013: $5,096.8, 2012: $4,762.8, 2011: $5,036.5, 2010: $4,611.8, 2009: $4,674.8, 2008: $4,669.6, 2007: $4,182.8, 2006: $3,697.9, 2005: $3,558.2, 2004: $3,459.8, 2003: $3,152.8, 2002: $2,567.5, 2001: $2,346.6, 2000: $2,344.4"
 
-      ireland: "2018: $5,489.1, 2017: $5,019.7, 2016: $4,717.6, 2015: $4,561.7, 2014: $5,399.6, 2013: $5,331.6, 2012: $5,239.3, 2011: $5,570.7, 2010: $5,133.5, 2009: $5,502.9, 2008: $5,638.8, 2007: $4,858.6, 2006: $4,147.1, 2005: $3,938.2, 2004: $3,483.2, 2003: $2,910.9, 2002: $2,200.4, 2001: $1,823.7, 2000: $1,564.8"
+        ireland: "2018: $5,489.1, 2017: $5,019.7, 2016: $4,717.6, 2015: $4,561.7, 2014: $5,399.6, 2013: $5,331.6, 2012: $5,239.3, 2011: $5,570.7, 2010: $5,133.5, 2009: $5,502.9, 2008: $5,638.8, 2007: $4,858.6, 2006: $4,147.1, 2005: $3,938.2, 2004: $3,483.2, 2003: $2,910.9, 2002: $2,200.4, 2001: $1,823.7, 2000: $1,564.8"
 
-      iceland: "2018: $6,530.9, 2017: $6,109.9, 2016: $5,067.7, 2015: $4,281.6, 2014: $4,474.4, 2013: $4,028.8, 2012: $3,705.4, 2011: $3,866.7, 2010: $3,644.8, 2009: $3,693.6, 2008: $4,946.1, 2007: $6,085.5, 2006: $5,071.9, 2005: $5,213.5, 2004: $4,498.0, 2003: $3,955.0, 2002: $3,091.3, 2001: $2,557.3, 2000: $2,873.8"
+        iceland: "2018: $6,530.9, 2017: $6,109.9, 2016: $5,067.7, 2015: $4,281.6, 2014: $4,474.4, 2013: $4,028.8, 2012: $3,705.4, 2011: $3,866.7, 2010: $3,644.8, 2009: $3,693.6, 2008: $4,946.1, 2007: $6,085.5, 2006: $5,071.9, 2005: $5,213.5, 2004: $4,498.0, 2003: $3,955.0, 2002: $3,091.3, 2001: $2,557.3, 2000: $2,873.8"
 
-      israel: "2018: $3,323.7, 2017: $3,212.8, 2016: $2,813.3, 2015: $2,670.5, 2014: $2,819.6, 2013: $2,678.4, 2012: $2,402.9, 2011: $2,437.0, 2010: $2,234.9, 2009: $2,039.0, 2008: $2,144.8, 2007: $1,799.7, 2006: $1,593.6, 2005: $1,555.0, 2004: $1,488.2, 2003: $1,433.7, 2002: $1,403.3, 2001: $1,559.1, 2000: $1,513.9"
+        israel: "2018: $3,323.7, 2017: $3,212.8, 2016: $2,813.3, 2015: $2,670.5, 2014: $2,819.6, 2013: $2,678.4, 2012: $2,402.9, 2011: $2,437.0, 2010: $2,234.9, 2009: $2,039.0, 2008: $2,144.8, 2007: $1,799.7, 2006: $1,593.6, 2005: $1,555.0, 2004: $1,488.2, 2003: $1,433.7, 2002: $1,403.3, 2001: $1,559.1, 2000: $1,513.9"
 
-      luxembourg: "2018: $6,227.1, 2017: $5,713.1, 2016: $5,475.1, 2015: $5,421.9, 2014: $6,547.0, 2013: $6,356.6, 2012: $6,029.5, 2011: $7,174.7, 2010: $7,459.8, 2009: $7,670.6, 2008: $7,578.7, 2007: $6,671.3, 2006: $6,070.7, 2005: $5,818.1, 2004: $5,610.4, 2003: $4,607.4, 2002: $3,600.9, 2001: $3,109.2, 2000: $2,901.2"
+        luxembourg: "2018: $6,227.1, 2017: $5,713.1, 2016: $5,475.1, 2015: $5,421.9, 2014: $6,547.0, 2013: $6,356.6, 2012: $6,029.5, 2011: $7,174.7, 2010: $7,459.8, 2009: $7,670.6, 2008: $7,578.7, 2007: $6,671.3, 2006: $6,070.7, 2005: $5,818.1, 2004: $5,610.4, 2003: $4,607.4, 2002: $3,600.9, 2001: $3,109.2, 2000: $2,901.2"
 
-      netherlands: "2018: $5,306.5, 2017: $4,910.9, 2016: $4,734.8, 2015: $4,676.6, 2014: $5,601.9, 2013: $5,532.7, 2012: $5,284.6, 2011: $5,562.1, 2010: $5,191.7, 2009: $5,282.7, 2008: $5,382.4, 2007: $4,696.1, 2006: $4,080.2, 2005: $3,823.5, 2004: $3,689.5, 2003: $3,244.4, 2002: $2,544.8, 2001: $2,175.7, 2000: $2,028.2"
+        netherlands: "2018: $5,306.5, 2017: $4,910.9, 2016: $4,734.8, 2015: $4,676.6, 2014: $5,601.9, 2013: $5,532.7, 2012: $5,284.6, 2011: $5,562.1, 2010: $5,191.7, 2009: $5,282.7, 2008: $5,382.4, 2007: $4,696.1, 2006: $4,080.2, 2005: $3,823.5, 2004: $3,689.5, 2003: $3,244.4, 2002: $2,544.8, 2001: $2,175.7, 2000: $2,028.2"
 
-      new_zealand: "2018: $4,037.5, 2017: $3,940.4, 2016: $3,746.5, 2015: $3,582.3, 2014: $4,143.8, 2013: $3,954.7, 2012: $3,806.0, 2011: $3,625.8, 2010: $3,216.2, 2009: $2,701.0, 2008: $2,839.2, 2007: $2,699.4, 2006: $2,301.9, 2005: $2,295.2, 2004: $1,983.7, 2003: $1,610.9, 2002: $1,246.3, 2001: $1,049.4, 2000: $1,053.9"
+        new_zealand: "2018: $4,037.5, 2017: $3,940.4, 2016: $3,746.5, 2015: $3,582.3, 2014: $4,143.8, 2013: $3,954.7, 2012: $3,806.0, 2011: $3,625.8, 2010: $3,216.2, 2009: $2,701.0, 2008: $2,839.2, 2007: $2,699.4, 2006: $2,301.9, 2005: $2,295.2, 2004: $1,983.7, 2003: $1,610.9, 2002: $1,246.3, 2001: $1,049.4, 2000: $1,053.9"
 
-      norway: "2018: $8,239.1, 2017: $7,815.8, 2016: $7,496.8, 2015: $7,565.5, 2014: $9,118.3, 2013: $9,241.3, 2012: $8,970.1, 2011: $8,900.4, 2010: $7,859.5, 2009: $7,302.0, 2008: $7,768.1, 2007: $6,895.6, 2006: $5,893.0, 2005: $5,584.7, 2004: $5,097.3, 2003: $4,632.6, 2002: $3,890.0, 2001: $3,099.0, 2000: $2,948.9"
+        norway: "2018: $8,239.1, 2017: $7,815.8, 2016: $7,496.8, 2015: $7,565.5, 2014: $9,118.3, 2013: $9,241.3, 2012: $8,970.1, 2011: $8,900.4, 2010: $7,859.5, 2009: $7,302.0, 2008: $7,768.1, 2007: $6,895.6, 2006: $5,893.0, 2005: $5,584.7, 2004: $5,097.3, 2003: $4,632.6, 2002: $3,890.0, 2001: $3,099.0, 2000: $2,948.9"
 
-      switzerland: "2018: $9,870.7, 2017: $9,606.3, 2016: $9,439.4, 2015: $9,382.8, 2014: $9,578.6, 2013: $9,275.8, 2012: $8,917.1, 2011: $9,192.0, 2010: $7,705.2, 2009: $7,297.4, 2008: $7,120.7, 2007: $6,154.7, 2006: $5,672.0, 2005: $5,673.9, 2004: $5,608.7, 2003: $5,018.5, 2002: $4,211.7, 2001: $3,763.4, 2000: $3,559.8"
+        switzerland: "2018: $9,870.7, 2017: $9,606.3, 2016: $9,439.4, 2015: $9,382.8, 2014: $9,578.6, 2013: $9,275.8, 2012: $8,917.1, 2011: $9,192.0, 2010: $7,705.2, 2009: $7,297.4, 2008: $7,120.7, 2007: $6,154.7, 2006: $5,672.0, 2005: $5,673.9, 2004: $5,608.7, 2003: $5,018.5, 2002: $4,211.7, 2001: $3,763.4, 2000: $3,559.8"
 
-      united_kingdom: "2018: $4,315.4, 2017: $3,978.6, 2016: $4,066.1, 2015: $4,472.5, 2014: $4,740.9, 2013: $4,350.3, 2012: $4,282.0, 2011: $4,208.4, 2010: $3,955.5, 2009: $3,892.0, 2008: $4,351.3, 2007: $4,505.5, 2006: $3,893.6, 2005: $3,599.9, 2004: $3,429.6, 2003: $2,833.7, 2002: $2,417.1, 2001: $2,128.3, 2000: $2,054.2"
+        united_kingdom: "2018: $4,315.4, 2017: $3,978.6, 2016: $4,066.1, 2015: $4,472.5, 2014: $4,740.9, 2013: $4,350.3, 2012: $4,282.0, 2011: $4,208.4, 2010: $3,955.5, 2009: $3,892.0, 2008: $4,351.3, 2007: $4,505.5, 2006: $3,893.6, 2005: $3,599.9, 2004: $3,429.6, 2003: $2,833.7, 2002: $2,417.1, 2001: $2,128.3, 2000: $2,054.2"
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
@@ -1067,4 +1067,6 @@ years_covered:
       - from: 1960
       - to: 2018
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"

@@ -44,21 +44,21 @@ author:
 
 # {~C~} This describes the problem.  You may want to edit this in your proposal. {~C~}
 describe_problem_area: |
-  Medicare is a U.S. national health insurance program that provides medical insurance primarily for those aged 65 and up. 
+    Medicare is a U.S. national health insurance program that provides medical insurance primarily for those aged 65 and up. 
 
-  Medicare Part D of Medicare provides prescription drug coverage. Congress passed a law (the non-interference clause) that prohibited Medicare from being able to negotiate drug prices, requiring accepting the price the drug companies offered.
+    Medicare Part D of Medicare provides prescription drug coverage. Congress passed a law (the non-interference clause) that prohibited Medicare from being able to negotiate drug prices, requiring accepting the price the drug companies offered.
 
-  The question is: has the non-interference clause in Medicare Part D caused excessive spending of taxpayer money and brought extra profits to the pharmaceutical industry?  Has this rigged the economy in favor of the pharmaceutical industry, and resulted in excessive spending of taxpayer money?
+    The question is: has the non-interference clause in Medicare Part D caused excessive spending of taxpayer money and brought extra profits to the pharmaceutical industry?  Has this rigged the economy in favor of the pharmaceutical industry, and resulted in excessive spending of taxpayer money?
 
-  In the ten years between 2007 and 2017, the cost to the US government for just the Part D prescription drug coverage alone was just under $1 trillion. With blocked (or limited) ability to negotiate drug prices, the issue to vote on is IF this causes "theft" by extra profit for the pharmaceutical industry that sets the prices since negotation is banned (or reduced).
+    In the ten years between 2007 and 2017, the cost to the US government for just the Part D prescription drug coverage alone was just under $1 trillion. With blocked (or limited) ability to negotiate drug prices, the issue to vote on is IF this causes "theft" by extra profit for the pharmaceutical industry that sets the prices since negotation is banned (or reduced).
 
-  If you approximated a negotiated 15% reduction in price would represent a savings of $150 billion. Or to put it another way, you are voting on if the Pharmaceutical Industry STOLE at least $150 billion from taxpayers over that decade.
+    If you approximated a negotiated 15% reduction in price would represent a savings of $150 billion. Or to put it another way, you are voting on if the Pharmaceutical Industry STOLE at least $150 billion from taxpayers over that decade.
 
-  Medicare was started in 1966 under the Social Security Administration (SSA) and now administered by the Centers for Medicare and Medicaid Services (CMS). It provides medical insurance for those aged 65+, or those receiving  Social Security Disability Insurance (SSDI) for a certain amount of time, or with End-Stage Renal Disease (ESRD). 
+    Medicare was started in 1966 under the Social Security Administration (SSA) and now administered by the Centers for Medicare and Medicaid Services (CMS). It provides medical insurance for those aged 65+, or those receiving  Social Security Disability Insurance (SSDI) for a certain amount of time, or with End-Stage Renal Disease (ESRD). 
 
-  It has 4 parts: Part A (Hospital/Hospice Insurance), Part B. (Medical Insurance), Part C (Medicare Advantage) and Part D (Prescription Drug Coverage). 
+    It has 4 parts: Part A (Hospital/Hospice Insurance), Part B. (Medical Insurance), Part C (Medicare Advantage) and Part D (Prescription Drug Coverage). 
 
-  Medicare Part D's prescription drug benefit has offered affordable coverage to millions of elderly Americans since its January 2006 implementation. Part D has given millions of low-income elderly Americans the ability to obtain drugs that are vital to their health and continued longevity. The estimated cost of that access, however, is substantial: just under $1 trillion in cumulative Medicare spending between 2007 and 2017.
+    Medicare Part D's prescription drug benefit has offered affordable coverage to millions of elderly Americans since its January 2006 implementation. Part D has given millions of low-income elderly Americans the ability to obtain drugs that are vital to their health and continued longevity. The estimated cost of that access, however, is substantial: just under $1 trillion in cumulative Medicare spending between 2007 and 2017.
 
 # {~C~} The following are questions you may want to answer in building your case. {~C~}
 # {~C~} Your reasoning should provide a strong case for how the economy is being rigged against citizens. {~C~}
@@ -276,4 +276,6 @@ years_covered:
       - from: 1970
       - to: 2019
 
-license: CREATIVE COMMONS - CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license: 
+    source: "CREATIVE COMMONS - CC BY 4.0"
+    url: "https://creativecommons.org/licenses/by/4.0/"
