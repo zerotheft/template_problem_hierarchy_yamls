@@ -133,101 +133,101 @@ reasoning_on_size_of_problem:
 # {~C~} This section contains the results of research to find relevant data that may be useful in backing up your reasoning. {~C~}
 size_of_problem:
     annual_incremental_estimated_losses_in_productive_capital_associated_with_the_s&l_crisis (1981-1992): #Capital Loss (Billions of 1990 dollars):
-    source: "Congressional Budget Office"
-    url: https://www.cbo.gov/sites/default/files/102nd-congress-1991-1992/reports/1992_01_theeconeffectsofthesavings.pdf
-    note: "These estimates are based on CBO's projections of losses in failed thrifts through 1995. CEO assumes that losses in productive capital occurred three years before the measurement of losses in failed thrifts."
-    capital_loss:
-      1992: 7.75 billion ($7,750,000,000)
-      1991: 31.78 billion ($31,780,000,000)
-      1990: 41.20 billion ($41,200,000,000)
-      1989: 49.86 billion ($49,860,000,000)
-      1988: 41.70 billion ($41,700,000,000)
-      1987: 43.21 billion ($43,210,000,000)
-      1986: 25.43 billion ($25,430,000,000)
-      1985: 50.80 billion ($50,800,000,000)
-      1984: 34.45 billion ($34,450,000,000)
-      1983: 28.08 billion ($28,280,000,000)
-      1982: 22.35 billion ($22,350,000,000)
-      1981: 21.82 billion ($21,820,000,000)
+      source: "Congressional Budget Office"
+      url: https://www.cbo.gov/sites/default/files/102nd-congress-1991-1992/reports/1992_01_theeconeffectsofthesavings.pdf
+      note: "These estimates are based on CBO's projections of losses in failed thrifts through 1995. CEO assumes that losses in productive capital occurred three years before the measurement of losses in failed thrifts."
+      capital_loss:
+        1992: 7.75 billion ($7,750,000,000)
+        1991: 31.78 billion ($31,780,000,000)
+        1990: 41.20 billion ($41,200,000,000)
+        1989: 49.86 billion ($49,860,000,000)
+        1988: 41.70 billion ($41,700,000,000)
+        1987: 43.21 billion ($43,210,000,000)
+        1986: 25.43 billion ($25,430,000,000)
+        1985: 50.80 billion ($50,800,000,000)
+        1984: 34.45 billion ($34,450,000,000)
+        1983: 28.08 billion ($28,280,000,000)
+        1982: 22.35 billion ($22,350,000,000)
+        1981: 21.82 billion ($21,820,000,000)
 
-  no_of_s&l_failures:
-    source: 1999 Fact Book -A Statistical Profile on the United States Thrift Industry. (Washington, D.C.- Office of Thrift Supervision, June 2000), 1, 4.
-    url: https://eh.net/encyclopedia/savings-and-loan-industry-u-s/
-    s&l_failed_in_the_given_year_with_industry_assets:
-      1989: "327, industry_assets: $135,245,000,000 ($135.2 billion)"
-      1988: "205, industry_assets: $100,705,000,000 ($100.7 billion)"
-      1986-1987: "118, industry_assets: $32,248,000,000 ($32.2 billion)"
-      1983-1985: "137, industry_assets: $39,136,000,000 ($39.1 billion)"
-      1980-1982: "118, industry_assets: $43,101,000,000 ($43.1 billion)"
+    no_of_s&l_failures:
+      source: 1999 Fact Book -A Statistical Profile on the United States Thrift Industry. (Washington, D.C.- Office of Thrift Supervision, June 2000), 1, 4.
+      url: https://eh.net/encyclopedia/savings-and-loan-industry-u-s/
+      s&l_failed_in_the_given_year_with_industry_assets:
+        1989: "327, industry_assets: $135,245,000,000 ($135.2 billion)"
+        1988: "205, industry_assets: $100,705,000,000 ($100.7 billion)"
+        1986-1987: "118, industry_assets: $32,248,000,000 ($32.2 billion)"
+        1983-1985: "137, industry_assets: $39,136,000,000 ($39.1 billion)"
+        1980-1982: "118, industry_assets: $43,101,000,000 ($43.1 billion)"
 
-    total_number_of_s&l_in_the_given_year_with_industry_assets:
-      1989: "2616, industry_assets: $1,186,906,000,000 ($1.2 trillion)"
-      1988: "2969, industry_assets: $1,368,843,000,000 ($1.4 trillion)"
-      1985: "3274, industry_assets: $1,109,789,000,000 ($1.1 trillion)"
-      1983: "3146, industry_assets: $813,770,000,000 ($813.8 billion)"
-      1980: "3993, industry_assets: $603,777,000,000 ($603.8 billion)"
-      1979: "4709, industry_assets: $579,307,000,000 ($579.3 billion)"
-      1974: "5023, industry_assets: $295,545,000,000 ($295.5 billion)"
-      1970: "5669, industry_assets: $176,183,000,000 ($176.2 billion)"
-      1965: "6071, industry_assets: $129,442,000,000 ($129.4 billion)"
-      1959: "6223, industry_assets: $63,401,000,000 ($63.4 billion)"
-      1952: "6004, industry_assets: $22,585,000,000 ($22.6 billion)"
-      1945: "6149, industry_assets: $8,747,000,000 ($8.7 billion)"
+      total_number_of_s&l_in_the_given_year_with_industry_assets:
+        1989: "2616, industry_assets: $1,186,906,000,000 ($1.2 trillion)"
+        1988: "2969, industry_assets: $1,368,843,000,000 ($1.4 trillion)"
+        1985: "3274, industry_assets: $1,109,789,000,000 ($1.1 trillion)"
+        1983: "3146, industry_assets: $813,770,000,000 ($813.8 billion)"
+        1980: "3993, industry_assets: $603,777,000,000 ($603.8 billion)"
+        1979: "4709, industry_assets: $579,307,000,000 ($579.3 billion)"
+        1974: "5023, industry_assets: $295,545,000,000 ($295.5 billion)"
+        1970: "5669, industry_assets: $176,183,000,000 ($176.2 billion)"
+        1965: "6071, industry_assets: $129,442,000,000 ($129.4 billion)"
+        1959: "6223, industry_assets: $63,401,000,000 ($63.4 billion)"
+        1952: "6004, industry_assets: $22,585,000,000 ($22.6 billion)"
+        1945: "6149, industry_assets: $8,747,000,000 ($8.7 billion)"
 
-  estimated_cost_of_the_thrift_crisis:
-    source: cbo.gov/sites/default/files/cbofiles/ftpdocs/103xx/doc10378/1993_04_resolvingthrift.pdf
-    yearly_cost_of_resolution_in_dollar:
-      1993-1998: "current_dollar: $51,100 million, 1990_dollar: $41,700 million"
-      1992: "current_dollar: $7,172 million, 1990_dollar: $6,644 million"
-      1991: "current_dollar: $33,833 million, 1990_dollar: $32,429 million"
-      1990: "current_dollar: $38,383 million, 1990_dollar: $38,383 million"
-      1989: "current_dollar: $4,899 million, 1990_dollar: $5,164 million"
-      1988: "current_dollar: $35,790 million, 1990_dollar: $38,361 million"
-      1987: "current_dollar: $3,704 million, 1990_dollar: $4,258 million"
-      1986: "current_dollar: $3,066 million, 1990_dollar: $3,654 million"
-      1985: "current_dollar: $1,022 million, 1990_dollar: $1,242 million"
-      1984: "current_dollar: $743 million, 1990_dollar: $935 million"
-      1983: "current_dollar: $275 million, 1990_dollar: $361 million"
-      1982: "current_dollar: $806 million, 1990_dollar: $1,104 million"
-      1981: "current_dollar: $760 million, 1990_dollar: $1,106 million"
-      1980: "current_dollar: $166 million, 1990_dollar: $264 million"
+    estimated_cost_of_the_thrift_crisis:
+      source: cbo.gov/sites/default/files/cbofiles/ftpdocs/103xx/doc10378/1993_04_resolvingthrift.pdf
+      yearly_cost_of_resolution_in_dollar:
+        1993-1998: "current_dollar: $51,100 million, 1990_dollar: $41,700 million"
+        1992: "current_dollar: $7,172 million, 1990_dollar: $6,644 million"
+        1991: "current_dollar: $33,833 million, 1990_dollar: $32,429 million"
+        1990: "current_dollar: $38,383 million, 1990_dollar: $38,383 million"
+        1989: "current_dollar: $4,899 million, 1990_dollar: $5,164 million"
+        1988: "current_dollar: $35,790 million, 1990_dollar: $38,361 million"
+        1987: "current_dollar: $3,704 million, 1990_dollar: $4,258 million"
+        1986: "current_dollar: $3,066 million, 1990_dollar: $3,654 million"
+        1985: "current_dollar: $1,022 million, 1990_dollar: $1,242 million"
+        1984: "current_dollar: $743 million, 1990_dollar: $935 million"
+        1983: "current_dollar: $275 million, 1990_dollar: $361 million"
+        1982: "current_dollar: $806 million, 1990_dollar: $1,104 million"
+        1981: "current_dollar: $760 million, 1990_dollar: $1,106 million"
+        1980: "current_dollar: $166 million, 1990_dollar: $264 million"
 
-    estimated_direct_and_indirect_costs_of_resolving_the_savings_and_loan_crisis_and_related_funding_sources: 
-      source: https://www.gao.gov/assets/230/222902.pdf
-      estimated_direct_and_indirect_costs:
-        - direct_costs:
-            - resolution_trust_corporation: $87,900,000,000 ($87.9 billion)
-            - FSLIC_costs: $64,700,000,000 ($64.7 billion)
-            - supervisory_goodwill_claims: $0
-        - indirect_costs:
-            - tax_benefits_under_FSLIC_assistance_agreements: $7,500,000,000 ($7.5 billion)
-        - total_estimated_direct_and_indirect_costs: $160,100,000,000 ($160.1 billion)
-
-      known_and_estimated_interest_expense_related_to_the_savings_and_loan_crisis:
+      estimated_direct_and_indirect_costs_of_resolving_the_savings_and_loan_crisis_and_related_funding_sources: 
         source: https://www.gao.gov/assets/230/222902.pdf
-        known_and_estimated_interest_expense:
-          - known_interest_expense:
-              - interest_expense_on_FICO_bonds: $23,800,000,000 ($23.8 billion)
-              - interest_expense_on_REFCORP_bonds: $88,000,000,000 ($88 billion)
-              - total_known_interest_expense_on_bonds: $111,800,000,000 ($111.8 billion)
-          - estimated_interest_expense:
-              - estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
-              - total_estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
+        estimated_direct_and_indirect_costs:
+          - direct_costs:
+              - resolution_trust_corporation: $87,900,000,000 ($87.9 billion)
+              - FSLIC_costs: $64,700,000,000 ($64.7 billion)
+              - supervisory_goodwill_claims: $0
+          - indirect_costs:
+              - tax_benefits_under_FSLIC_assistance_agreements: $7,500,000,000 ($7.5 billion)
+          - total_estimated_direct_and_indirect_costs: $160,100,000,000 ($160.1 billion)
 
-    cost_of_the_s&l_bailout_by_the_year_2000:
-      source: http://www.ncpathinktank.org/pdfs/st155.pdf
-      data:
-        - old_cases_expense(up_to_jan_1990): $68,000,000,000 ($68 billion)
-        - new_cases_expense(after_jan_1990): $124,000,000,000 ($124 billion)
-        - savings_assoc_insurance_fund: $8,800,000,000 ($8.8 billion)
-        - administrative_costs: $19,000,000,000 ($19 billion)
-        - lost_tax_revenue_from_FSLIC_deals: $9,000,000,000 ($9 billion)
-        - zero_coupon_bonds_to_repay_non_tresury_debt: $11,000,000,000 ($11 billion)
-        - interest_expense:
-            - tresury_interest: $95,800,000,000 ($95.8 billion)
-            - non_treasury_interest: $92,700,000,000 ($92.7 billion)
-            - interest_on_working_capital: $28,000,000,000 ($28 billion)
-        - total: $456,300,000,000 ($456.3 billion)
+        known_and_estimated_interest_expense_related_to_the_savings_and_loan_crisis:
+          source: https://www.gao.gov/assets/230/222902.pdf
+          known_and_estimated_interest_expense:
+            - known_interest_expense:
+                - interest_expense_on_FICO_bonds: $23,800,000,000 ($23.8 billion)
+                - interest_expense_on_REFCORP_bonds: $88,000,000,000 ($88 billion)
+                - total_known_interest_expense_on_bonds: $111,800,000,000 ($111.8 billion)
+            - estimated_interest_expense:
+                - estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
+                - total_estimated_interest_expense_on_appropriations: $209,000,000,000 ($209 billion)
+
+      cost_of_the_s&l_bailout_by_the_year_2000:
+        source: http://www.ncpathinktank.org/pdfs/st155.pdf
+        data:
+          - old_cases_expense(up_to_jan_1990): $68,000,000,000 ($68 billion)
+          - new_cases_expense(after_jan_1990): $124,000,000,000 ($124 billion)
+          - savings_assoc_insurance_fund: $8,800,000,000 ($8.8 billion)
+          - administrative_costs: $19,000,000,000 ($19 billion)
+          - lost_tax_revenue_from_FSLIC_deals: $9,000,000,000 ($9 billion)
+          - zero_coupon_bonds_to_repay_non_tresury_debt: $11,000,000,000 ($11 billion)
+          - interest_expense:
+              - tresury_interest: $95,800,000,000 ($95.8 billion)
+              - non_treasury_interest: $92,700,000,000 ($92.7 billion)
+              - interest_on_working_capital: $28,000,000,000 ($28 billion)
+          - total: $456,300,000,000 ($456.3 billion)
 
 # {~C~} This section contains quotes that may be useful in backing up your reasoning. {~C~}
 quotes:
